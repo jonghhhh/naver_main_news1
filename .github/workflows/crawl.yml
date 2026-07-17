@@ -1,0 +1,49 @@
+name: Naver Press Main News Crawler
+
+on:
+  schedule:
+    # GitHub Actions cron은 UTC 기준. KST = UTC+9
+    # KST 08:00 → UTC 23:00 (전날)
+    - cron: "0 23 * * *"
+    # KST 13:00 → UTC 04:00
+    - cron: "0 4 * * *"
+    # KST 22:30 → UTC 13:30
+    - cron: "30 13 * * *"
+  workflow_dispatch:  # 수동 실행 버튼
+
+permissions:
+  contents: write
+
+concurrency:
+  group: crawl
+  cancel-in-progress: false
+
+jobs:
+  crawl:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install requests beautifulsoup4
+
+      - name: Run crawler
+        run: python crawl_press_news.py
+
+      - name: Commit & push data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "data: $(TZ=Asia/Seoul date '+%Y-%m-%d %H:%M KST')"
+            git pull --rebase origin main
+            git push
+          fi
