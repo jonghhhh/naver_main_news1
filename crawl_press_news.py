@@ -160,15 +160,25 @@ def crawl_all():
 
 
 def save(result, now):
-    date_dir = Path("data") / now.strftime("%Y-%m-%d")
-    date_dir.mkdir(parents=True, exist_ok=True)
-
     # 08:00 → 0800.json, 13:00 → 1300.json, 22:30 → 2230.json
-    # cron 지연을 감안해 가장 가까운 슬롯으로 스냅
+    # cron 지연을 감안해 가장 가까운 슬롯으로 스냅 (자정 넘김 대비 원형 거리)
     slots = [(8, 0), (13, 0), (22, 30)]
     cur = now.hour * 60 + now.minute
-    slot = min(slots, key=lambda s: abs(s[0] * 60 + s[1] - cur))
+
+    def circular_dist(s):
+        d = abs(s[0] * 60 + s[1] - cur)
+        return min(d, 1440 - d)
+
+    slot = min(slots, key=circular_dist)
     fname = f"{slot[0]:02d}{slot[1]:02d}.json"
+
+    # 22:30 실행이 자정을 넘겨 지연된 경우 → 전날 폴더에 귀속
+    date = now
+    if slot == (22, 30) and cur < 12 * 60:
+        date = now - timedelta(days=1)
+
+    date_dir = Path("data") / date.strftime("%Y-%m-%d")
+    date_dir.mkdir(parents=True, exist_ok=True)
 
     path = date_dir / fname
     with open(path, "w", encoding="utf-8") as f:
