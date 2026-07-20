@@ -1,0 +1,1933 @@
+{
+  "collected_at": "2026-07-21T08:49:11.270214+09:00",
+  "collected_at_kst": "2026-07-21 08:49:11",
+  "press_count": 35,
+  "presses": {
+    "국민일보": {
+      "oid": "005",
+      "url": "https://media.naver.com/press/005",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "‘매도 폭탄설’ 국민연금… 이달만 SK하이닉스 3700억 샀다",
+          "url": "https://n.news.naver.com/article/005/0001862066",
+          "oid": "005",
+          "aid": "0001862066"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "李 분당집 29억에 매도… “매수인 사정으로 18억 근저당”",
+          "url": "https://n.news.naver.com/article/005/0001862070",
+          "oid": "005",
+          "aid": "0001862070"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "트럼프 “이란, 미군 병사 죽일 때마다 몇배의 대가”…美, 열흘째 이란 공습",
+          "url": "https://n.news.naver.com/article/005/0001862126",
+          "oid": "005",
+          "aid": "0001862126"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "카레·햇반·참치캔까지 ‘도미노’ 인상… “서민 시름 커진다”",
+          "url": "https://n.news.naver.com/article/005/0001862069",
+          "oid": "005",
+          "aid": "0001862069"
+        },
+        {
+          "rank": 5,
+          "type": "headline",
+          "title": "[단독] 폭등장에 못 사고 부모찬스에 갈리고… 2030 불평등 역대 최악",
+          "url": "https://n.news.naver.com/article/005/0001862067",
+          "oid": "005",
+          "aid": "0001862067"
+        },
+        {
+          "rank": 6,
+          "type": "headline",
+          "title": "“어차피 못 사” “코인도 실패” 부동산 체념한 30대",
+          "url": "https://n.news.naver.com/article/005/0001862004",
+          "oid": "005",
+          "aid": "0001862004"
+        }
+      ],
+      "count": 6
+    },
+    "동아일보": {
+      "oid": "020",
+      "url": "https://media.naver.com/press/020",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "해외파견 정보요원 신상도 털렸을 가능성… 北 해킹 여부 조사",
+          "url": "https://n.news.naver.com/article/020/0003735261",
+          "oid": "020",
+          "aid": "0003735261"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "“지금 해보라는 줄”…이륙 앞둔 항공기 비상구 커버 떼낸 30대",
+          "url": "https://n.news.naver.com/article/020/0003735315",
+          "oid": "020",
+          "aid": "0003735315"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "“국민연금, 누구 하나 죽어야 정신 차려” 칼부림 예고글 수사 착수",
+          "url": "https://n.news.naver.com/article/020/0003735119",
+          "oid": "020",
+          "aid": "0003735119"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "추워서 얼씬도 안하던 동해에 ‘죠스 친구들’이 몰려온다",
+          "url": "https://n.news.naver.com/article/020/0003735311",
+          "oid": "020",
+          "aid": "0003735311"
+        },
+        {
+          "rank": 5,
+          "type": "headline",
+          "title": "경찰 장윤기 특별수사단, 경찰청 국수본 압수수색",
+          "url": "https://n.news.naver.com/article/020/0003735316",
+          "oid": "020",
+          "aid": "0003735316"
+        },
+        {
+          "rank": 6,
+          "type": "headline",
+          "title": "‘마운자로 원료’ 강자 품은 삼바, 281조원 비만약 시장 도전장",
+          "url": "https://n.news.naver.com/article/020/0003735291",
+          "oid": "020",
+          "aid": "0003735291"
+        }
+      ],
+      "count": 6
+    },
+    "문화일보": {
+      "oid": "021",
+      "url": "https://media.naver.com/press/021",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "블룸버그 “레버리지 ETF, 李 핵심 성과 가려”",
+          "url": "https://n.news.naver.com/article/021/0002805845",
+          "oid": "021",
+          "aid": "0002805845"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "“코스피 바닥은 6천피다…악재 반영해도 더 내려가기 힘들어” NH투자증권 진단",
+          "url": "https://n.news.naver.com/article/021/0002805824",
+          "oid": "021",
+          "aid": "0002805824"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "[속보]국수본 지시로 여청과 배당 의혹…장윤기 특수단, 국수본 압수수색",
+          "url": "https://n.news.naver.com/article/021/0002805840",
+          "oid": "021",
+          "aid": "0002805840"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "도봉 모텔로 10대女따라갔는데…들이닥친 남자들이 한 말",
+          "url": "https://n.news.naver.com/article/021/0002805801",
+          "oid": "021",
+          "aid": "0002805801"
+        },
+        {
+          "rank": 5,
+          "type": "photo",
+          "title": "맘다니 “네타냐후 9월 뉴욕방문시 체포 검토” 20시간전",
+          "url": "https://n.news.naver.com/article/021/0002805677",
+          "oid": "021",
+          "aid": "0002805677"
+        },
+        {
+          "rank": 6,
+          "type": "headline",
+          "title": "조갑제 “안철수, 장동혁 도움받아 당대표? 왜 이렇게 달라졌나”",
+          "url": "https://n.news.naver.com/article/021/0002805815",
+          "oid": "021",
+          "aid": "0002805815"
+        }
+      ],
+      "count": 6
+    },
+    "세계일보": {
+      "oid": "022",
+      "url": "https://media.naver.com/press/022",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "“역대 최대 실적도 소용없었다”…이달 33% 빠진 SK하이닉스, 반등 열쇠는? [숫자 뒤의 진실]",
+          "url": "https://n.news.naver.com/article/022/0004144545",
+          "oid": "022",
+          "aid": "0004144545"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "운동화 밑창 뜯으니 필로폰 10만명분… 경찰, 밀반입 일당 17명 검거",
+          "url": "https://n.news.naver.com/article/022/0004144564",
+          "oid": "022",
+          "aid": "0004144564"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "끊이지 않는 대형 물류센터 화재…최근 5년 피해액 1조원 넘어",
+          "url": "https://n.news.naver.com/article/022/0004144583",
+          "oid": "022",
+          "aid": "0004144583"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "“랩 씌웠으니 괜찮겠지?”…반쪽 수박, 냉장 보관 뒤 세균 최대 3000배",
+          "url": "https://n.news.naver.com/article/022/0004144543",
+          "oid": "022",
+          "aid": "0004144543"
+        },
+        {
+          "rank": 5,
+          "type": "photo",
+          "title": "충남, 발전공기업 통합본사 유치 잰걸음 2시간전",
+          "url": "https://n.news.naver.com/article/022/0004144574",
+          "oid": "022",
+          "aid": "0004144574"
+        },
+        {
+          "rank": 6,
+          "type": "photo",
+          "title": "오세훈 “청년 AI인재 일자리 확대 적극 노력” 2시간전",
+          "url": "https://n.news.naver.com/article/022/0004144569",
+          "oid": "022",
+          "aid": "0004144569"
+        }
+      ],
+      "count": 6
+    },
+    "조선일보": {
+      "oid": "023",
+      "url": "https://media.naver.com/press/023",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "착공 3년만에 가동… 日·대만 ‘TSMC 속도전’",
+          "url": "https://n.news.naver.com/article/023/0003988678",
+          "oid": "023",
+          "aid": "0003988678"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "미숙아 34년 추적했더니... 8세 때 IQ가 성인 삶 가장 잘 예측",
+          "url": "https://n.news.naver.com/article/023/0003988612",
+          "oid": "023",
+          "aid": "0003988612"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "“쿠팡에 맡긴 재고 다 탔다”... ‘로켓 그로스’ 판매자들 울분",
+          "url": "https://n.news.naver.com/article/023/0003988587",
+          "oid": "023",
+          "aid": "0003988587"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "장윤기, 고1부터 “봉고차로 여고생 납치할거야” 자주 말해",
+          "url": "https://n.news.naver.com/article/023/0003988659",
+          "oid": "023",
+          "aid": "0003988659"
+        },
+        {
+          "rank": 5,
+          "type": "headline",
+          "title": "경찰 장윤기 특별수사단, 경찰청 국수본 압수수색",
+          "url": "https://n.news.naver.com/article/023/0003988692",
+          "oid": "023",
+          "aid": "0003988692"
+        },
+        {
+          "rank": 6,
+          "type": "headline",
+          "title": "李 분당 집 매수자 잔금 모자라… 근저당 설정해 처리",
+          "url": "https://n.news.naver.com/article/023/0003988666",
+          "oid": "023",
+          "aid": "0003988666"
+        }
+      ],
+      "count": 6
+    },
+    "중앙일보": {
+      "oid": "025",
+      "url": "https://media.naver.com/press/025",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "공신 3인방 다 쳐냈다, 4연임 노리는 시진핑 ‘살벌한 한 달’",
+          "url": "https://n.news.naver.com/article/025/0003538918",
+          "oid": "025",
+          "aid": "0003538918"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "[속보] 검경, 국수본 동시 압수수색…“장윤기 증거인멸 관련”",
+          "url": "https://n.news.naver.com/article/025/0003538945",
+          "oid": "025",
+          "aid": "0003538945"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "카톡서 내 생일부터 숨겼다…MZ 덮친 ‘프렌드플레이션’",
+          "url": "https://n.news.naver.com/article/025/0003538913",
+          "oid": "025",
+          "aid": "0003538913"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "“SK하닉 덜고, 삼전과 이것 사라”…투자 고수 ‘새로 산 종목’",
+          "url": "https://n.news.naver.com/article/025/0003538910",
+          "oid": "025",
+          "aid": "0003538910"
+        },
+        {
+          "rank": 5,
+          "type": "photo",
+          "title": "동영상 뉴스",
+          "url": "https://n.news.naver.com/article/025/0003538685",
+          "oid": "025",
+          "aid": "0003538685"
+        },
+        {
+          "rank": 6,
+          "type": "photo",
+          "title": "동영상 뉴스",
+          "url": "https://n.news.naver.com/article/025/0003538752",
+          "oid": "025",
+          "aid": "0003538752"
+        }
+      ],
+      "count": 6
+    },
+    "한겨레": {
+      "oid": "028",
+      "url": "https://media.naver.com/press/028",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "[속보] ‘장윤기 사건’ 특수단, 경찰청 국수본 압수수색…“보고·지휘내용 확인”",
+          "url": "https://n.news.naver.com/article/028/0002814972",
+          "oid": "028",
+          "aid": "0002814972"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "트럼프 “미군 병사 죽일 때마다 몇 배로 대가”…열흘째 이란 공습",
+          "url": "https://n.news.naver.com/article/028/0002814970",
+          "oid": "028",
+          "aid": "0002814970"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "고민정 “86운동권 넘어 세대교체를…기득권은 그게 기득권인줄 몰라”",
+          "url": "https://n.news.naver.com/article/028/0002814968",
+          "oid": "028",
+          "aid": "0002814968"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "배재고 야구부 징계 ‘1개월 출전 정지’로 감경…봉황대기 출전",
+          "url": "https://n.news.naver.com/article/028/0002814954",
+          "oid": "028",
+          "aid": "0002814954"
+        },
+        {
+          "rank": 5,
+          "type": "headline",
+          "title": "한동훈 “민주당 의원 없어…보완수사 금지 토론 어렵게 됐다”",
+          "url": "https://n.news.naver.com/article/028/0002814694",
+          "oid": "028",
+          "aid": "0002814694"
+        },
+        {
+          "rank": 6,
+          "type": "headline",
+          "title": "추미애 “수사·기소 분리 후퇴는 반민주적 검찰 회귀”…수사권 부활 우려 표명",
+          "url": "https://n.news.naver.com/article/028/0002814685",
+          "oid": "028",
+          "aid": "0002814685"
+        }
+      ],
+      "count": 6
+    },
+    "경향신문": {
+      "oid": "032",
+      "url": "https://media.naver.com/press/032",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "“나 아니었으면 감옥 갔다”던 트럼프···“네타냐후, 미국 체류 중 체포 안 될 것”",
+          "url": "https://n.news.naver.com/article/032/0003459346",
+          "oid": "032",
+          "aid": "0003459346"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "박지원, ‘이 대통령 저격’ 유시민에 “도와주지 못할 망정 쪽박 깨뜨리지 말아달라”",
+          "url": "https://n.news.naver.com/article/032/0003459348",
+          "oid": "032",
+          "aid": "0003459348"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "‘와이드 폴드’가 승부수···런던 700만 눈길 사로잡은 갤럭시 언팩 광고",
+          "url": "https://n.news.naver.com/article/032/0003459341",
+          "oid": "032",
+          "aid": "0003459341"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "“삼전·닉스 레버리지 투자 멈춰라”···ETF 팔고있는 자산운용사 대표의 양심고백",
+          "url": "https://n.news.naver.com/article/032/0003459257",
+          "oid": "032",
+          "aid": "0003459257"
+        },
+        {
+          "rank": 5,
+          "type": "headline",
+          "title": "경찰 장윤기 특수단, 경찰청 국가수사본부 압수수색···“보고·지휘 내용 확인”",
+          "url": "https://n.news.naver.com/article/032/0003459351",
+          "oid": "032",
+          "aid": "0003459351"
+        },
+        {
+          "rank": 6,
+          "type": "headline",
+          "title": "미, 이란 대상 열흘째 공습···이란은 “현실은 전면전”",
+          "url": "https://n.news.naver.com/article/032/0003459342",
+          "oid": "032",
+          "aid": "0003459342"
+        }
+      ],
+      "count": 6
+    },
+    "서울신문": {
+      "oid": "081",
+      "url": "https://media.naver.com/press/081",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "공금 25억 코인에 날렸나…병가 냈다가 딱 걸린 7급 공무원",
+          "url": "https://n.news.naver.com/article/081/0003662834",
+          "oid": "081",
+          "aid": "0003662834"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "경찰 특수단, ‘장윤기 사건 축소 의혹’ 국수본 압수수색… “윗선 지침 조사”",
+          "url": "https://n.news.naver.com/article/081/0003662837",
+          "oid": "081",
+          "aid": "0003662837"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "“죄송하지만 레버리지 투자 멈추세요” 운용사 대표 호소→글 삭제 ‘파문’",
+          "url": "https://n.news.naver.com/article/081/0003662830",
+          "oid": "081",
+          "aid": "0003662830"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "이혼 직후 ‘85억’ 복권 당첨된 女…전남편 “나도 돈 줘” 소송, 결과는?",
+          "url": "https://n.news.naver.com/article/081/0003662829",
+          "oid": "081",
+          "aid": "0003662829"
+        },
+        {
+          "rank": 5,
+          "type": "headline",
+          "title": "위",
+          "url": "https://n.news.naver.com/article/081/0003662545",
+          "oid": "081",
+          "aid": "0003662545"
+        },
+        {
+          "rank": 6,
+          "type": "headline",
+          "title": "위",
+          "url": "https://n.news.naver.com/article/081/0003662514",
+          "oid": "081",
+          "aid": "0003662514"
+        }
+      ],
+      "count": 6
+    },
+    "한국일보": {
+      "oid": "469",
+      "url": "https://media.naver.com/press/469",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "17억 근저당, '물딱지' 방지용?…이 대통령 아파트 매매 둘러싼 의문들",
+          "url": "https://n.news.naver.com/article/469/0000943367",
+          "oid": "469",
+          "aid": "0000943367"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "[속보] ‘장윤기 사건’ 경찰 지휘부 외압 의혹… 경찰, 경찰청 국수본 압수수색",
+          "url": "https://n.news.naver.com/article/469/0000943397",
+          "oid": "469",
+          "aid": "0000943397"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "강남만 아는 '은밀한' 재테크? '고3 국민연금'… 국가가 대신 내줘도 반응은 '글쎄'",
+          "url": "https://n.news.naver.com/article/469/0000943365",
+          "oid": "469",
+          "aid": "0000943365"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "\"하이닉스 주식 있고 20대예요. 내 집 마련 가능할까요?\"… 기자가 직접 받은 재무상담기",
+          "url": "https://n.news.naver.com/article/469/0000943366",
+          "oid": "469",
+          "aid": "0000943366"
+        },
+        {
+          "rank": 5,
+          "type": "headline",
+          "title": "사별 후 3년, 느닷없는 상속세 고지서…배우자상속공제 가능한가[중·꺾·마+: 중년 꺾이지 않는 마음]",
+          "url": "https://n.news.naver.com/article/469/0000943082",
+          "oid": "469",
+          "aid": "0000943082"
+        },
+        {
+          "rank": 6,
+          "type": "headline",
+          "title": "\"중고는 환불 불가\"…20대 청년에 사기당한 중년 구제 대책은?[중·꺾·마+: 중년 꺾이지 않는 마음]",
+          "url": "https://n.news.naver.com/article/469/0000941842",
+          "oid": "469",
+          "aid": "0000941842"
+        }
+      ],
+      "count": 6
+    },
+    "머니투데이": {
+      "oid": "008",
+      "url": "https://media.naver.com/press/008",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "\"2배 베팅 하지마…매일 녹아내려\" 삼전닉스 레버리지 판 대표의 경고",
+          "url": "https://n.news.naver.com/article/008/0005388375",
+          "oid": "008",
+          "aid": "0005388375"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "호남 반도체 산단 성공요건 '인·수·전'...부메랑 된 '탈원전·4대강'",
+          "url": "https://n.news.naver.com/article/008/0005388333",
+          "oid": "008",
+          "aid": "0005388333"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "\"안 팔리면 태웠는데\" 샤넬 비상…EU '재고 폐기 전면 금지'",
+          "url": "https://n.news.naver.com/article/008/0005388376",
+          "oid": "008",
+          "aid": "0005388376"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "\"여친이 청혼 거절, 163㎝ 키에 열등감\"...신림동서 무차별 칼부림[뉴스속오늘]",
+          "url": "https://n.news.naver.com/article/008/0005388351",
+          "oid": "008",
+          "aid": "0005388351"
+        },
+        {
+          "rank": 5,
+          "type": "headline",
+          "title": "부메랑이 된 '탈원전'과 '4대강'",
+          "url": "https://n.news.naver.com/article/008/0005388200",
+          "oid": "008",
+          "aid": "0005388200"
+        },
+        {
+          "rank": 6,
+          "type": "headline",
+          "title": "4대강 보 위로 4번 뒤집힌 물정책...반도체 앞에 청구서가 놓였다",
+          "url": "https://n.news.naver.com/article/008/0005388206",
+          "oid": "008",
+          "aid": "0005388206"
+        }
+      ],
+      "count": 6
+    },
+    "매일경제": {
+      "oid": "009",
+      "url": "https://media.naver.com/press/009",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "“피 한방울로 암 진단, 이번엔 진짜”…주가 심상찮은 이 기업",
+          "url": "https://n.news.naver.com/article/009/0005709854",
+          "oid": "009",
+          "aid": "0005709854"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "[속보] 검경, 경찰청 국수본 동시 압수수색…“장윤기 증거인멸 관련”",
+          "url": "https://n.news.naver.com/article/009/0005709881",
+          "oid": "009",
+          "aid": "0005709881"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "이란 전쟁도 재발 조짐인데…한국 일본에게 날아온 충격적 소식",
+          "url": "https://n.news.naver.com/article/009/0005709876",
+          "oid": "009",
+          "aid": "0005709876"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "“비행기 텅텅 빌 뻔했는데”…K항공사 숨통 틔워준 외국인의 정체",
+          "url": "https://n.news.naver.com/article/009/0005709851",
+          "oid": "009",
+          "aid": "0005709851"
+        },
+        {
+          "rank": 5,
+          "type": "photo",
+          "title": "\"대통령님 대출 풀어주세요\"… 대토론회는 내집 마련에 초점을 [사설] 15시간전",
+          "url": "https://n.news.naver.com/article/009/0005709687",
+          "oid": "009",
+          "aid": "0005709687"
+        },
+        {
+          "rank": 6,
+          "type": "photo",
+          "title": "상반기 보완수사 요구 6만건, 與 개정안 땐 대부분 덮일 수도 [사설] 1일전",
+          "url": "https://n.news.naver.com/article/009/0005709152",
+          "oid": "009",
+          "aid": "0005709152"
+        }
+      ],
+      "count": 6
+    },
+    "서울경제": {
+      "oid": "011",
+      "url": "https://media.naver.com/press/011",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "외국인 ‘역대급 매도’ 끝물?…IBK證 “7월 말 코스피 살아날 수도” [줍줍리포트]",
+          "url": "https://n.news.naver.com/article/011/0004643396",
+          "oid": "011",
+          "aid": "0004643396"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "“공격하겠다” 외친 美의 반전…백악관도 모르는 ‘실탄 부족’[美-이란 전쟁]",
+          "url": "https://n.news.naver.com/article/011/0004643329",
+          "oid": "011",
+          "aid": "0004643329"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "아빠 차 끌고 나왔다…“차 살 돈 없어” 요즘 이런 2030 많아지더니 생긴 일",
+          "url": "https://n.news.naver.com/article/011/0004643364",
+          "oid": "011",
+          "aid": "0004643364"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "휴대폰 렌탈계약 썼을 뿐인데…하루아침에 ‘빚 3400만원’ 낭패, 무슨 일?",
+          "url": "https://n.news.naver.com/article/011/0004643385",
+          "oid": "011",
+          "aid": "0004643385"
+        },
+        {
+          "rank": 5,
+          "type": "photo",
+          "title": "美서 벌어 韓에 쓴다…실리콘밸리서 크는 K스타트업 15시간전",
+          "url": "https://n.news.naver.com/article/011/0004643226",
+          "oid": "011",
+          "aid": "0004643226"
+        },
+        {
+          "rank": 6,
+          "type": "headline",
+          "title": "배달 원조 피자 체인의 몰락…적은 ‘인플레’ 아닌 우버이츠 [박시진의 글로벌 픽]",
+          "url": "https://n.news.naver.com/article/011/0004643348",
+          "oid": "011",
+          "aid": "0004643348"
+        }
+      ],
+      "count": 6
+    },
+    "파이낸셜뉴스": {
+      "oid": "014",
+      "url": "https://media.naver.com/press/014",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "\"김부장, SK하닉 20주 샀댔지?\"...폭락장 쌉쌀한 조롱, '포모' 가고 '조모' 왔다 [쓸만한 이슈]",
+          "url": "https://n.news.naver.com/article/014/0005550440",
+          "oid": "014",
+          "aid": "0005550440"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "\"K증시 난이도 높네\"…40조 던진 외국인, 삼전닉스 팔고 담은 종목은? [테마+]",
+          "url": "https://n.news.naver.com/article/014/0005550466",
+          "oid": "014",
+          "aid": "0005550466"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "\"박지성·이영표가 뭘 안다고...\" 전북회장 발언에 박지성 \"위치에 안 맞는 언행\"",
+          "url": "https://n.news.naver.com/article/014/0005550463",
+          "oid": "014",
+          "aid": "0005550463"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "\"엄마, 왜 하늘나라로 갔냐\" '배그 부부' 남편, 두 아들과 첫 봉안당 방문",
+          "url": "https://n.news.naver.com/article/014/0005550468",
+          "oid": "014",
+          "aid": "0005550468"
+        },
+        {
+          "rank": 5,
+          "type": "photo",
+          "title": "'SK하닉 실적발표' 코스피 반등 시험대[주간 증시 전망] 1일전",
+          "url": "https://n.news.naver.com/article/014/0005549799",
+          "oid": "014",
+          "aid": "0005549799"
+        },
+        {
+          "rank": 6,
+          "type": "photo",
+          "title": "의정부 일가족 4명 사망…5시간 전 '비명 신고' 출동 3일전",
+          "url": "https://n.news.naver.com/article/014/0005549516",
+          "oid": "014",
+          "aid": "0005549516"
+        }
+      ],
+      "count": 6
+    },
+    "한국경제": {
+      "oid": "015",
+      "url": "https://media.naver.com/press/015",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "\"하루에도 팔았다 샀다 난리\"…미성년자도 레버리지 베팅했다 [분석+]",
+          "url": "https://n.news.naver.com/article/015/0005311912",
+          "oid": "015",
+          "aid": "0005311912"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "삼전닉스 급락에 개미 '곡소리'…전문가들 \"던질 때 아니다\"",
+          "url": "https://n.news.naver.com/article/015/0005311908",
+          "oid": "015",
+          "aid": "0005311908"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "급락장인데…\"70% 더 오를 것\" 증권가가 추천한 종목",
+          "url": "https://n.news.naver.com/article/015/0005311921",
+          "oid": "015",
+          "aid": "0005311921"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "한국인 지갑 가장 많이 연 곳은 쿠팡…상반기 결제액 1위",
+          "url": "https://n.news.naver.com/article/015/0005311946",
+          "oid": "015",
+          "aid": "0005311946"
+        },
+        {
+          "rank": 5,
+          "type": "headline",
+          "title": "\"삼성바이오로직스, 폴리펩타이드 인수로 성장동력 다변화\"-대신",
+          "url": "https://n.news.naver.com/article/015/0005311932",
+          "oid": "015",
+          "aid": "0005311932"
+        },
+        {
+          "rank": 6,
+          "type": "headline",
+          "title": "[속보] 경찰 장윤기 특별수사단, 경찰청 국수본 압수수색",
+          "url": "https://n.news.naver.com/article/015/0005311925",
+          "oid": "015",
+          "aid": "0005311925"
+        }
+      ],
+      "count": 6
+    },
+    "헤럴드경제": {
+      "oid": "016",
+      "url": "https://media.naver.com/press/016",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "“결국 미장이 답이었나” 삼전닉스 내던지고 미국 지수 ETF로…순매수 ‘1위’ 됐다 [투자360]",
+          "url": "https://n.news.naver.com/article/016/0002672491",
+          "oid": "016",
+          "aid": "0002672491"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "[단독] 조성현 대령 “‘국회의원을 끌어내라’ 이후 내란 저지…서강대교 회군 취지 명확” [세상&]",
+          "url": "https://n.news.naver.com/article/016/0002672585",
+          "oid": "016",
+          "aid": "0002672585"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "“모든 전선서 얻어맞고 있다”…美, 확전 준비하지만 탄약 부족",
+          "url": "https://n.news.naver.com/article/016/0002672342",
+          "oid": "016",
+          "aid": "0002672342"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "[단독] ‘회장님 제대혈 불법시술’ 차병원 사과 잊혀지자…회장 “허위사실”이라며 소송 [세상&]",
+          "url": "https://n.news.naver.com/article/016/0002672521",
+          "oid": "016",
+          "aid": "0002672521"
+        },
+        {
+          "rank": 5,
+          "type": "headline",
+          "title": "“예산 안 주면 내가 짠다”… 한 달 전 사임한 국방장관, 英 권력 ‘2인자’로 화려한 부활",
+          "url": "https://n.news.naver.com/article/016/0002672572",
+          "oid": "016",
+          "aid": "0002672572"
+        },
+        {
+          "rank": 6,
+          "type": "headline",
+          "title": "구글, ‘제미나이 전용 AI칩’ 만든다…기존 TPU와는 병행생산",
+          "url": "https://n.news.naver.com/article/016/0002672522",
+          "oid": "016",
+          "aid": "0002672522"
+        }
+      ],
+      "count": 6
+    },
+    "이데일리": {
+      "oid": "018",
+      "url": "https://media.naver.com/press/018",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "미·이란 충돌 지속에 뉴욕증시 하락…유가 뛰고 AI 패권 경쟁 가속[뉴스새벽배송]",
+          "url": "https://n.news.naver.com/article/018/0006333529",
+          "oid": "018",
+          "aid": "0006333529"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "외국인 매도 단기 정점 지났나…“7월 말 코스피 반등 가능성”",
+          "url": "https://n.news.naver.com/article/018/0006333513",
+          "oid": "018",
+          "aid": "0006333513"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "선관위, 면접 점수 맘대로 바꿔 채용했지만…법원 \"임용 취소는 위법\"",
+          "url": "https://n.news.naver.com/article/018/0006333541",
+          "oid": "018",
+          "aid": "0006333541"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "수도권 곳곳 호우특보…`시간당 최대 50㎜` 오는 곳도",
+          "url": "https://n.news.naver.com/article/018/0006333559",
+          "oid": "018",
+          "aid": "0006333559"
+        },
+        {
+          "rank": 5,
+          "type": "photo",
+          "title": "[속보] 종합특검, 원희룡 전 국토부 장관 23일 소환…'양평 의혹' 조사 2일전",
+          "url": "https://n.news.naver.com/article/018/0006332375",
+          "oid": "018",
+          "aid": "0006332375"
+        },
+        {
+          "rank": 6,
+          "type": "headline",
+          "title": "\"줄상폐 땐 개미 직격탄…사전예고 강화 등 연착륙 필요\"",
+          "url": "https://n.news.naver.com/article/018/0006333463",
+          "oid": "018",
+          "aid": "0006333463"
+        }
+      ],
+      "count": 6
+    },
+    "아시아경제": {
+      "oid": "277",
+      "url": "https://media.naver.com/press/277",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "\"한 번만 하려고 했는데\" 아빠 통장서 3000만원 '슬쩍'…도박에 빠진 청소년들",
+          "url": "https://n.news.naver.com/article/277/0005792080",
+          "oid": "277",
+          "aid": "0005792080"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "이혼 직후 '85억원' 복권 당첨된 여성…법원 \"전 남편 어떤 권리도 없다\"",
+          "url": "https://n.news.naver.com/article/277/0005791738",
+          "oid": "277",
+          "aid": "0005791738"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "'공포지수' 美 안정적인데 韓 사상최고치 돌파한 까닭은",
+          "url": "https://n.news.naver.com/article/277/0005792154",
+          "oid": "277",
+          "aid": "0005792154"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "\"안 팔리면 그냥 태웠는데\" 명품값 드디어 떨어지나…이제 함부로 못 없앤다",
+          "url": "https://n.news.naver.com/article/277/0005792105",
+          "oid": "277",
+          "aid": "0005792105"
+        },
+        {
+          "rank": 5,
+          "type": "photo",
+          "title": "[사설]청년 실업, 기업에만 맡길 일 아니다 21시간전",
+          "url": "https://n.news.naver.com/article/277/0005791809",
+          "oid": "277",
+          "aid": "0005791809"
+        },
+        {
+          "rank": 6,
+          "type": "photo",
+          "title": "[사설]N% 성과급, 노동개혁 출발점으로 삼아야 21시간전",
+          "url": "https://n.news.naver.com/article/277/0005791814",
+          "oid": "277",
+          "aid": "0005791814"
+        }
+      ],
+      "count": 6
+    },
+    "조선비즈": {
+      "oid": "366",
+      "url": "https://media.naver.com/press/366",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "삼성전자·SK하이닉스 빈틈 파고든 中 CXMT, 내년 물량 완판… 애플 이어 PC 업계 ‘러브콜’",
+          "url": "https://n.news.naver.com/article/366/0001180482",
+          "oid": "366",
+          "aid": "0001180482"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "동탄 집값 뛰고 규제 묶이자… 병점 8.5억·오산 7.1억 신고가",
+          "url": "https://n.news.naver.com/article/366/0001180477",
+          "oid": "366",
+          "aid": "0001180477"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "[투자노트] 160조 쏟아낸 외국인… “단기 과매도 국면”",
+          "url": "https://n.news.naver.com/article/366/0001180497",
+          "oid": "366",
+          "aid": "0001180497"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "검경, 경찰청 국가수사본부 동시 압수수색… 수사 지휘 규명(종합)",
+          "url": "https://n.news.naver.com/article/366/0001180493",
+          "oid": "366",
+          "aid": "0001180493"
+        },
+        {
+          "rank": 5,
+          "type": "photo",
+          "title": "트럼프 “전사자 기리기 위해 다시 한번 이란 공습” 21시간전",
+          "url": "https://n.news.naver.com/article/366/0001180316",
+          "oid": "366",
+          "aid": "0001180316"
+        },
+        {
+          "rank": 6,
+          "type": "photo",
+          "title": "동영상 뉴스",
+          "url": "https://n.news.naver.com/article/366/0001180229",
+          "oid": "366",
+          "aid": "0001180229"
+        }
+      ],
+      "count": 6
+    },
+    "연합뉴스": {
+      "oid": "001",
+      "url": "https://media.naver.com/press/001",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "서울 서부 지역 호우특보…중랑천·양재천 등 29개 하천 통제",
+          "url": "https://n.news.naver.com/article/001/0016204857",
+          "oid": "001",
+          "aid": "0016204857"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "[속보] 검경, 경찰청 국수본 동시 압수수색…\"장윤기 증거인멸 관련\"",
+          "url": "https://n.news.naver.com/article/001/0016204828",
+          "oid": "001",
+          "aid": "0016204828"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "트럼프 \"이란, 美병사 죽일 때마다 몇배로 대가 치를 것\"",
+          "url": "https://n.news.naver.com/article/001/0016204698",
+          "oid": "001",
+          "aid": "0016204698"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "트럼프, 이웃 캐나다에 50% '관세폭탄'…'美에 보복' 책임 묻기(종합)",
+          "url": "https://n.news.naver.com/article/001/0016204821",
+          "oid": "001",
+          "aid": "0016204821"
+        },
+        {
+          "rank": 5,
+          "type": "photo",
+          "title": "동영상 뉴스",
+          "url": "https://n.news.naver.com/article/001/0016204567",
+          "oid": "001",
+          "aid": "0016204567"
+        },
+        {
+          "rank": 6,
+          "type": "photo",
+          "title": "동영상 뉴스",
+          "url": "https://n.news.naver.com/article/001/0016203060",
+          "oid": "001",
+          "aid": "0016203060"
+        }
+      ],
+      "count": 6
+    },
+    "뉴시스": {
+      "oid": "003",
+      "url": "https://media.naver.com/press/003",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "[속보]광주지검, '장윤기 사건 수사' 국가수사본부 압수수색",
+          "url": "https://n.news.naver.com/article/003/0014077256",
+          "oid": "003",
+          "aid": "0014077256"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "5년간 물류창고 대형화재만 20건…재산피해는 1조원",
+          "url": "https://n.news.naver.com/article/003/0014077171",
+          "oid": "003",
+          "aid": "0014077171"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "은행 주담대 금리 연 7.5% 돌파…'8% 시대' 다가온다",
+          "url": "https://n.news.naver.com/article/003/0014077178",
+          "oid": "003",
+          "aid": "0014077178"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "'쿠팡이츠' 자료 유출해 '땡겨요' 활용?…사업단 팀장 수사",
+          "url": "https://n.news.naver.com/article/003/0014077280",
+          "oid": "003",
+          "aid": "0014077280"
+        },
+        {
+          "rank": 5,
+          "type": "headline",
+          "title": "수도권 호우주의보, 오전 강한 비…남부지방은 '폭염'",
+          "url": "https://n.news.naver.com/article/003/0014077246",
+          "oid": "003",
+          "aid": "0014077246"
+        },
+        {
+          "rank": 6,
+          "type": "headline",
+          "title": "인천, 밤 사이 내린 비로 주택침수 등 10건 신고",
+          "url": "https://n.news.naver.com/article/003/0014077190",
+          "oid": "003",
+          "aid": "0014077190"
+        }
+      ],
+      "count": 6
+    },
+    "뉴스1": {
+      "oid": "421",
+      "url": "https://media.naver.com/press/421",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "美중부사령부 \"이란에 대해 새로운 공습 개시\"…열흘째 공습",
+          "url": "https://n.news.naver.com/article/421/0009069343",
+          "oid": "421",
+          "aid": "0009069343"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "검찰·경찰청 특수단 '장윤기 사건' 국수본 동시 압수수색(종합)",
+          "url": "https://n.news.naver.com/article/421/0009069512",
+          "oid": "421",
+          "aid": "0009069512"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "전국 대부분 비·수도권 최대 100㎜ 폭우…남부 체감 35도 '찜통 더위'(종합)",
+          "url": "https://n.news.naver.com/article/421/0009069391",
+          "oid": "421",
+          "aid": "0009069391"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "지리산 피아골서 60대 남성 실종 신고…휴대전화 위치 추적 중",
+          "url": "https://n.news.naver.com/article/421/0009069506",
+          "oid": "421",
+          "aid": "0009069506"
+        },
+        {
+          "rank": 5,
+          "type": "photo",
+          "title": "동영상 뉴스",
+          "url": "https://n.news.naver.com/article/421/0009067895",
+          "oid": "421",
+          "aid": "0009067895"
+        },
+        {
+          "rank": 6,
+          "type": "photo",
+          "title": "동영상 뉴스",
+          "url": "https://n.news.naver.com/article/421/0009066885",
+          "oid": "421",
+          "aid": "0009066885"
+        }
+      ],
+      "count": 6
+    },
+    "YTN": {
+      "oid": "052",
+      "url": "https://media.naver.com/press/052",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "[속보] 장윤기 특수단, 경찰청 국가수사본부 압수수색",
+          "url": "https://n.news.naver.com/article/052/0002382165",
+          "oid": "052",
+          "aid": "0002382165"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "[속보] 인천 강화군 서도면 긴급 호우재난문자 발송",
+          "url": "https://n.news.naver.com/article/052/0002382166",
+          "oid": "052",
+          "aid": "0002382166"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "중동 상황 악화·중국 AI '키미' 추격 우려에 뉴욕 증시 동반 하락",
+          "url": "https://n.news.naver.com/article/052/0002382155",
+          "oid": "052",
+          "aid": "0002382155"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "트럼프 응징 경고 직후 미군 공격 재개...국제 유가 상승세 지속",
+          "url": "https://n.news.naver.com/article/052/0002382154",
+          "oid": "052",
+          "aid": "0002382154"
+        },
+        {
+          "rank": 5,
+          "type": "headline",
+          "title": "동영상 뉴스 재생시간 02:40",
+          "url": "https://n.news.naver.com/article/052/0002382151",
+          "oid": "052",
+          "aid": "0002382151"
+        },
+        {
+          "rank": 6,
+          "type": "headline",
+          "title": "동영상 뉴스 재생시간 02:01",
+          "url": "https://n.news.naver.com/article/052/0002382129",
+          "oid": "052",
+          "aid": "0002382129"
+        }
+      ],
+      "count": 6
+    },
+    "SBS": {
+      "oid": "055",
+      "url": "https://media.naver.com/press/055",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "트럼프 \"몇배로 대가 치를 것\"…이란, '전면전' 규정",
+          "url": "https://n.news.naver.com/article/055/0001373983",
+          "oid": "055",
+          "aid": "0001373983"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "[속보] 검경, 경찰청 국수본 동시 압수수색…\"장윤기 증거 인멸 관련\"",
+          "url": "https://n.news.naver.com/article/055/0001374029",
+          "oid": "055",
+          "aid": "0001374029"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "계곡 출입 막히자 \"자유 뺏겼다\"…\"출동 절반은\" 일침",
+          "url": "https://n.news.naver.com/article/055/0001373995",
+          "oid": "055",
+          "aid": "0001373995"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "\"원룸 보러왔다\" 비번 줬더니…여성 속옷 뒤진 30대",
+          "url": "https://n.news.naver.com/article/055/0001374020",
+          "oid": "055",
+          "aid": "0001374020"
+        },
+        {
+          "rank": 5,
+          "type": "headline",
+          "title": "동영상 뉴스 재생시간 01:04",
+          "url": "https://n.news.naver.com/article/055/0001374009",
+          "oid": "055",
+          "aid": "0001374009"
+        },
+        {
+          "rank": 6,
+          "type": "headline",
+          "title": "동영상 뉴스 재생시간 00:58",
+          "url": "https://n.news.naver.com/article/055/0001374012",
+          "oid": "055",
+          "aid": "0001374012"
+        }
+      ],
+      "count": 6
+    },
+    "KBS": {
+      "oid": "056",
+      "url": "https://media.naver.com/press/056",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "[속보] 광주지검, ‘장윤기 사건’ 관련 국수본 압수수색",
+          "url": "https://n.news.naver.com/article/056/0012221754",
+          "oid": "056",
+          "aid": "0012221754"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "[단독] “대통령실 연락 뒤 21그램 조사 번복”…‘관저 감사’ 유병호 구속",
+          "url": "https://n.news.naver.com/article/056/0012221646",
+          "oid": "056",
+          "aid": "0012221646"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "트럼프 “이란, 미 병사 죽일 때마다 몇 배 대가”…이란은 항전의지",
+          "url": "https://n.news.naver.com/article/056/0012221688",
+          "oid": "056",
+          "aid": "0012221688"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "미국 공항·학교의 ‘무료 생리대’…“휴지처럼 화장실 기본용품” [특파원 리포트]",
+          "url": "https://n.news.naver.com/article/056/0012221753",
+          "oid": "056",
+          "aid": "0012221753"
+        },
+        {
+          "rank": 5,
+          "type": "headline",
+          "title": "동영상 뉴스 재생시간 00:51",
+          "url": "https://n.news.naver.com/article/056/0012221707",
+          "oid": "056",
+          "aid": "0012221707"
+        },
+        {
+          "rank": 6,
+          "type": "headline",
+          "title": "동영상 뉴스 재생시간 01:47",
+          "url": "https://n.news.naver.com/article/056/0012221492",
+          "oid": "056",
+          "aid": "0012221492"
+        }
+      ],
+      "count": 6
+    },
+    "MBN": {
+      "oid": "057",
+      "url": "https://media.naver.com/press/057",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "\"결론은 투자하지 말라는 것\"…'ETF 아버지'의 이례적 경고",
+          "url": "https://n.news.naver.com/article/057/0001959476",
+          "oid": "057",
+          "aid": "0001959476"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "[단독] 광주지검, '장윤기 사건 수사지휘' 경찰청 국수본 압수수색",
+          "url": "https://n.news.naver.com/article/057/0001959485",
+          "oid": "057",
+          "aid": "0001959485"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "변시 중 휴대전화 적발되자 \"영장 가져와\" 반발…로스쿨생 결국",
+          "url": "https://n.news.naver.com/article/057/0001959472",
+          "oid": "057",
+          "aid": "0001959472"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "\"우승 트로피 들고\"…'한국 배우 최초' 월드컵 결승 무대 오른 그녀",
+          "url": "https://n.news.naver.com/article/057/0001959395",
+          "oid": "057",
+          "aid": "0001959395"
+        },
+        {
+          "rank": 5,
+          "type": "photo",
+          "title": "동영상 뉴스",
+          "url": "https://n.news.naver.com/article/057/0001959468",
+          "oid": "057",
+          "aid": "0001959468"
+        },
+        {
+          "rank": 6,
+          "type": "photo",
+          "title": "동영상 뉴스",
+          "url": "https://n.news.naver.com/article/057/0001959445",
+          "oid": "057",
+          "aid": "0001959445"
+        }
+      ],
+      "count": 6
+    },
+    "MBC": {
+      "oid": "214",
+      "url": "https://media.naver.com/press/214",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "[속보] 경찰 장윤기 수사팀, 경찰청 국수본 압수수색",
+          "url": "https://n.news.naver.com/article/214/0001512823",
+          "oid": "214",
+          "aid": "0001512823"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "중국 새 AI 공개 \"미국 따라잡나\"‥반도체 '휘청'",
+          "url": "https://n.news.naver.com/article/214/0001512789",
+          "oid": "214",
+          "aid": "0001512789"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "불 활활 타는데 \"인근 빨리 출근\"‥배송이 먼저?",
+          "url": "https://n.news.naver.com/article/214/0001512786",
+          "oid": "214",
+          "aid": "0001512786"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "[단독] 올림픽공원 손해액 벌써 16억 원 '훌쩍'‥혈세로 전액 부담?",
+          "url": "https://n.news.naver.com/article/214/0001512731",
+          "oid": "214",
+          "aid": "0001512731"
+        },
+        {
+          "rank": 5,
+          "type": "headline",
+          "title": "동영상 뉴스 재생시간 02:40",
+          "url": "https://n.news.naver.com/article/214/0001512727",
+          "oid": "214",
+          "aid": "0001512727"
+        },
+        {
+          "rank": 6,
+          "type": "headline",
+          "title": "동영상 뉴스 재생시간 01:47",
+          "url": "https://n.news.naver.com/article/214/0001512729",
+          "oid": "214",
+          "aid": "0001512729"
+        }
+      ],
+      "count": 6
+    },
+    "연합뉴스TV": {
+      "oid": "422",
+      "url": "https://media.naver.com/press/422",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "서울·인천·경기 북부 호우특보…낮까지 장대비 주의",
+          "url": "https://n.news.naver.com/article/422/0000887106",
+          "oid": "422",
+          "aid": "0000887106"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "'장윤기 사건' 특별수사단, 경찰청 국수본 압수수색…\"지휘 내용 확인\"",
+          "url": "https://n.news.naver.com/article/422/0000887099",
+          "oid": "422",
+          "aid": "0000887099"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "쿠팡 물류센터 초진됐지만 여전히 연기…잔불정리 본격화",
+          "url": "https://n.news.naver.com/article/422/0000887089",
+          "oid": "422",
+          "aid": "0000887089"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "푹 자고 싶으면 저녁 시간 바꿔라…\"취침 4~5시간 전 적당\"",
+          "url": "https://n.news.naver.com/article/422/0000887045",
+          "oid": "422",
+          "aid": "0000887045"
+        },
+        {
+          "rank": 5,
+          "type": "headline",
+          "title": "동영상 뉴스 재생시간 05:21",
+          "url": "https://n.news.naver.com/article/422/0000824387",
+          "oid": "422",
+          "aid": "0000824387"
+        },
+        {
+          "rank": 6,
+          "type": "headline",
+          "title": "동영상 뉴스 재생시간 06:09",
+          "url": "https://n.news.naver.com/article/422/0000820723",
+          "oid": "422",
+          "aid": "0000820723"
+        }
+      ],
+      "count": 6
+    },
+    "JTBC": {
+      "oid": "437",
+      "url": "https://media.naver.com/press/437",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "트럼프 \"미 병사 죽을 때마다 몇 배 응징\"…이란 \"전면전\"",
+          "url": "https://n.news.naver.com/article/437/0000502154",
+          "oid": "437",
+          "aid": "0000502154"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "검경, 경찰청 국수본 동시 압수수색…\"장윤기 증거인멸 관련\"",
+          "url": "https://n.news.naver.com/article/437/0000502159",
+          "oid": "437",
+          "aid": "0000502159"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "수도권·강원 중심 강한 비 집중…한낮엔 37도 찜통더위",
+          "url": "https://n.news.naver.com/article/437/0000502156",
+          "oid": "437",
+          "aid": "0000502156"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "\"비정상적\" 메모리값…전자상가 사장님도 \"PC 있으면 바꾸지마\"",
+          "url": "https://n.news.naver.com/article/437/0000502121",
+          "oid": "437",
+          "aid": "0000502121"
+        },
+        {
+          "rank": 5,
+          "type": "headline",
+          "title": "동영상 뉴스 재생시간 02:01",
+          "url": "https://n.news.naver.com/article/437/0000502117",
+          "oid": "437",
+          "aid": "0000502117"
+        },
+        {
+          "rank": 6,
+          "type": "headline",
+          "title": "동영상 뉴스 재생시간 01:54",
+          "url": "https://n.news.naver.com/article/437/0000502111",
+          "oid": "437",
+          "aid": "0000502111"
+        }
+      ],
+      "count": 6
+    },
+    "TV조선": {
+      "oid": "448",
+      "url": "https://media.naver.com/press/448",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "\"북한 여자축구단 응원에 2억3529만원 썼다\"…통일부 정산내역 살펴보니",
+          "url": "https://n.news.naver.com/article/448/0000628106",
+          "oid": "448",
+          "aid": "0000628106"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "李대통령 지지율, 김어준 여론조사서도 51.9%…역대 최저",
+          "url": "https://n.news.naver.com/article/448/0000628114",
+          "oid": "448",
+          "aid": "0000628114"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "첫 日 여성 총리인데…'여왕 불허'에 지지율 '급락'",
+          "url": "https://n.news.naver.com/article/448/0000628125",
+          "oid": "448",
+          "aid": "0000628125"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "메시 \"고통이 너무 크다…상처 치유 오래 걸릴 듯\"",
+          "url": "https://n.news.naver.com/article/448/0000628109",
+          "oid": "448",
+          "aid": "0000628109"
+        },
+        {
+          "rank": 5,
+          "type": "headline",
+          "title": "동영상 뉴스 재생시간 02:03",
+          "url": "https://n.news.naver.com/article/448/0000628133",
+          "oid": "448",
+          "aid": "0000628133"
+        },
+        {
+          "rank": 6,
+          "type": "photo",
+          "title": "동영상 뉴스",
+          "url": "https://n.news.naver.com/article/448/0000628121",
+          "oid": "448",
+          "aid": "0000628121"
+        }
+      ],
+      "count": 6
+    },
+    "채널A": {
+      "oid": "449",
+      "url": "https://media.naver.com/press/449",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "[속보]경찰 장윤기 특별수사단, 경찰청 국가수사본부 압수수색",
+          "url": "https://n.news.naver.com/article/449/0000353616",
+          "oid": "449",
+          "aid": "0000353616"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "美 중부사령부 “이란 대상 새로운 공습”…열흘 연속 공격",
+          "url": "https://n.news.naver.com/article/449/0000353611",
+          "oid": "449",
+          "aid": "0000353611"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "후티 반군, 사우디 대상 해상 봉쇄…호르무즈 이어 홍해도 막히나",
+          "url": "https://n.news.naver.com/article/449/0000353613",
+          "oid": "449",
+          "aid": "0000353613"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "임진강 필승교 수위 2.94ｍ까지 상승…북한 황강댐 방류 추정",
+          "url": "https://n.news.naver.com/article/449/0000353615",
+          "oid": "449",
+          "aid": "0000353615"
+        },
+        {
+          "rank": 5,
+          "type": "photo",
+          "title": "동영상 뉴스",
+          "url": "https://n.news.naver.com/article/449/0000353579",
+          "oid": "449",
+          "aid": "0000353579"
+        },
+        {
+          "rank": 6,
+          "type": "photo",
+          "title": "동영상 뉴스",
+          "url": "https://n.news.naver.com/article/449/0000353571",
+          "oid": "449",
+          "aid": "0000353571"
+        }
+      ],
+      "count": 6
+    },
+    "프레시안": {
+      "oid": "002",
+      "url": "https://media.naver.com/press/002",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "고민정 \"靑정무라인 문제 생겼나…李대통령, 말 한마디 파급력 인지해야\"",
+          "url": "https://n.news.naver.com/article/002/0002448993",
+          "oid": "002",
+          "aid": "0002448993"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "미군 사망자 또 나오며 전면전 '일촉즉발'…이스라엘, 美 전쟁으로 끌고 가나[트럼프 2기]",
+          "url": "https://n.news.naver.com/article/002/0002449005",
+          "oid": "002",
+          "aid": "0002449005"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "김민석·정청래 대충돌…金 \"반명분열주의\" vs 鄭 \"난 탈당 안 해\"",
+          "url": "https://n.news.naver.com/article/002/0002449011",
+          "oid": "002",
+          "aid": "0002449011"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "尹정부 '감사원 실세' 유병호, 결국 구속...관저 이전 '봐주기 감사' 혐의",
+          "url": "https://n.news.naver.com/article/002/0002449014",
+          "oid": "002",
+          "aid": "0002449014"
+        },
+        {
+          "rank": 5,
+          "type": "headline",
+          "title": "검찰, '장윤기 수사 무마 의혹' 경찰청 국수본 압수수색 돌입",
+          "url": "https://n.news.naver.com/article/002/0002449018",
+          "oid": "002",
+          "aid": "0002449018"
+        },
+        {
+          "rank": 6,
+          "type": "headline",
+          "title": "현재 대한민국 '핫 피플', 홍명보와 장동혁[손문상의 그림세상]",
+          "url": "https://n.news.naver.com/article/002/0002446304",
+          "oid": "002",
+          "aid": "0002446304"
+        }
+      ],
+      "count": 6
+    },
+    "오마이뉴스": {
+      "oid": "047",
+      "url": "https://media.naver.com/press/047",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "윤석열 유죄 판결의 법리, 오세훈에게도 적용될까",
+          "url": "https://n.news.naver.com/article/047/0002523094",
+          "oid": "047",
+          "aid": "0002523094"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "'이수지 영상' 에 충격 받은 미국 어린이집 교사들, 이런 말까지...",
+          "url": "https://n.news.naver.com/article/047/0002523092",
+          "oid": "047",
+          "aid": "0002523092"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "[손병관의 뉴스프레소] \"민주당에 자동협조는 무리\", 달라진 조국혁신당",
+          "url": "https://n.news.naver.com/article/047/0002523095",
+          "oid": "047",
+          "aid": "0002523095"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "이진관 판결대로라면 오세훈 '유죄'",
+          "url": "https://n.news.naver.com/article/047/0002523091",
+          "oid": "047",
+          "aid": "0002523091"
+        },
+        {
+          "rank": 5,
+          "type": "headline",
+          "title": "아픈 아버지에게 암투병중인 친구가 보낸 문자에 눈물이 핑",
+          "url": "https://n.news.naver.com/article/047/0002520923",
+          "oid": "047",
+          "aid": "0002520923"
+        },
+        {
+          "rank": 6,
+          "type": "headline",
+          "title": "리클라이너 좌석 영화가 3천 원? 단양에서 누린 호사",
+          "url": "https://n.news.naver.com/article/047/0002520897",
+          "oid": "047",
+          "aid": "0002520897"
+        }
+      ],
+      "count": 6
+    },
+    "노컷뉴스": {
+      "oid": "079",
+      "url": "https://media.naver.com/press/079",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "[속보]검찰, '장윤기 사건' 국수본 강력범죄수사과장실 압수수색",
+          "url": "https://n.news.naver.com/article/079/0004170165",
+          "oid": "079",
+          "aid": "0004170165"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "\"오롯이 시민의 마음으로\"…장정순 용인시의회 의장의 '시민 정치'",
+          "url": "https://n.news.naver.com/article/079/0004170142",
+          "oid": "079",
+          "aid": "0004170142"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "김병주 \"사관학교 통합, 비상계엄도 요인 중 하나\"[한판승부]",
+          "url": "https://n.news.naver.com/article/079/0004170157",
+          "oid": "079",
+          "aid": "0004170157"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "\"제2, 제3의 홀로세 될까 두렵다\" 국가가 맡긴 보전사업의 민낯",
+          "url": "https://n.news.naver.com/article/079/0004170149",
+          "oid": "079",
+          "aid": "0004170149"
+        },
+        {
+          "rank": 5,
+          "type": "headline",
+          "title": "'장윤기 특수단', 경찰청 국수본 압수수색…\"지휘 내용 확인\"",
+          "url": "https://n.news.naver.com/article/079/0004170160",
+          "oid": "079",
+          "aid": "0004170160"
+        },
+        {
+          "rank": 6,
+          "type": "headline",
+          "title": "오산 공장서 흉기 휘둘러 1명 사망, 1명 중상…60대 검거",
+          "url": "https://n.news.naver.com/article/079/0004170162",
+          "oid": "079",
+          "aid": "0004170162"
+        }
+      ],
+      "count": 6
+    },
+    "데일리안": {
+      "oid": "119",
+      "url": "https://media.naver.com/press/119",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "부동산 대토론회 코앞…세금이냐 규제 완화냐, 李의 셈법",
+          "url": "https://n.news.naver.com/article/119/0003113101",
+          "oid": "119",
+          "aid": "0003113101"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "코스피보다 잠잠해진 비트코인…뒤바뀐 ‘위험자산’ 공식",
+          "url": "https://n.news.naver.com/article/119/0003113117",
+          "oid": "119",
+          "aid": "0003113117"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "[대출 규제 역설] 금리 올라도 집값 못 잡나…‘공급 부족’이 변수",
+          "url": "https://n.news.naver.com/article/119/0003113109",
+          "oid": "119",
+          "aid": "0003113109"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "[속보] 경찰 장윤기 특별수사단, 경찰청 국가수사본부 압수수색",
+          "url": "https://n.news.naver.com/article/119/0003113123",
+          "oid": "119",
+          "aid": "0003113123"
+        },
+        {
+          "rank": 5,
+          "type": "headline",
+          "title": "‘올공’ 지키는 2030…\"기성정치 불신하지만 참정권 침해엔 분노\" [Now 2.30]",
+          "url": "https://n.news.naver.com/article/119/0003113102",
+          "oid": "119",
+          "aid": "0003113102"
+        },
+        {
+          "rank": 6,
+          "type": "headline",
+          "title": "‘부모 찬스’가 바꾼 인생…2030 내 집 마련 양극화",
+          "url": "https://n.news.naver.com/article/119/0003112596",
+          "oid": "119",
+          "aid": "0003112596"
+        }
+      ],
+      "count": 6
+    }
+  },
+  "errors": {}
+}
