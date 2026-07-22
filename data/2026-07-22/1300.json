@@ -1,0 +1,1933 @@
+{
+  "collected_at": "2026-07-22T15:34:48.389700+09:00",
+  "collected_at_kst": "2026-07-22 15:34:48",
+  "press_count": 35,
+  "presses": {
+    "국민일보": {
+      "oid": "005",
+      "url": "https://media.naver.com/press/005",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "[속보] ‘여론조사비 대납’ 오세훈 1심서 벌금 1000만원… 시장직 상실형",
+          "url": "https://n.news.naver.com/article/005/0001862468",
+          "oid": "005",
+          "aid": "0001862468"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "청와대 “이 대통령, 17억 근저당 이자 안 받는다…매수자 배려”",
+          "url": "https://n.news.naver.com/article/005/0001862470",
+          "oid": "005",
+          "aid": "0001862470"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "우원식 해외출장 14번 모두 배우자 동행…82억8700만원 집행",
+          "url": "https://n.news.naver.com/article/005/0001862417",
+          "oid": "005",
+          "aid": "0001862417"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "[단독] 40조 들고 온 SK하이닉스… 환율 1555원→ 1473원까지 뚝",
+          "url": "https://n.news.naver.com/article/005/0001862351",
+          "oid": "005",
+          "aid": "0001862351"
+        },
+        {
+          "rank": 5,
+          "type": "headline",
+          "title": "[현장] “풍선효과 지역, 미리 공부” 35도 날씨에 2만보 임장기",
+          "url": "https://n.news.naver.com/article/005/0001862374",
+          "oid": "005",
+          "aid": "0001862374"
+        },
+        {
+          "rank": 6,
+          "type": "headline",
+          "title": "“집 계약 기쁨은 잠시… 연봉 절반 빚 갚는 데 써야 하는데 걱정”",
+          "url": "https://n.news.naver.com/article/005/0001862301",
+          "oid": "005",
+          "aid": "0001862301"
+        }
+      ],
+      "count": 6
+    },
+    "동아일보": {
+      "oid": "020",
+      "url": "https://media.naver.com/press/020",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "[속보]오세훈 1심 벌금 1000만원…‘명태균 여론조사 대납’ 유죄",
+          "url": "https://n.news.naver.com/article/020/0003735703",
+          "oid": "020",
+          "aid": "0003735703"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "“살려주세요!” 뛰어온 엄마…사탕 껍질 삼킨 아기 구한 남성 정체",
+          "url": "https://n.news.naver.com/article/020/0003735638",
+          "oid": "020",
+          "aid": "0003735638"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "고혈압도 우울증도 아니었다…국내 치매 위험 요인 1위는? [노화설계]",
+          "url": "https://n.news.naver.com/article/020/0003735622",
+          "oid": "020",
+          "aid": "0003735622"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "길에서 주운 3000만원 수표뭉치 주인이 없다?…발행인도 “모르는 일”",
+          "url": "https://n.news.naver.com/article/020/0003735664",
+          "oid": "020",
+          "aid": "0003735664"
+        },
+        {
+          "rank": 5,
+          "type": "headline",
+          "title": "李 “의료수가 체계 합리화…필수의료 정부 책임 강화”",
+          "url": "https://n.news.naver.com/article/020/0003735693",
+          "oid": "020",
+          "aid": "0003735693"
+        },
+        {
+          "rank": 6,
+          "type": "headline",
+          "title": "정청래 탄 차량 습격한 50대 남성 검거",
+          "url": "https://n.news.naver.com/article/020/0003735696",
+          "oid": "020",
+          "aid": "0003735696"
+        }
+      ],
+      "count": 6
+    },
+    "문화일보": {
+      "oid": "021",
+      "url": "https://media.naver.com/press/021",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "[속보]한전공대 건물 옥상서 투신 소동…당국 구조작업 중",
+          "url": "https://n.news.naver.com/article/021/0002806286",
+          "oid": "021",
+          "aid": "0002806286"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "“성과급 자사주로 준다고?” 재협상 하닉 진퇴양난",
+          "url": "https://n.news.naver.com/article/021/0002806243",
+          "oid": "021",
+          "aid": "0002806243"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "“한국 도입 시급해요” 日 폭염이 낳은 히트상품…자판기가 변신한 ‘이 것’",
+          "url": "https://n.news.naver.com/article/021/0002806228",
+          "oid": "021",
+          "aid": "0002806228"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "[속보]사망설까지 나왔던 장윤정 친어머니 검거…투자사기 혐의 구속송치",
+          "url": "https://n.news.naver.com/article/021/0002806063",
+          "oid": "021",
+          "aid": "0002806063"
+        },
+        {
+          "rank": 5,
+          "type": "photo",
+          "title": "정점식 만난 이준석 “李 부동산 실정 등 의견취합 고민” 1일전",
+          "url": "https://n.news.naver.com/article/021/0002805990",
+          "oid": "021",
+          "aid": "0002805990"
+        },
+        {
+          "rank": 6,
+          "type": "photo",
+          "title": "맘다니 “네타냐후 9월 뉴욕방문시 체포 검토” 2일전",
+          "url": "https://n.news.naver.com/article/021/0002805677",
+          "oid": "021",
+          "aid": "0002805677"
+        }
+      ],
+      "count": 6
+    },
+    "세계일보": {
+      "oid": "022",
+      "url": "https://media.naver.com/press/022",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "\"무릎까지 차면 문 못 연다\"…아파트·반지하 집중호우 피해 유형과 예방법은",
+          "url": "https://n.news.naver.com/article/022/0004145001",
+          "oid": "022",
+          "aid": "0004145001"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "“매일 아침 달걀 2개 먹는데”…오전 10시 배고픈 이유 따로 있었다",
+          "url": "https://n.news.naver.com/article/022/0004144851",
+          "oid": "022",
+          "aid": "0004144851"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "김어준 유튜브 영상 일부 차단…‘명예훼손 신고’로 철퇴",
+          "url": "https://n.news.naver.com/article/022/0004144999",
+          "oid": "022",
+          "aid": "0004144999"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "“주식 앱 지우는 사람이 승자?”…23% 폭락 뒤 뒤집힌 ‘투자 심리’ [숫자 뒤의 진실]",
+          "url": "https://n.news.naver.com/article/022/0004144852",
+          "oid": "022",
+          "aid": "0004144852"
+        },
+        {
+          "rank": 5,
+          "type": "photo",
+          "title": "생성형 AI, 향후 10년간 총요소생산성 1.5~3.5%P 늘리지만...일자리 연간 25만6000개 감소 4시간전",
+          "url": "https://n.news.naver.com/article/022/0004144974",
+          "oid": "022",
+          "aid": "0004144974"
+        },
+        {
+          "rank": 6,
+          "type": "photo",
+          "title": "은평 ‘다회용기 배달 활성화’ 협력체계 구축 9시간전",
+          "url": "https://n.news.naver.com/article/022/0004144895",
+          "oid": "022",
+          "aid": "0004144895"
+        }
+      ],
+      "count": 6
+    },
+    "조선일보": {
+      "oid": "023",
+      "url": "https://media.naver.com/press/023",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "[속보] ‘여론조사비 대납’ 오세훈 1심 벌금 1000만원… 시장직 상실형",
+          "url": "https://n.news.naver.com/article/023/0003988982",
+          "oid": "023",
+          "aid": "0003988982"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "靑 “李대통령, 아파트 매각 잔금 유예하며 이자 안 받아”",
+          "url": "https://n.news.naver.com/article/023/0003988974",
+          "oid": "023",
+          "aid": "0003988974"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "[단독] 소유 다이어트, 홍현희 마사지기… ‘연예인 광고’ 믿어도 되나요?",
+          "url": "https://n.news.naver.com/article/023/0003988960",
+          "oid": "023",
+          "aid": "0003988960"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "이병태 “배재고 사태, 원인 제공자는 대통령...권력자 오만이 갈등 불러”",
+          "url": "https://n.news.naver.com/article/023/0003988959",
+          "oid": "023",
+          "aid": "0003988959"
+        },
+        {
+          "rank": 5,
+          "type": "headline",
+          "title": "경찰, 정청래 탄 차량 습격한 50대 男 검거",
+          "url": "https://n.news.naver.com/article/023/0003988986",
+          "oid": "023",
+          "aid": "0003988986"
+        },
+        {
+          "rank": 6,
+          "type": "headline",
+          "title": "아파트 베란다 뻐끔뻐끔… 법원 “임신부 이웃에 위자료 150만원 물어내라”",
+          "url": "https://n.news.naver.com/article/023/0003988976",
+          "oid": "023",
+          "aid": "0003988976"
+        }
+      ],
+      "count": 6
+    },
+    "중앙일보": {
+      "oid": "025",
+      "url": "https://media.naver.com/press/025",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "靑 “李대통령, 17억 근저당 이자 안 받는다…매수자 배려한 것”",
+          "url": "https://n.news.naver.com/article/025/0003539326",
+          "oid": "025",
+          "aid": "0003539326"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "7억 기대했는데 “터무니없는 수준”…SK하닉 성과급 1년 만에 재협상",
+          "url": "https://n.news.naver.com/article/025/0003539287",
+          "oid": "025",
+          "aid": "0003539287"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "‘피범벅’ 제주 놀래킨 흉기난투극…불법체류 중국인들이었다",
+          "url": "https://n.news.naver.com/article/025/0003539316",
+          "oid": "025",
+          "aid": "0003539316"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "포르쉐·BMW 사준 아내, 남녀 3명과 손발 묶여 숨졌다…왜",
+          "url": "https://n.news.naver.com/article/025/0003539032",
+          "oid": "025",
+          "aid": "0003539032"
+        },
+        {
+          "rank": 5,
+          "type": "photo",
+          "title": "동영상 뉴스",
+          "url": "https://n.news.naver.com/article/025/0003539286",
+          "oid": "025",
+          "aid": "0003539286"
+        },
+        {
+          "rank": 6,
+          "type": "photo",
+          "title": "동영상 뉴스",
+          "url": "https://n.news.naver.com/article/025/0003539250",
+          "oid": "025",
+          "aid": "0003539250"
+        }
+      ],
+      "count": 6
+    },
+    "한겨레": {
+      "oid": "028",
+      "url": "https://media.naver.com/press/028",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "[속보]오세훈 서울시장 1심 벌금 1천만원 선고…여론조사 비용 대납 인정",
+          "url": "https://n.news.naver.com/article/028/0002815247",
+          "oid": "028",
+          "aid": "0002815247"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "청와대 “이 대통령, 아파트 17억 근저당 이자 안 받아…증여세 처리할 것”",
+          "url": "https://n.news.naver.com/article/028/0002815228",
+          "oid": "028",
+          "aid": "0002815228"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "정청래, 김민석 ‘신천지 개입설’에 “아니면 말고식 폭탄…근거 밝혀라”",
+          "url": "https://n.news.naver.com/article/028/0002815237",
+          "oid": "028",
+          "aid": "0002815237"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "유시민 “썩은 내”에 김민석 “엉터리 예언, 필패할 것” 반격",
+          "url": "https://n.news.naver.com/article/028/0002815194",
+          "oid": "028",
+          "aid": "0002815194"
+        },
+        {
+          "rank": 5,
+          "type": "headline",
+          "title": "유시민 “‘뉴이재명’ 수장은 이 대통령일 가능성…검찰개혁 엉망”",
+          "url": "https://n.news.naver.com/article/028/0002815156",
+          "oid": "028",
+          "aid": "0002815156"
+        },
+        {
+          "rank": 6,
+          "type": "headline",
+          "title": "청와대 “보완수사권 조기 결론 내주면 좋을 듯…혼란 줄여야”",
+          "url": "https://n.news.naver.com/article/028/0002815119",
+          "oid": "028",
+          "aid": "0002815119"
+        }
+      ],
+      "count": 6
+    },
+    "경향신문": {
+      "oid": "032",
+      "url": "https://media.naver.com/press/032",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "[속보]법원 “오세훈, 벌금 1000만원” 선고…대법 확정시 시장직 상실",
+          "url": "https://n.news.naver.com/article/032/0003459689",
+          "oid": "032",
+          "aid": "0003459689"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "경찰, 정청래 탑승 차량 파손한 50대 검거···재물손괴 외 적용 혐의 검토 중",
+          "url": "https://n.news.naver.com/article/032/0003459684",
+          "oid": "032",
+          "aid": "0003459684"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "[단독]유병호 수첩에 “윤석열 반대파는 뼈까지 갈아 바다에 던져” 메모…종합특검, 구속 후 첫 조사",
+          "url": "https://n.news.naver.com/article/032/0003459629",
+          "oid": "032",
+          "aid": "0003459629"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "부모 재력 따라 벌어진 ‘연금 불평등’ 줄인다···내년부터 만 18세 첫 국민연금 보험료 지원",
+          "url": "https://n.news.naver.com/article/032/0003459680",
+          "oid": "032",
+          "aid": "0003459680"
+        },
+        {
+          "rank": 5,
+          "type": "headline",
+          "title": "[속보]법원 “오세훈, 명태균에 여론조사 의뢰하고 후원자가 1000만원 대납”",
+          "url": "https://n.news.naver.com/article/032/0003459681",
+          "oid": "032",
+          "aid": "0003459681"
+        },
+        {
+          "rank": 6,
+          "type": "headline",
+          "title": "검찰은 ‘국수본’·경찰은 ‘광주청’···장윤기 부실 수사 윗선 ‘본격 겨냥’",
+          "url": "https://n.news.naver.com/article/032/0003459678",
+          "oid": "032",
+          "aid": "0003459678"
+        }
+      ],
+      "count": 6
+    },
+    "서울신문": {
+      "oid": "081",
+      "url": "https://media.naver.com/press/081",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "[속보] ‘여론조사 대납’ 오세훈 1심 벌금 1000만원…확정시 시장식 상실",
+          "url": "https://n.news.naver.com/article/081/0003663527",
+          "oid": "081",
+          "aid": "0003663527"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "‘5·18 성역화’ 이병태 “배재고 사태, 李 대통령이 원인 제공” 파문",
+          "url": "https://n.news.naver.com/article/081/0003663470",
+          "oid": "081",
+          "aid": "0003663470"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "옆집 임신했는데 베란다에서 계속 담배…“150만원 내라” 판결",
+          "url": "https://n.news.naver.com/article/081/0003663433",
+          "oid": "081",
+          "aid": "0003663433"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "‘뜨끔’한 젤렌스키, 결국 시르스키 총사령관 경질…부랴부랴 민심 수습",
+          "url": "https://n.news.naver.com/article/081/0003663459",
+          "oid": "081",
+          "aid": "0003663459"
+        },
+        {
+          "rank": 5,
+          "type": "headline",
+          "title": "위",
+          "url": "https://n.news.naver.com/article/081/0003663411",
+          "oid": "081",
+          "aid": "0003663411"
+        },
+        {
+          "rank": 6,
+          "type": "headline",
+          "title": "위",
+          "url": "https://n.news.naver.com/article/081/0003663324",
+          "oid": "081",
+          "aid": "0003663324"
+        }
+      ],
+      "count": 6
+    },
+    "한국일보": {
+      "oid": "469",
+      "url": "https://media.naver.com/press/469",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "[속보] 오세훈 '명태균 여론조사 대납' 1심 벌금 1,000만 원... '시장직 유지' 빨간불",
+          "url": "https://n.news.naver.com/article/469/0000943716",
+          "oid": "469",
+          "aid": "0000943716"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "[단독] 경찰, '이 대통령 혼외자설' '5·18 북한군 개입설' 전한길 23일 재소환",
+          "url": "https://n.news.naver.com/article/469/0000943690",
+          "oid": "469",
+          "aid": "0000943690"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "정청래 차량 공격한 50대 남성 검거…경찰 \"민주당원인지 아닌지 밝힐 수 없다\"",
+          "url": "https://n.news.naver.com/article/469/0000943713",
+          "oid": "469",
+          "aid": "0000943713"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "쿠팡, '인천 물류센터 화재 피해' 판매자 재고 전액 보상",
+          "url": "https://n.news.naver.com/article/469/0000943703",
+          "oid": "469",
+          "aid": "0000943703"
+        },
+        {
+          "rank": 5,
+          "type": "headline",
+          "title": "이란 이슬람혁명수비대, \"쿠웨이트 레이더 시설 파괴\"… 걸프 전운 고조",
+          "url": "https://n.news.naver.com/article/469/0000943622",
+          "oid": "469",
+          "aid": "0000943622"
+        },
+        {
+          "rank": 6,
+          "type": "headline",
+          "title": "이란 공격에 유조선 선원들 탈출…쿠웨이트 전국에 공습 경보 울려",
+          "url": "https://n.news.naver.com/article/469/0000943584",
+          "oid": "469",
+          "aid": "0000943584"
+        }
+      ],
+      "count": 6
+    },
+    "머니투데이": {
+      "oid": "008",
+      "url": "https://media.naver.com/press/008",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "'키미 K3' 쇼크? 우려 씻은 반전...\"삼전닉스 할인 끝\" 다시 달린다",
+          "url": "https://n.news.naver.com/article/008/0005389173",
+          "oid": "008",
+          "aid": "0005389173"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "배재고, 반성한다더니 \"민주교육 때 다 자…'우린 잘못 없어' 학생도\"",
+          "url": "https://n.news.naver.com/article/008/0005389062",
+          "oid": "008",
+          "aid": "0005389062"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "[속보]법원 \"오세훈, 명태균 여론조사 대납 2100만원은 인정\"",
+          "url": "https://n.news.naver.com/article/008/0005389306",
+          "oid": "008",
+          "aid": "0005389306"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "중국인들 말다툼 끝에 칼부림...모두 불법체류자였다",
+          "url": "https://n.news.naver.com/article/008/0005389128",
+          "oid": "008",
+          "aid": "0005389128"
+        },
+        {
+          "rank": 5,
+          "type": "headline",
+          "title": "[단독]청소년 SNS 규제 '미이행 과태료' 추진…업계 \"역차별 못 막아\"",
+          "url": "https://n.news.naver.com/article/008/0005388927",
+          "oid": "008",
+          "aid": "0005388927"
+        },
+        {
+          "rank": 6,
+          "type": "headline",
+          "title": "'14세 SNS 규제' 나이 확인은 하라는데 기준은 '빈칸'",
+          "url": "https://n.news.naver.com/article/008/0005388943",
+          "oid": "008",
+          "aid": "0005388943"
+        }
+      ],
+      "count": 6
+    },
+    "매일경제": {
+      "oid": "009",
+      "url": "https://media.naver.com/press/009",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "[속보] 법원 “오세훈, 명태균에 여론조사 의뢰했을 가능성 상당”",
+          "url": "https://n.news.naver.com/article/009/0005710662",
+          "oid": "009",
+          "aid": "0005710662"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "“퇴사하지 말고 오래 다니세요”…직원에 5000만원 인센 준다는 회사",
+          "url": "https://n.news.naver.com/article/009/0005710576",
+          "oid": "009",
+          "aid": "0005710576"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "‘카지노 증시’ 논란 끝이 아니다…레버리지ETF가 만든 회사채 ‘돈맥경화’ [기자24시]",
+          "url": "https://n.news.naver.com/article/009/0005710641",
+          "oid": "009",
+          "aid": "0005710641"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "“이젠 슬퍼만 하지는 않아”…위암 투병 중 떠난 고 유채영 12주기, 마음 전한 남편",
+          "url": "https://n.news.naver.com/article/009/0005710559",
+          "oid": "009",
+          "aid": "0005710559"
+        },
+        {
+          "rank": 5,
+          "type": "photo",
+          "title": "李근저당 논란에…野 \"대출 틀어막더니 편법꼼수\" 21시간전",
+          "url": "https://n.news.naver.com/article/009/0005710365",
+          "oid": "009",
+          "aid": "0005710365"
+        },
+        {
+          "rank": 6,
+          "type": "photo",
+          "title": "대통령도 근저당 끼고 집 파는 나라…부동산규제 과도하단 증거 [사설] 22시간전",
+          "url": "https://n.news.naver.com/article/009/0005710252",
+          "oid": "009",
+          "aid": "0005710252"
+        }
+      ],
+      "count": 6
+    },
+    "서울경제": {
+      "oid": "011",
+      "url": "https://media.naver.com/press/011",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "[속보] ‘여론조사비 대납’ 오세훈, 1심서 벌금 1000만원‥대법 확정시 당선무효",
+          "url": "https://n.news.naver.com/article/011/0004644007",
+          "oid": "011",
+          "aid": "0004644007"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "‘변동성 지옥’ 된 코스피…中 큰손도 손절하고 도망쳤다",
+          "url": "https://n.news.naver.com/article/011/0004643982",
+          "oid": "011",
+          "aid": "0004643982"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "‘7억 받으면 뭐 하지?’ 행복한 고민도 잠시…SK하닉, 1년만에 성과급 재협상",
+          "url": "https://n.news.naver.com/article/011/0004643980",
+          "oid": "011",
+          "aid": "0004643980"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "40도에서 갑자기 12도 뚝 떨어진다…‘역대급 폭염’ 사라지는 유럽, 대체 무슨 일?",
+          "url": "https://n.news.naver.com/article/011/0004643891",
+          "oid": "011",
+          "aid": "0004643891"
+        },
+        {
+          "rank": 5,
+          "type": "photo",
+          "title": "美서 벌어 韓에 쓴다…실리콘밸리서 크는 K스타트업 1일전",
+          "url": "https://n.news.naver.com/article/011/0004643226",
+          "oid": "011",
+          "aid": "0004643226"
+        },
+        {
+          "rank": 6,
+          "type": "headline",
+          "title": "상반기 상장사 M&A 75개 ‘주춤’… 주식매수청구 54억 ‘급감’",
+          "url": "https://n.news.naver.com/article/011/0004643959",
+          "oid": "011",
+          "aid": "0004643959"
+        }
+      ],
+      "count": 6
+    },
+    "파이낸셜뉴스": {
+      "oid": "014",
+      "url": "https://media.naver.com/press/014",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "'코스피 1만' 외치고 '레버리지' 열고…108조 몰린 K증시 [증시는 왜]",
+          "url": "https://n.news.naver.com/article/014/0005551315",
+          "oid": "014",
+          "aid": "0005551315"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "[속보] '명태균 여론조사 대납' 오세훈 벌금 1000만원 선고...당선무효형",
+          "url": "https://n.news.naver.com/article/014/0005551425",
+          "oid": "014",
+          "aid": "0005551425"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "코스피 한 달 만에 28% 폭락시킨 주범...알고 보니 '이것' 때문이었다",
+          "url": "https://n.news.naver.com/article/014/0005551044",
+          "oid": "014",
+          "aid": "0005551044"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "\"172명 탔는데 아찔\"...티웨이 승객 보조배터리서 연기, 승무원이 '조기 진압'",
+          "url": "https://n.news.naver.com/article/014/0005551078",
+          "oid": "014",
+          "aid": "0005551078"
+        },
+        {
+          "rank": 5,
+          "type": "photo",
+          "title": "트럼프 '301조 관세' 곧 발표…한미 합의 '15% 상한' 지킬까 21시간전",
+          "url": "https://n.news.naver.com/article/014/0005550958",
+          "oid": "014",
+          "aid": "0005550958"
+        },
+        {
+          "rank": 6,
+          "type": "photo",
+          "title": "'SK하닉 실적발표' 코스피 반등 시험대[주간 증시 전망] 2일전",
+          "url": "https://n.news.naver.com/article/014/0005549799",
+          "oid": "014",
+          "aid": "0005549799"
+        }
+      ],
+      "count": 6
+    },
+    "한국경제": {
+      "oid": "015",
+      "url": "https://media.naver.com/press/015",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "\"대표도 장관도 다 고발\"…삼전닉스 돈잔치, 터질 게 터졌다",
+          "url": "https://n.news.naver.com/article/015/0005312507",
+          "oid": "015",
+          "aid": "0005312507"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "[속보] '명태균 여론조사 대납 의혹' 오세훈, 1심서 벌금 1000만원",
+          "url": "https://n.news.naver.com/article/015/0005312578",
+          "oid": "015",
+          "aid": "0005312578"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "\"내 집 마련은 투기가 아니다\" 국민 토론회 앞두고 들끓는 민심",
+          "url": "https://n.news.naver.com/article/015/0005312573",
+          "oid": "015",
+          "aid": "0005312573"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "함연지도 배우 접고 오뚜기行…K푸드 '90년대생 오너' 등판 [권용훈의 트렌드워치]",
+          "url": "https://n.news.naver.com/article/015/0005312398",
+          "oid": "015",
+          "aid": "0005312398"
+        },
+        {
+          "rank": 5,
+          "type": "headline",
+          "title": "靑 \"李 대통령, 17.7억 근저당 이자 안 받는다\"",
+          "url": "https://n.news.naver.com/article/015/0005312540",
+          "oid": "015",
+          "aid": "0005312540"
+        },
+        {
+          "rank": 6,
+          "type": "headline",
+          "title": "넉 달 미뤄졌던 세종집무실 당선작 확정…설계 착수",
+          "url": "https://n.news.naver.com/article/015/0005312512",
+          "oid": "015",
+          "aid": "0005312512"
+        }
+      ],
+      "count": 6
+    },
+    "헤럴드경제": {
+      "oid": "016",
+      "url": "https://media.naver.com/press/016",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "[속보] 법원 “오세훈 후원자가 대납한 여론조사비는 정치자금”",
+          "url": "https://n.news.naver.com/article/016/0002673546",
+          "oid": "016",
+          "aid": "0002673546"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "장윤기에 발칵 뒤집한 경찰…“국수본 지시였다” 최고 지휘부로 번졌다 [세상&]",
+          "url": "https://n.news.naver.com/article/016/0002673397",
+          "oid": "016",
+          "aid": "0002673397"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "한동훈 “李대통령, ‘신종 부동산 거래 기법’ 만들어…세무조사 받아야”",
+          "url": "https://n.news.naver.com/article/016/0002673543",
+          "oid": "016",
+          "aid": "0002673543"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "“주식 불장에 재산도 불었다”…작년 1인당 순자산 2억7475만원 1년새 2291만원 늘었다",
+          "url": "https://n.news.naver.com/article/016/0002673500",
+          "oid": "016",
+          "aid": "0002673500"
+        },
+        {
+          "rank": 5,
+          "type": "headline",
+          "title": "오세훈, ‘명태균 여론조사 대납’ 1심서 벌금 1000만원…확정시 시장식 상실",
+          "url": "https://n.news.naver.com/article/016/0002673549",
+          "oid": "016",
+          "aid": "0002673549"
+        },
+        {
+          "rank": 6,
+          "type": "headline",
+          "title": "美재무 “中 AI 모델의 지재권 도용 조사”",
+          "url": "https://n.news.naver.com/article/016/0002673539",
+          "oid": "016",
+          "aid": "0002673539"
+        }
+      ],
+      "count": 6
+    },
+    "이데일리": {
+      "oid": "018",
+      "url": "https://media.naver.com/press/018",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "[속보]오세훈 '여론조사 대납' 1심 벌금 1000만원…확정 시 시장직 상실",
+          "url": "https://n.news.naver.com/article/018/0006334738",
+          "oid": "018",
+          "aid": "0006334738"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "靑 “李대통령, 17억 상당 근저당 이자 받지 않기로 해”",
+          "url": "https://n.news.naver.com/article/018/0006334653",
+          "oid": "018",
+          "aid": "0006334653"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "\"같은 월급쟁이 아냐\" 상위 1% 순자산은 33억…절반은 \"노후 준비 부족\"(종합)",
+          "url": "https://n.news.naver.com/article/018/0006334708",
+          "oid": "018",
+          "aid": "0006334708"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "美, 열흘 넘게 이란 공격…이스라엘은 왜 빠졌나",
+          "url": "https://n.news.naver.com/article/018/0006334719",
+          "oid": "018",
+          "aid": "0006334719"
+        },
+        {
+          "rank": 5,
+          "type": "headline",
+          "title": "비축유 바닥났는데 원유 우회로마저 막혀…최악 오일쇼크 온다",
+          "url": "https://n.news.naver.com/article/018/0006334188",
+          "oid": "018",
+          "aid": "0006334188"
+        },
+        {
+          "rank": 6,
+          "type": "headline",
+          "title": "호르무즈 이어 홍해 봉쇄까지…에너지 공급망 위협 확대",
+          "url": "https://n.news.naver.com/article/018/0006333794",
+          "oid": "018",
+          "aid": "0006333794"
+        }
+      ],
+      "count": 6
+    },
+    "아시아경제": {
+      "oid": "277",
+      "url": "https://media.naver.com/press/277",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "\"1000만원이 218억 된다\"…'ETF 아버지'가 손자 태어나면 사준다는 종목 [코스피 1만시대]",
+          "url": "https://n.news.naver.com/article/277/0005792865",
+          "oid": "277",
+          "aid": "0005792865"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "\"퇴사하지 마세요, 5000만원 보너스 드릴게요\"…인재 붙잡기 초강수 둔 '이 회사'",
+          "url": "https://n.news.naver.com/article/277/0005792799",
+          "oid": "277",
+          "aid": "0005792799"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "3000원 과자 때문에…'3억 연봉자' 해고, 무슨 일",
+          "url": "https://n.news.naver.com/article/277/0005793112",
+          "oid": "277",
+          "aid": "0005793112"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "[속보] 법원 “오세훈, 공직자격 상실형 선고 불가피”",
+          "url": "https://n.news.naver.com/article/277/0005793176",
+          "oid": "277",
+          "aid": "0005793176"
+        },
+        {
+          "rank": 5,
+          "type": "photo",
+          "title": "[속보] 법원 “명태균 진술, 객관적 증언 부분 신빙성 있어” 1시간전",
+          "url": "https://n.news.naver.com/article/277/0005793130",
+          "oid": "277",
+          "aid": "0005793130"
+        },
+        {
+          "rank": 6,
+          "type": "photo",
+          "title": "5·18 진압, 간첩조작 등 관련자 167명 포상 취소 21시간전",
+          "url": "https://n.news.naver.com/article/277/0005792677",
+          "oid": "277",
+          "aid": "0005792677"
+        }
+      ],
+      "count": 6
+    },
+    "조선비즈": {
+      "oid": "366",
+      "url": "https://media.naver.com/press/366",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "[속보] 오세훈, 1심서 벌금 1000만원 선고… 당선무효형",
+          "url": "https://n.news.naver.com/article/366/0001180996",
+          "oid": "366",
+          "aid": "0001180996"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "경찰, ‘정청래 차량 가격’ 50대 검거…재물손괴죄 등 검토",
+          "url": "https://n.news.naver.com/article/366/0001180982",
+          "oid": "366",
+          "aid": "0001180982"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "靑 “李 근저당, 은행 대출과 똑같지만 이자는 안 받아”",
+          "url": "https://n.news.naver.com/article/366/0001180923",
+          "oid": "366",
+          "aid": "0001180923"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "“‘아빠 다른 것 아니냐’더니 장난”… 산부인과 의사 막말에 피해담 속출",
+          "url": "https://n.news.naver.com/article/366/0001180985",
+          "oid": "366",
+          "aid": "0001180985"
+        },
+        {
+          "rank": 5,
+          "type": "photo",
+          "title": "트럼프 “전사자 기리기 위해 다시 한번 이란 공습” 2일전",
+          "url": "https://n.news.naver.com/article/366/0001180316",
+          "oid": "366",
+          "aid": "0001180316"
+        },
+        {
+          "rank": 6,
+          "type": "photo",
+          "title": "동영상 뉴스",
+          "url": "https://n.news.naver.com/article/366/0001180229",
+          "oid": "366",
+          "aid": "0001180229"
+        }
+      ],
+      "count": 6
+    },
+    "연합뉴스": {
+      "oid": "001",
+      "url": "https://media.naver.com/press/001",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "[1보] '여론조사 대납' 오세훈 1심 벌금 1천만원…확정시 시장직 상실",
+          "url": "https://n.news.naver.com/article/001/0016208704",
+          "oid": "001",
+          "aid": "0016208704"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "靑 \"李대통령, 근저당 이자 안 받기로…증여세는 규정따라 처리\"",
+          "url": "https://n.news.naver.com/article/001/0016208449",
+          "oid": "001",
+          "aid": "0016208449"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "민변 사법센터 \"檢보완수사, 유일한 피해자 보호방안 아냐\"",
+          "url": "https://n.news.naver.com/article/001/0016208690",
+          "oid": "001",
+          "aid": "0016208690"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "\"독서실 온도 너무 낮아\"…흉기 들고 관리실 배회 20대 체포",
+          "url": "https://n.news.naver.com/article/001/0016208350",
+          "oid": "001",
+          "aid": "0016208350"
+        },
+        {
+          "rank": 5,
+          "type": "photo",
+          "title": "동영상 뉴스",
+          "url": "https://n.news.naver.com/article/001/0016207835",
+          "oid": "001",
+          "aid": "0016207835"
+        },
+        {
+          "rank": 6,
+          "type": "photo",
+          "title": "동영상 뉴스",
+          "url": "https://n.news.naver.com/article/001/0016207533",
+          "oid": "001",
+          "aid": "0016207533"
+        }
+      ],
+      "count": 6
+    },
+    "뉴시스": {
+      "oid": "003",
+      "url": "https://media.naver.com/press/003",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "靑 \"이 대통령, '17억 근저당' 이자 안 받는데 따른 증여세는 규정 따라 처리\"",
+          "url": "https://n.news.naver.com/article/003/0014081477",
+          "oid": "003",
+          "aid": "0014081477"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "[속보]법원 \"오세훈 여론조사 10건 중 5건 비용대납\"",
+          "url": "https://n.news.naver.com/article/003/0014081640",
+          "oid": "003",
+          "aid": "0014081640"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "월급쟁이 가구 평균 연소득 8531만원…절반은 \"노후 대비 부족\"",
+          "url": "https://n.news.naver.com/article/003/0014081677",
+          "oid": "003",
+          "aid": "0014081677"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "가계대출 조이는 금융당국…상호금융도 고강도 총량관리",
+          "url": "https://n.news.naver.com/article/003/0014081489",
+          "oid": "003",
+          "aid": "0014081489"
+        },
+        {
+          "rank": 5,
+          "type": "headline",
+          "title": "靑, 전문가 초청해 '李 17.7억 근저당 거래' 팩트체크…\"꼼수·특혜 아냐\"(종합)",
+          "url": "https://n.news.naver.com/article/003/0014080977",
+          "oid": "003",
+          "aid": "0014080977"
+        },
+        {
+          "rank": 6,
+          "type": "headline",
+          "title": "\"매도인 대출 가능\"…부동산 '셀러 파이낸싱' 확산 조짐",
+          "url": "https://n.news.naver.com/article/003/0014081442",
+          "oid": "003",
+          "aid": "0014081442"
+        }
+      ],
+      "count": 6
+    },
+    "뉴스1": {
+      "oid": "421",
+      "url": "https://media.naver.com/press/421",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "[속보] '여론조사비 대납' 오세훈 1심 벌금 1000만 원 선고",
+          "url": "https://n.news.naver.com/article/421/0009073153",
+          "oid": "421",
+          "aid": "0009073153"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "'빅5'급 국립대병원 키우고 공공의료 'AI 고속도로' 뚫는다(종합)",
+          "url": "https://n.news.naver.com/article/421/0009072899",
+          "oid": "421",
+          "aid": "0009072899"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "챗GPT '탈옥' 현실로…인간통제 뚫고 외부 해킹 '초유의 AI사건'",
+          "url": "https://n.news.naver.com/article/421/0009072694",
+          "oid": "421",
+          "aid": "0009072694"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "이병태 \"배재고 사태 원인 제공자 李대통령…오만이 부른 국민 갈등\"",
+          "url": "https://n.news.naver.com/article/421/0009072925",
+          "oid": "421",
+          "aid": "0009072925"
+        },
+        {
+          "rank": 5,
+          "type": "photo",
+          "title": "동영상 뉴스",
+          "url": "https://n.news.naver.com/article/421/0009067895",
+          "oid": "421",
+          "aid": "0009067895"
+        },
+        {
+          "rank": 6,
+          "type": "headline",
+          "title": "위",
+          "url": "https://n.news.naver.com/article/421/0009072477",
+          "oid": "421",
+          "aid": "0009072477"
+        }
+      ],
+      "count": 6
+    },
+    "YTN": {
+      "oid": "052",
+      "url": "https://media.naver.com/press/052",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "청와대 \"이 대통령, 17억 근저당 이자 안 받기로\"",
+          "url": "https://n.news.naver.com/article/052/0002382968",
+          "oid": "052",
+          "aid": "0002382968"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "이 대통령 \"큰 무리 없이 필요한 의료개혁 진행되고 있어\" [현장영상+]",
+          "url": "https://n.news.naver.com/article/052/0002382927",
+          "oid": "052",
+          "aid": "0002382927"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "'삼전·닉스' 강세에 코스피 4일 만에 7천선 탈환",
+          "url": "https://n.news.naver.com/article/052/0002382950",
+          "oid": "052",
+          "aid": "0002382950"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "특검, '관저 의혹' 김건희 조사...김 씨, 오전 진술 거부",
+          "url": "https://n.news.naver.com/article/052/0002382900",
+          "oid": "052",
+          "aid": "0002382900"
+        },
+        {
+          "rank": 5,
+          "type": "headline",
+          "title": "동영상 뉴스 재생시간 05:35",
+          "url": "https://n.news.naver.com/article/052/0002382954",
+          "oid": "052",
+          "aid": "0002382954"
+        },
+        {
+          "rank": 6,
+          "type": "photo",
+          "title": "임광현 \"철저한 체납관리로 국가재정 뒷받침\" 총력 7분전",
+          "url": "https://n.news.naver.com/article/052/0002382972",
+          "oid": "052",
+          "aid": "0002382972"
+        }
+      ],
+      "count": 6
+    },
+    "SBS": {
+      "oid": "055",
+      "url": "https://media.naver.com/press/055",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "[속보] 법원 \"오세훈, 명태균에 여론조사 의뢰하고 후원자가 비용 대납\"",
+          "url": "https://n.news.naver.com/article/055/0001374499",
+          "oid": "055",
+          "aid": "0001374499"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "부부 별세로 독도 인구 0명…유품 수습 거부한 유족, 왜",
+          "url": "https://n.news.naver.com/article/055/0001374353",
+          "oid": "055",
+          "aid": "0001374353"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "수색 닷새 만에…수풀 위 40대 남성 시신 발견",
+          "url": "https://n.news.naver.com/article/055/0001374454",
+          "oid": "055",
+          "aid": "0001374454"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "옆집 담배 연기에 \"제발 그만\"…임신부 무시하다 결국",
+          "url": "https://n.news.naver.com/article/055/0001374452",
+          "oid": "055",
+          "aid": "0001374452"
+        },
+        {
+          "rank": 5,
+          "type": "headline",
+          "title": "동영상 뉴스 재생시간 01:50",
+          "url": "https://n.news.naver.com/article/055/0001374495",
+          "oid": "055",
+          "aid": "0001374495"
+        },
+        {
+          "rank": 6,
+          "type": "photo",
+          "title": "동영상 뉴스",
+          "url": "https://n.news.naver.com/article/055/0001374436",
+          "oid": "055",
+          "aid": "0001374436"
+        }
+      ],
+      "count": 6
+    },
+    "KBS": {
+      "oid": "056",
+      "url": "https://media.naver.com/press/056",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "[속보] ‘여론조사 대납’ 오세훈 벌금 1천만원…확정시 시장직 상실",
+          "url": "https://n.news.naver.com/article/056/0012222860",
+          "oid": "056",
+          "aid": "0012222860"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "‘영업이익 N%’ 성과급 원조 SK하이닉스, 1년 만에 ‘재논의’",
+          "url": "https://n.news.naver.com/article/056/0012222843",
+          "oid": "056",
+          "aid": "0012222843"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "홈플러스 “67개 점포 모두 영업 재개 방침”",
+          "url": "https://n.news.naver.com/article/056/0012222777",
+          "oid": "056",
+          "aid": "0012222777"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "“올해 서울 아파트 단지 17.3%가 역대 최고가 기록”",
+          "url": "https://n.news.naver.com/article/056/0012222828",
+          "oid": "056",
+          "aid": "0012222828"
+        },
+        {
+          "rank": 5,
+          "type": "headline",
+          "title": "동영상 뉴스 재생시간 05:32",
+          "url": "https://n.news.naver.com/article/056/0012222844",
+          "oid": "056",
+          "aid": "0012222844"
+        },
+        {
+          "rank": 6,
+          "type": "headline",
+          "title": "동영상 뉴스 재생시간 01:08",
+          "url": "https://n.news.naver.com/article/056/0012222816",
+          "oid": "056",
+          "aid": "0012222816"
+        }
+      ],
+      "count": 6
+    },
+    "MBN": {
+      "oid": "057",
+      "url": "https://media.naver.com/press/057",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "[속보] '여론조사 대납' 오세훈 1심 벌금 1천만원…확정시 시장식 상실",
+          "url": "https://n.news.naver.com/article/057/0001959805",
+          "oid": "057",
+          "aid": "0001959805"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "청와대 \"이 대통령, 근저당 이자 안 받기로…증여세 규정 준수\"",
+          "url": "https://n.news.naver.com/article/057/0001959791",
+          "oid": "057",
+          "aid": "0001959791"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "이병태 \"이 대통령이 배재고 사태 원인 제공\" 주장",
+          "url": "https://n.news.naver.com/article/057/0001959797",
+          "oid": "057",
+          "aid": "0001959797"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "\"여의도 더현대에 불나요\"…출동해보니 '검은 구름'이었다",
+          "url": "https://n.news.naver.com/article/057/0001959766",
+          "oid": "057",
+          "aid": "0001959766"
+        },
+        {
+          "rank": 5,
+          "type": "photo",
+          "title": "동영상 뉴스",
+          "url": "https://n.news.naver.com/article/057/0001959759",
+          "oid": "057",
+          "aid": "0001959759"
+        },
+        {
+          "rank": 6,
+          "type": "photo",
+          "title": "동영상 뉴스",
+          "url": "https://n.news.naver.com/article/057/0001959672",
+          "oid": "057",
+          "aid": "0001959672"
+        }
+      ],
+      "count": 6
+    },
+    "MBC": {
+      "oid": "214",
+      "url": "https://media.naver.com/press/214",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "[속보] 오세훈 시장, '명태균 여론조사비 대납' 의혹 1심 유죄‥벌금 1천만 원",
+          "url": "https://n.news.naver.com/article/214/0001513192",
+          "oid": "214",
+          "aid": "0001513192"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "[단독] '이 대통령 명예훼손' 혐의 모스 탄 결국 재판행",
+          "url": "https://n.news.naver.com/article/214/0001513178",
+          "oid": "214",
+          "aid": "0001513178"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "청와대 \"이 대통령 17억 근저당, 은행 대출과 같은 것‥이자 안 받기로\"",
+          "url": "https://n.news.naver.com/article/214/0001513190",
+          "oid": "214",
+          "aid": "0001513190"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "월드컵 끝나자마자 '뒤통수' \"정말 역겨워\" 캐나다 발칵",
+          "url": "https://n.news.naver.com/article/214/0001513154",
+          "oid": "214",
+          "aid": "0001513154"
+        },
+        {
+          "rank": 5,
+          "type": "headline",
+          "title": "동영상 뉴스 재생시간 02:44",
+          "url": "https://n.news.naver.com/article/214/0001513186",
+          "oid": "214",
+          "aid": "0001513186"
+        },
+        {
+          "rank": 6,
+          "type": "photo",
+          "title": "동영상 뉴스",
+          "url": "https://n.news.naver.com/article/214/0001513203",
+          "oid": "214",
+          "aid": "0001513203"
+        }
+      ],
+      "count": 6
+    },
+    "연합뉴스TV": {
+      "oid": "422",
+      "url": "https://media.naver.com/press/422",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "[속보] '여론조사비 대납' 오세훈 1심 벌금 1천만 원",
+          "url": "https://n.news.naver.com/article/422/0000887720",
+          "oid": "422",
+          "aid": "0000887720"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "靑 \"이 대통령, 근저당 이자 받지 않기로…증여세 규정 따라 처리\"",
+          "url": "https://n.news.naver.com/article/422/0000887685",
+          "oid": "422",
+          "aid": "0000887685"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "\"여름 휴가철에 하루 614만 명 이동\"…가장 붐비는 시기는?",
+          "url": "https://n.news.naver.com/article/422/0000887657",
+          "oid": "422",
+          "aid": "0000887657"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "'아미' 분노에 놀란 칠레 정부…BTS 국립경기장 공연 승인",
+          "url": "https://n.news.naver.com/article/422/0000887719",
+          "oid": "422",
+          "aid": "0000887719"
+        },
+        {
+          "rank": 5,
+          "type": "headline",
+          "title": "동영상 뉴스 재생시간 05:21",
+          "url": "https://n.news.naver.com/article/422/0000824387",
+          "oid": "422",
+          "aid": "0000824387"
+        },
+        {
+          "rank": 6,
+          "type": "headline",
+          "title": "동영상 뉴스 재생시간 06:09",
+          "url": "https://n.news.naver.com/article/422/0000820723",
+          "oid": "422",
+          "aid": "0000820723"
+        }
+      ],
+      "count": 6
+    },
+    "JTBC": {
+      "oid": "437",
+      "url": "https://media.naver.com/press/437",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "[속보] '여론조사 대납' 오세훈 1심 벌금 1천만원…확정시 시장직 상실",
+          "url": "https://n.news.naver.com/article/437/0000502469",
+          "oid": "437",
+          "aid": "0000502469"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "'셀프 팩트체크' 나선 청와대...\"17억 근저당, 이자 안 받아\"",
+          "url": "https://n.news.naver.com/article/437/0000502458",
+          "oid": "437",
+          "aid": "0000502458"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "정청래 25.7% 김민석 21.5% 당대표 적합도 오차범위 내 접전",
+          "url": "https://n.news.naver.com/article/437/0000502446",
+          "oid": "437",
+          "aid": "0000502446"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "\"급제동하며 튕겨나가\"…순천 재활용품 수거차량서 60대 작업자 숨져",
+          "url": "https://n.news.naver.com/article/437/0000502463",
+          "oid": "437",
+          "aid": "0000502463"
+        },
+        {
+          "rank": 5,
+          "type": "headline",
+          "title": "동영상 뉴스 재생시간 00:50",
+          "url": "https://n.news.naver.com/article/437/0000502460",
+          "oid": "437",
+          "aid": "0000502460"
+        },
+        {
+          "rank": 6,
+          "type": "photo",
+          "title": "동영상 뉴스",
+          "url": "https://n.news.naver.com/article/437/0000502454",
+          "oid": "437",
+          "aid": "0000502454"
+        }
+      ],
+      "count": 6
+    },
+    "TV조선": {
+      "oid": "448",
+      "url": "https://media.naver.com/press/448",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "靑 \"李, 아파트 매각 '17억 근저당' 이자 안 받기로\"",
+          "url": "https://n.news.naver.com/article/448/0000628518",
+          "oid": "448",
+          "aid": "0000628518"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "국힘 주진우 \"우원식, 82억 쓴 해외출장 14회 모두 배우자 동행, 수사해야\"",
+          "url": "https://n.news.naver.com/article/448/0000628538",
+          "oid": "448",
+          "aid": "0000628538"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "유시민 \"李대통령, 뉴이재명 수장…썩은내 나기 전 정화해야”",
+          "url": "https://n.news.naver.com/article/448/0000628404",
+          "oid": "448",
+          "aid": "0000628404"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "\"에어컨 온도 누가 낮춰!\" 화가 나 흉기 들고 돌아다닌 20대 남성 검거",
+          "url": "https://n.news.naver.com/article/448/0000628556",
+          "oid": "448",
+          "aid": "0000628556"
+        },
+        {
+          "rank": 5,
+          "type": "photo",
+          "title": "트럼프 \"복제약 관세 2년 유예…2028년부터 100%·1년 뒤 200% 부과\" 1시간전",
+          "url": "https://n.news.naver.com/article/448/0000628534",
+          "oid": "448",
+          "aid": "0000628534"
+        },
+        {
+          "rank": 6,
+          "type": "photo",
+          "title": "동영상 뉴스",
+          "url": "https://n.news.naver.com/article/448/0000628434",
+          "oid": "448",
+          "aid": "0000628434"
+        }
+      ],
+      "count": 6
+    },
+    "채널A": {
+      "oid": "449",
+      "url": "https://media.naver.com/press/449",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "[속보]‘명태균 여론조사’ 오세훈 1심 벌금 1000만원",
+          "url": "https://n.news.naver.com/article/449/0000353881",
+          "oid": "449",
+          "aid": "0000353881"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "靑 “李대통령 17억 근저당, 은행대출과 같아…이자 안 받기로”",
+          "url": "https://n.news.naver.com/article/449/0000353857",
+          "oid": "449",
+          "aid": "0000353857"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "이란, 트럼프 암살 시도? ‘백악관 총격 사건’ 사진 붙여 미사일 발사 [현장영상]",
+          "url": "https://n.news.naver.com/article/449/0000353845",
+          "oid": "449",
+          "aid": "0000353845"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "김은혜 “부정선거 주장은 이재명 대통령도 했다” [현장영상]",
+          "url": "https://n.news.naver.com/article/449/0000353844",
+          "oid": "449",
+          "aid": "0000353844"
+        },
+        {
+          "rank": 5,
+          "type": "headline",
+          "title": "동영상 뉴스 재생시간 00:59",
+          "url": "https://n.news.naver.com/article/449/0000353877",
+          "oid": "449",
+          "aid": "0000353877"
+        },
+        {
+          "rank": 6,
+          "type": "headline",
+          "title": "동영상 뉴스 재생시간 00:54",
+          "url": "https://n.news.naver.com/article/449/0000353879",
+          "oid": "449",
+          "aid": "0000353879"
+        }
+      ],
+      "count": 6
+    },
+    "프레시안": {
+      "oid": "002",
+      "url": "https://media.naver.com/press/002",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "李대통령 \"광주 반도체 공장도 쟁의대상? 이런 식이면 끝이 없다\"",
+          "url": "https://n.news.naver.com/article/002/0002449129",
+          "oid": "002",
+          "aid": "0002449129"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "'李 측근' 김용, 정청래에 일침…\"국민들이 무슨 토끼냐\"",
+          "url": "https://n.news.naver.com/article/002/0002449162",
+          "oid": "002",
+          "aid": "0002449162"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "김민석, 유시민에 \"김지하 같은 '지식인 변침'…평론 옷 벗은 정계회귀\"",
+          "url": "https://n.news.naver.com/article/002/0002449196",
+          "oid": "002",
+          "aid": "0002449196"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "민주당, 결국 다시 '보완수사권 폐지'로…\"檢 수사권 되살리면 안돼\"",
+          "url": "https://n.news.naver.com/article/002/0002449188",
+          "oid": "002",
+          "aid": "0002449188"
+        },
+        {
+          "rank": 5,
+          "type": "headline",
+          "title": "'명태균 여론조사 대납' 오세훈, 1심 벌금 1000만 원…시장직 상실 가능형",
+          "url": "https://n.news.naver.com/article/002/0002449246",
+          "oid": "002",
+          "aid": "0002449246"
+        },
+        {
+          "rank": 6,
+          "type": "headline",
+          "title": "\"진짜,  잘 하고 있는 것 맞아?\"[손문상의 그림세상]",
+          "url": "https://n.news.naver.com/article/002/0002449109",
+          "oid": "002",
+          "aid": "0002449109"
+        }
+      ],
+      "count": 6
+    },
+    "오마이뉴스": {
+      "oid": "047",
+      "url": "https://media.naver.com/press/047",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "\"혐오에 동참 안 하면 이상한 사람처럼...\" 교사들이 말하는 요즘 학교",
+          "url": "https://n.news.naver.com/article/047/0002523277",
+          "oid": "047",
+          "aid": "0002523277"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "청와대, 호르무즈 해협 군함 파견 요청 보도에 \"특정 자산 요청 없어\"",
+          "url": "https://n.news.naver.com/article/047/0002523299",
+          "oid": "047",
+          "aid": "0002523299"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "'AI 기본의료' 지역의료 공백 메운다... 보건소부터 응급실까지 전면 도입",
+          "url": "https://n.news.naver.com/article/047/0002523297",
+          "oid": "047",
+          "aid": "0002523297"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "베트남 갈 필요 없네, 거창에서 백두대간 기운 받으세요",
+          "url": "https://n.news.naver.com/article/047/0002523298",
+          "oid": "047",
+          "aid": "0002523298"
+        },
+        {
+          "rank": 5,
+          "type": "headline",
+          "title": "동영상 뉴스 재생시간 04:16",
+          "url": "https://n.news.naver.com/article/047/0002523302",
+          "oid": "047",
+          "aid": "0002523302"
+        },
+        {
+          "rank": 6,
+          "type": "headline",
+          "title": "아픈 아버지에게 암투병중인 친구가 보낸 문자에 눈물이 핑",
+          "url": "https://n.news.naver.com/article/047/0002520923",
+          "oid": "047",
+          "aid": "0002520923"
+        }
+      ],
+      "count": 6
+    },
+    "노컷뉴스": {
+      "oid": "079",
+      "url": "https://media.naver.com/press/079",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "[속보]'명태균 게이트' 오세훈 벌금 1천만원…확정시 당선무효",
+          "url": "https://n.news.naver.com/article/079/0004170934",
+          "oid": "079",
+          "aid": "0004170934"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "BTS 공연에 소상공인 매출 3.6%↑…외국인 소비 72% 급증",
+          "url": "https://n.news.naver.com/article/079/0004170931",
+          "oid": "079",
+          "aid": "0004170931"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "은행 금리감면 문턱 낮춘다…체크카드·할부결제도 인정",
+          "url": "https://n.news.naver.com/article/079/0004170917",
+          "oid": "079",
+          "aid": "0004170917"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "\"독서실 온도 왜 이렇게 낮냐\"…흉기 들고 아파트 배회한 수험생 체포",
+          "url": "https://n.news.naver.com/article/079/0004170902",
+          "oid": "079",
+          "aid": "0004170902"
+        },
+        {
+          "rank": 5,
+          "type": "headline",
+          "title": "AI로 '응급실 뺑뺑이' 막는다…정부, '지역 완결형' 의료 추진",
+          "url": "https://n.news.naver.com/article/079/0004170904",
+          "oid": "079",
+          "aid": "0004170904"
+        },
+        {
+          "rank": 6,
+          "type": "headline",
+          "title": "검찰, '장윤기 부실수사' 전 광산서 형사과장 피의자 소환",
+          "url": "https://n.news.naver.com/article/079/0004170919",
+          "oid": "079",
+          "aid": "0004170919"
+        }
+      ],
+      "count": 6
+    },
+    "데일리안": {
+      "oid": "119",
+      "url": "https://media.naver.com/press/119",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "[속보] 法 \"오세훈 여론조사 5건 비용 대납…2100만원 정치자금\"",
+          "url": "https://n.news.naver.com/article/119/0003113782",
+          "oid": "119",
+          "aid": "0003113782"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "청와대 \"李대통령 17억 근저당 설정, 이자 안 받기로\"",
+          "url": "https://n.news.naver.com/article/119/0003113761",
+          "oid": "119",
+          "aid": "0003113761"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "[단독] 노조 이어 관리직도 돌아섰다…현대모비스, 램프사업부 팀장급 '집단성명'",
+          "url": "https://n.news.naver.com/article/119/0003113721",
+          "oid": "119",
+          "aid": "0003113721"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "경찰, '정청래 차량 파손 혐의' 50대 남성 용의자 검거",
+          "url": "https://n.news.naver.com/article/119/0003113775",
+          "oid": "119",
+          "aid": "0003113775"
+        },
+        {
+          "rank": 5,
+          "type": "headline",
+          "title": "\"내 삶은 안 바뀌었다\"…2030에게 '비호감' 낙인 찍힌 정치권 [Now 2.30]",
+          "url": "https://n.news.naver.com/article/119/0003113539",
+          "oid": "119",
+          "aid": "0003113539"
+        },
+        {
+          "rank": 6,
+          "type": "headline",
+          "title": "‘올공’ 지키는 2030…\"기성정치 불신하지만 참정권 침해엔 분노\" [Now 2.30]",
+          "url": "https://n.news.naver.com/article/119/0003113102",
+          "oid": "119",
+          "aid": "0003113102"
+        }
+      ],
+      "count": 6
+    }
+  },
+  "errors": {}
+}
