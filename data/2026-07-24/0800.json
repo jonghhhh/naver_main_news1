@@ -1,0 +1,1933 @@
+{
+  "collected_at": "2026-07-24T08:53:33.034314+09:00",
+  "collected_at_kst": "2026-07-24 08:53:33",
+  "press_count": 35,
+  "presses": {
+    "국민일보": {
+      "oid": "005",
+      "url": "https://media.naver.com/press/005",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "단일종목 레버리지 예탁금 3000만원, 31일부터 조기 시행",
+          "url": "https://n.news.naver.com/article/005/0001862886",
+          "oid": "005",
+          "aid": "0001862886"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "“하닉이 삼전 추월하면 코스피 고점” 전망 애널리스트, 이번엔…“코스피 1만 간다”",
+          "url": "https://n.news.naver.com/article/005/0001862749",
+          "oid": "005",
+          "aid": "0001862749"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "[단독] 검찰, 李대통령 ‘정자동 호텔 개발 특혜 의혹’ 불기소",
+          "url": "https://n.news.naver.com/article/005/0001862775",
+          "oid": "005",
+          "aid": "0001862775"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "‘무섭다, 이제 그만 손절할래’… 롤러코스피에 개미 대탈출",
+          "url": "https://n.news.naver.com/article/005/0001862884",
+          "oid": "005",
+          "aid": "0001862884"
+        },
+        {
+          "rank": 5,
+          "type": "headline",
+          "title": "李 “보유세 강화… ‘똘똘한 한 채’로 투기”",
+          "url": "https://n.news.naver.com/article/005/0001862779",
+          "oid": "005",
+          "aid": "0001862779"
+        },
+        {
+          "rank": 6,
+          "type": "headline",
+          "title": "가액 기준 종부세 과세 공감… ‘초고가 1주택’ 혜택 제한 쟁점화",
+          "url": "https://n.news.naver.com/article/005/0001862805",
+          "oid": "005",
+          "aid": "0001862805"
+        }
+      ],
+      "count": 6
+    },
+    "동아일보": {
+      "oid": "020",
+      "url": "https://media.naver.com/press/020",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "美, 한국에 최대 12.5% ‘강제노동’ 관세 부과 확정",
+          "url": "https://n.news.naver.com/article/020/0003736223",
+          "oid": "020",
+          "aid": "0003736223"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "[속보]삼전닉스 레버리지 예탁금 3천만원, 이달 31일부터 조기 시행",
+          "url": "https://n.news.naver.com/article/020/0003736229",
+          "oid": "020",
+          "aid": "0003736229"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "“우리집 코앞에도 대형 물류센터”… 닷새만에 또 쿠팡 화재, 주민 불안",
+          "url": "https://n.news.naver.com/article/020/0003736160",
+          "oid": "020",
+          "aid": "0003736160"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "양양 낙산해변서 40대 여성 물에 빠져 숨진채 발견",
+          "url": "https://n.news.naver.com/article/020/0003736225",
+          "oid": "020",
+          "aid": "0003736225"
+        },
+        {
+          "rank": 5,
+          "type": "headline",
+          "title": "NYT “핵농축 이중잣대, 사우디는 되는데 한국은 왜 안되나”",
+          "url": "https://n.news.naver.com/article/020/0003736226",
+          "oid": "020",
+          "aid": "0003736226"
+        },
+        {
+          "rank": 6,
+          "type": "headline",
+          "title": "美, 한국에 최대 12.5% ‘강제노동 관세’ 부과",
+          "url": "https://n.news.naver.com/article/020/0003736221",
+          "oid": "020",
+          "aid": "0003736221"
+        }
+      ],
+      "count": 6
+    },
+    "문화일보": {
+      "oid": "021",
+      "url": "https://media.naver.com/press/021",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "[속보]‘하루만에 15%↓’ 테슬라 나락에 뉴욕 증시 휘청",
+          "url": "https://n.news.naver.com/article/021/0002806643",
+          "oid": "021",
+          "aid": "0002806643"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "[속보]서울 화곡동서 대낮에 10대 여고생 피습…남고생 현행범 체포",
+          "url": "https://n.news.naver.com/article/021/0002806661",
+          "oid": "021",
+          "aid": "0002806661"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "식대가 9만원인데…4인 가족 결혼식 가서 축의금 10만원",
+          "url": "https://n.news.naver.com/article/021/0002806644",
+          "oid": "021",
+          "aid": "0002806644"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "희귀 성 가진 아내 “아이 성씨는 내 것으로 하자”[당신생각은]",
+          "url": "https://n.news.naver.com/article/021/0002806675",
+          "oid": "021",
+          "aid": "0002806675"
+        },
+        {
+          "rank": 5,
+          "type": "photo",
+          "title": "정점식 만난 이준석 “李 부동산 실정 등 의견취합 고민” 2일전",
+          "url": "https://n.news.naver.com/article/021/0002805990",
+          "oid": "021",
+          "aid": "0002805990"
+        },
+        {
+          "rank": 6,
+          "type": "headline",
+          "title": "“단일종목 레버리지 ETF 도입 잘못” 63.7%-리얼미터",
+          "url": "https://n.news.naver.com/article/021/0002806676",
+          "oid": "021",
+          "aid": "0002806676"
+        }
+      ],
+      "count": 6
+    },
+    "세계일보": {
+      "oid": "022",
+      "url": "https://media.naver.com/press/022",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "‘발효식품의 반도체’ 종균 국산화로 K푸드 경쟁력 높인다 [농어촌이 미래다-그린 라이프]",
+          "url": "https://n.news.naver.com/article/022/0004145492",
+          "oid": "022",
+          "aid": "0004145492"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "“74조 매도폭탄 쏟아진다?”…1670조 국민연금이 밝힌 ‘실체’ [숫자 뒤의 진실]",
+          "url": "https://n.news.naver.com/article/022/0004145486",
+          "oid": "022",
+          "aid": "0004145486"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "경질된 우크라 국방장관, 젤렌스키에 “부총리 싫다… 복직 원해”",
+          "url": "https://n.news.naver.com/article/022/0004145548",
+          "oid": "022",
+          "aid": "0004145548"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "일·경험 있는데 왜 쉬었음 청년 됐나… 국책연구원 ‘쉬었음 청년 실태조사’ 하반기 공개",
+          "url": "https://n.news.naver.com/article/022/0004145533",
+          "oid": "022",
+          "aid": "0004145533"
+        },
+        {
+          "rank": 5,
+          "type": "photo",
+          "title": "한국 경제는 ‘깜짝 성장’했는데 청년 백수는 갈수록 늘어 [한강로 경제브리핑] 2시간전",
+          "url": "https://n.news.naver.com/article/022/0004145520",
+          "oid": "022",
+          "aid": "0004145520"
+        },
+        {
+          "rank": 6,
+          "type": "photo",
+          "title": "HD현대사이트솔루션, 저탄소 도료 개발 2시간전",
+          "url": "https://n.news.naver.com/article/022/0004145528",
+          "oid": "022",
+          "aid": "0004145528"
+        }
+      ],
+      "count": 6
+    },
+    "조선일보": {
+      "oid": "023",
+      "url": "https://media.naver.com/press/023",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "美, 한국에 최대 12.5% ‘강제 노동’ 관세 부과 확정",
+          "url": "https://n.news.naver.com/article/023/0003989379",
+          "oid": "023",
+          "aid": "0003989379"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "친청 전원 최고위원 본선행… ‘李 공소취소’ 외친 2명 탈락",
+          "url": "https://n.news.naver.com/article/023/0003989359",
+          "oid": "023",
+          "aid": "0003989359"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "“집 있는 사람 왜 전세대출 해주나”… 청년·신혼부부 핀셋 지원 예고",
+          "url": "https://n.news.naver.com/article/023/0003989363",
+          "oid": "023",
+          "aid": "0003989363"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "오세훈 1심 유죄에… 당권파 미소, 한동훈 신중, 이준석 걱정",
+          "url": "https://n.news.naver.com/article/023/0003989356",
+          "oid": "023",
+          "aid": "0003989356"
+        },
+        {
+          "rank": 5,
+          "type": "headline",
+          "title": "靑 “이미 합의한 15% 관세 지켜지도록 美와 긴밀히 협의”",
+          "url": "https://n.news.naver.com/article/023/0003989390",
+          "oid": "023",
+          "aid": "0003989390"
+        },
+        {
+          "rank": 6,
+          "type": "headline",
+          "title": "인텔의 화려한 부활...CPU 수요 급증에 15년만 최고 실적",
+          "url": "https://n.news.naver.com/article/023/0003989386",
+          "oid": "023",
+          "aid": "0003989386"
+        }
+      ],
+      "count": 6
+    },
+    "중앙일보": {
+      "oid": "025",
+      "url": "https://media.naver.com/press/025",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "美 글로벌관세 끝나자 ‘강제노동 관세’ 부과…한국에 12.5%",
+          "url": "https://n.news.naver.com/article/025/0003539851",
+          "oid": "025",
+          "aid": "0003539851"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "장한나 첼로 가격만 13.7억…‘현금부자’ 신현송, 82억 재산신고",
+          "url": "https://n.news.naver.com/article/025/0003539831",
+          "oid": "025",
+          "aid": "0003539831"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "“40억집, 월 보유세 330만원”…李 “발상 새롭다”는 이광수 해법",
+          "url": "https://n.news.naver.com/article/025/0003539743",
+          "oid": "025",
+          "aid": "0003539743"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "“외대부고·하나고 잘 보내더라” 사립초맘 ‘만장일치’ 중학교",
+          "url": "https://n.news.naver.com/article/025/0003539835",
+          "oid": "025",
+          "aid": "0003539835"
+        },
+        {
+          "rank": 5,
+          "type": "photo",
+          "title": "동영상 뉴스",
+          "url": "https://n.news.naver.com/article/025/0003539709",
+          "oid": "025",
+          "aid": "0003539709"
+        },
+        {
+          "rank": 6,
+          "type": "photo",
+          "title": "동영상 뉴스",
+          "url": "https://n.news.naver.com/article/025/0003539722",
+          "oid": "025",
+          "aid": "0003539722"
+        }
+      ],
+      "count": 6
+    },
+    "한겨레": {
+      "oid": "028",
+      "url": "https://media.naver.com/press/028",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "트럼프 “이란에 대규모 공격 검토 중…‘장엄한 분노’보다 클 수도”",
+          "url": "https://n.news.naver.com/article/028/0002815551",
+          "oid": "028",
+          "aid": "0002815551"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "국힘, 오세훈 1심 뒤 ‘차기 구도’ 촉각…겉으론 “정치재판” 공세",
+          "url": "https://n.news.naver.com/article/028/0002815549",
+          "oid": "028",
+          "aid": "0002815549"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "[속보] 트럼프 “선박·화물 전쟁 피해, 미국 보유 이란 자금으로 배상”",
+          "url": "https://n.news.naver.com/article/028/0002815555",
+          "oid": "028",
+          "aid": "0002815555"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "낮 최고 38도 ‘찜통 더위’…수도권·강원도는 장맛비 계속",
+          "url": "https://n.news.naver.com/article/028/0002815556",
+          "oid": "028",
+          "aid": "0002815556"
+        },
+        {
+          "rank": 5,
+          "type": "headline",
+          "title": "한병도 “보완수사 요구권 실질화”…보완수사권 전면 폐지 방침",
+          "url": "https://n.news.naver.com/article/028/0002815193",
+          "oid": "028",
+          "aid": "0002815193"
+        },
+        {
+          "rank": 6,
+          "type": "headline",
+          "title": "윤호중 “공소청에 보완수사권 남겨선 안 돼…통제 수단 충분”",
+          "url": "https://n.news.naver.com/article/028/0002815292",
+          "oid": "028",
+          "aid": "0002815292"
+        }
+      ],
+      "count": 6
+    },
+    "경향신문": {
+      "oid": "032",
+      "url": "https://media.naver.com/press/032",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "[속보]삼전닉스 레버리지 예탁금 상향, 31일부터 조기시행",
+          "url": "https://n.news.naver.com/article/032/0003460120",
+          "oid": "032",
+          "aid": "0003460120"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "[속보]미국, 60개국에 ‘강제노동 관세’ 확정···한국엔 사실상 12.5% 부과",
+          "url": "https://n.news.naver.com/article/032/0003460117",
+          "oid": "032",
+          "aid": "0003460117"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "‘중학생과 성관계 혐의’ 수사 중 16일 만에 사직···그래도 200만원 챙긴 전 청주시의원",
+          "url": "https://n.news.naver.com/article/032/0003460013",
+          "oid": "032",
+          "aid": "0003460013"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "‘거봐, 손흥민은 문제없잖아’···LA 돌아가자마자 ‘2경기 연속골’ 모든 득점 관여, 미친 존재감",
+          "url": "https://n.news.naver.com/article/032/0003459956",
+          "oid": "032",
+          "aid": "0003459956"
+        },
+        {
+          "rank": 5,
+          "type": "headline",
+          "title": "[속보]한국, ‘미 환율 관찰대상국’ 유지···“원화 절하 압력 지속적”",
+          "url": "https://n.news.naver.com/article/032/0003460119",
+          "oid": "032",
+          "aid": "0003460119"
+        },
+        {
+          "rank": 6,
+          "type": "headline",
+          "title": "중동 정세 악화·고유가에 뉴욕증시 하락…나스닥 2.15%↓",
+          "url": "https://n.news.naver.com/article/032/0003460118",
+          "oid": "032",
+          "aid": "0003460118"
+        }
+      ],
+      "count": 6
+    },
+    "서울신문": {
+      "oid": "081",
+      "url": "https://media.naver.com/press/081",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "[속보]금융위, 31일부터 ‘단일종목 레버리지’ 3000만원 예탁금 조기시행",
+          "url": "https://n.news.naver.com/article/081/0003664242",
+          "oid": "081",
+          "aid": "0003664242"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "“북핵 멈추면 ‘대가’ 주자”…한국, ‘핵부터 없애라’ 공식 접고 ‘평화 먼저’로 [권윤희의 월드뷰]",
+          "url": "https://n.news.naver.com/article/081/0003664236",
+          "oid": "081",
+          "aid": "0003664236"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "“우울증 아내에 100여명과 성관계 강요”…남편의 18개월 학대, 경찰도 손 못 썼다",
+          "url": "https://n.news.naver.com/article/081/0003664229",
+          "oid": "081",
+          "aid": "0003664229"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "[속보] 양양 해변서 40대 추정 여성 숨진 채 발견… 해경, 사고 경위 조사 중",
+          "url": "https://n.news.naver.com/article/081/0003664243",
+          "oid": "081",
+          "aid": "0003664243"
+        },
+        {
+          "rank": 5,
+          "type": "headline",
+          "title": "위",
+          "url": "https://n.news.naver.com/article/081/0003663826",
+          "oid": "081",
+          "aid": "0003663826"
+        },
+        {
+          "rank": 6,
+          "type": "headline",
+          "title": "위",
+          "url": "https://n.news.naver.com/article/081/0003664124",
+          "oid": "081",
+          "aid": "0003664124"
+        }
+      ],
+      "count": 6
+    },
+    "한국일보": {
+      "oid": "469",
+      "url": "https://media.naver.com/press/469",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "미국, 60개국에 '강제노동 관세' 확정... 한국 사실상 12.5%",
+          "url": "https://n.news.naver.com/article/469/0000944098",
+          "oid": "469",
+          "aid": "0000944098"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "기정사실된 '보유세 인상'... 李, 보유세 \"3배 올려야 하지만 폭동 날 수도\"",
+          "url": "https://n.news.naver.com/article/469/0000944088",
+          "oid": "469",
+          "aid": "0000944088"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "유시민, 이 대통령 또 비판... \"당대표는 대통령 부하가 아니다\"",
+          "url": "https://n.news.naver.com/article/469/0000944073",
+          "oid": "469",
+          "aid": "0000944073"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "[단독] 스타벅스 그 후 \"일할 사람없어 고객 만족 떨어져\"... 27년만에 첫 노조 출범",
+          "url": "https://n.news.naver.com/article/469/0000944084",
+          "oid": "469",
+          "aid": "0000944084"
+        },
+        {
+          "rank": 5,
+          "type": "headline",
+          "title": "\"한국도 따라 한 이란의 자랑\"… 저가 드론은 어떻게 전쟁 판을 바꿨나 [세계는 왜]",
+          "url": "https://n.news.naver.com/article/469/0000944095",
+          "oid": "469",
+          "aid": "0000944095"
+        },
+        {
+          "rank": 6,
+          "type": "headline",
+          "title": "트럼프, 후티 반군 홍해 피격에 \"이란 책임 물을 것\"",
+          "url": "https://n.news.naver.com/article/469/0000944062",
+          "oid": "469",
+          "aid": "0000944062"
+        }
+      ],
+      "count": 6
+    },
+    "머니투데이": {
+      "oid": "008",
+      "url": "https://media.naver.com/press/008",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "31일부터 삼전닉스 레버리지 예탁금 '3000만원'으로…시행일 앞당겼다",
+          "url": "https://n.news.naver.com/article/008/0005390319",
+          "oid": "008",
+          "aid": "0005390319"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "'꼼수 관세' 꺼낸 트럼프, 강제노동 관세 60개국 부과...한국 12.5%",
+          "url": "https://n.news.naver.com/article/008/0005390301",
+          "oid": "008",
+          "aid": "0005390301"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "\"하필 이 시점에?\"…정몽규, 4선 도전 앞두고 KFA에 48억원 후원",
+          "url": "https://n.news.naver.com/article/008/0005390317",
+          "oid": "008",
+          "aid": "0005390317"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "\"돈 받고 잠자리 똑바로 안 해\"...모텔서 살해된 14세 여중생[뉴스속오늘]",
+          "url": "https://n.news.naver.com/article/008/0005390288",
+          "oid": "008",
+          "aid": "0005390288"
+        },
+        {
+          "rank": 5,
+          "type": "headline",
+          "title": "美, 한국 환율관찰대상국 유지…\"원화 약세, 펀더멘탈 부합 안 해\"",
+          "url": "https://n.news.naver.com/article/008/0005390314",
+          "oid": "008",
+          "aid": "0005390314"
+        },
+        {
+          "rank": 6,
+          "type": "headline",
+          "title": "브렌트유 두달만에 100달러 돌파…\"홍해까지 막히면 120달러 간다\"",
+          "url": "https://n.news.naver.com/article/008/0005390281",
+          "oid": "008",
+          "aid": "0005390281"
+        }
+      ],
+      "count": 6
+    },
+    "매일경제": {
+      "oid": "009",
+      "url": "https://media.naver.com/press/009",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "[속보] 삼전닉스 단일종목 레버리지 ETF 예탁금 강화 31일 조기시행...현금 3000만원",
+          "url": "https://n.news.naver.com/article/009/0005711609",
+          "oid": "009",
+          "aid": "0005711609"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "“AI가 인텔도 살렸다”…예상치 두 배 ‘깜짝 실적’, 주가 9% 급등",
+          "url": "https://n.news.naver.com/article/009/0005711599",
+          "oid": "009",
+          "aid": "0005711599"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "“스마트폰 언제 돌려주는데요?”...학내 차단범위 놓고 교육청도 갑론을박",
+          "url": "https://n.news.naver.com/article/009/0005711592",
+          "oid": "009",
+          "aid": "0005711592"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "“14초에 한 대씩 만들어도 물량 딸려요”...미친 습도에 대목 만난 제습기",
+          "url": "https://n.news.naver.com/article/009/0005711590",
+          "oid": "009",
+          "aid": "0005711590"
+        },
+        {
+          "rank": 5,
+          "type": "photo",
+          "title": "세금인상만 남은 부동산 토론회 … 답답함 느낀 국민 많았을 것 [사설] 15시간전",
+          "url": "https://n.news.naver.com/article/009/0005711431",
+          "oid": "009",
+          "aid": "0005711431"
+        },
+        {
+          "rank": 6,
+          "type": "photo",
+          "title": "하이닉스 노조 \"자사주 말고 현금만\"… N% 성과급 이대로 안 된다 [사설] 1일전",
+          "url": "https://n.news.naver.com/article/009/0005710805",
+          "oid": "009",
+          "aid": "0005710805"
+        }
+      ],
+      "count": 6
+    },
+    "서울경제": {
+      "oid": "011",
+      "url": "https://media.naver.com/press/011",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "트럼프 “현 시점부터 선박 손실, 이란 동결자금으로 배상”",
+          "url": "https://n.news.naver.com/article/011/0004644675",
+          "oid": "011",
+          "aid": "0004644675"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "올해 주가 5배 뛴 ‘코스피 4위’ 삼성전기…“300만 원까지 더 올라” [줍줍리포트]",
+          "url": "https://n.news.naver.com/article/011/0004644693",
+          "oid": "011",
+          "aid": "0004644693"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "“내가 본 후기가 AI였다니” 뭘 믿고 사죠?…무신사, ‘AI 가짜 후기’ 전면 금지 선언",
+          "url": "https://n.news.naver.com/article/011/0004644696",
+          "oid": "011",
+          "aid": "0004644696"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "“일본 여행 취소해야 하나”…일주일 동안 1만명 실려간 숨 막히는 日 폭염",
+          "url": "https://n.news.naver.com/article/011/0004644408",
+          "oid": "011",
+          "aid": "0004644408"
+        },
+        {
+          "rank": 5,
+          "type": "headline",
+          "title": "구글, AI 투자 또 늘린다...빅테크 ‘쩐의 전쟁’ 격화[글로벌 모닝 브리핑]",
+          "url": "https://n.news.naver.com/article/011/0004644636",
+          "oid": "011",
+          "aid": "0004644636"
+        },
+        {
+          "rank": 6,
+          "type": "headline",
+          "title": "李 “보유세 최하 3배는 올려야”…‘똘똘한 한 채’ 세제 대수술 예고[Pick코노미]",
+          "url": "https://n.news.naver.com/article/011/0004644640",
+          "oid": "011",
+          "aid": "0004644640"
+        }
+      ],
+      "count": 6
+    },
+    "파이낸셜뉴스": {
+      "oid": "014",
+      "url": "https://media.naver.com/press/014",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "\"하이닉스 290만→190만원됐는데\"...하락장에서 주가 2배 뛴 SK이터닉스",
+          "url": "https://n.news.naver.com/article/014/0005552276",
+          "oid": "014",
+          "aid": "0005552276"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "\"이제 살 수 있는 가격대, 코스피 1만 간다\"…조정장 예측 적중했던 애널의 파격 전망",
+          "url": "https://n.news.naver.com/article/014/0005552281",
+          "oid": "014",
+          "aid": "0005552281"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "'전 충주맨' 김선태 \"삼성전자 대주주였다, 5만8000원에 1000주 갖고 있었는데…\"",
+          "url": "https://n.news.naver.com/article/014/0005552278",
+          "oid": "014",
+          "aid": "0005552278"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "단일종목 레버리지 규제 앞당긴다...31일부터 예탁금 3000만원 상향",
+          "url": "https://n.news.naver.com/article/014/0005552302",
+          "oid": "014",
+          "aid": "0005552302"
+        },
+        {
+          "rank": 5,
+          "type": "photo",
+          "title": "식지 않는 '빚투'… 가계대출 관리 사실상 실패 14시간전",
+          "url": "https://n.news.naver.com/article/014/0005552174",
+          "oid": "014",
+          "aid": "0005552174"
+        },
+        {
+          "rank": 6,
+          "type": "photo",
+          "title": "'명태균 게이트' 하급심마다 다르게 해석... 여론조사 성격·피고인 관여 정도가 쟁점 14시간전",
+          "url": "https://n.news.naver.com/article/014/0005552195",
+          "oid": "014",
+          "aid": "0005552195"
+        }
+      ],
+      "count": 6
+    },
+    "한국경제": {
+      "oid": "015",
+      "url": "https://media.naver.com/press/015",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "[단독] 젠슨 황 손잡은 서울대, 亞 최초 '피지컬AI 조인트 랩' 추진",
+          "url": "https://n.news.naver.com/article/015/0005313308",
+          "oid": "015",
+          "aid": "0005313308"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "글로벌 10%→강제노동 12.5%…트럼프 관세 빌드업 '착착' [이상은의 워싱턴나우]",
+          "url": "https://n.news.naver.com/article/015/0005313320",
+          "oid": "015",
+          "aid": "0005313320"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "삼성 19조 투자 발표에도 \"글쎄\"…20년 전 악몽 떠올린 도시 [소멸 리포트]",
+          "url": "https://n.news.naver.com/article/015/0005313315",
+          "oid": "015",
+          "aid": "0005313315"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "이달에만 주가 55% 넘게 '폭등'…급락장서 '최고가' 찍었다 [종목+]",
+          "url": "https://n.news.naver.com/article/015/0005313318",
+          "oid": "015",
+          "aid": "0005313318"
+        },
+        {
+          "rank": 5,
+          "type": "headline",
+          "title": "단일레버리지 '현금 예탁금 3000만원' 규제, 이달 말로 앞당긴다",
+          "url": "https://n.news.naver.com/article/015/0005313354",
+          "oid": "015",
+          "aid": "0005313354"
+        },
+        {
+          "rank": 6,
+          "type": "headline",
+          "title": "NYT \"사우디는 되고 한국은 안되나…트럼프의 핵 이중잣대\" 지적",
+          "url": "https://n.news.naver.com/article/015/0005313332",
+          "oid": "015",
+          "aid": "0005313332"
+        }
+      ],
+      "count": 6
+    },
+    "헤럴드경제": {
+      "oid": "016",
+      "url": "https://media.naver.com/press/016",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "31일부턴 현금 3천만원 없으면 못 사…‘삼전닉스’ 레버리지 문턱 높인다",
+          "url": "https://n.news.naver.com/article/016/0002674369",
+          "oid": "016",
+          "aid": "0002674369"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "‘무조건 남는 장사’ ‘감방 살면 그만’ 직업이 된 사기…사기범 절반이 전과자였다 [사기공화국의 민낯①]",
+          "url": "https://n.news.naver.com/article/016/0002674316",
+          "oid": "016",
+          "aid": "0002674316"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "유가 100달러 돌파에 기술주 ‘와르르’…테슬라 14%·알파벳 7% 급락 [투자360]",
+          "url": "https://n.news.naver.com/article/016/0002674345",
+          "oid": "016",
+          "aid": "0002674345"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "국힘 일부 의원 상임위 배정에 반발…원내지도부와 정면 충돌",
+          "url": "https://n.news.naver.com/article/016/0002674353",
+          "oid": "016",
+          "aid": "0002674353"
+        },
+        {
+          "rank": 5,
+          "type": "headline",
+          "title": "美, 한국 환율관찰대상국 4회 연속 유지…“원화 약세 펀더멘털과 불일치”",
+          "url": "https://n.news.naver.com/article/016/0002674357",
+          "oid": "016",
+          "aid": "0002674357"
+        },
+        {
+          "rank": 6,
+          "type": "headline",
+          "title": "허지웅 “선관위만큼 무능하고 지저분한 조직 본 적 없다, 고쳐쓸 수 없는 곳”",
+          "url": "https://n.news.naver.com/article/016/0002674363",
+          "oid": "016",
+          "aid": "0002674363"
+        }
+      ],
+      "count": 6
+    },
+    "이데일리": {
+      "oid": "018",
+      "url": "https://media.naver.com/press/018",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "삼전닉스 급락의 범인은 낸드…“이제 악재는 주가에 반영”",
+          "url": "https://n.news.naver.com/article/018/0006335913",
+          "oid": "018",
+          "aid": "0006335913"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "중동 긴장 고조와 유가 상승…환율, 1480원대 돌파 시도[외환브리핑]",
+          "url": "https://n.news.naver.com/article/018/0006335907",
+          "oid": "018",
+          "aid": "0006335907"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "7000만원 무이자로 빌려준대도…서울 장기안심주택 지원 미달, 왜",
+          "url": "https://n.news.naver.com/article/018/0006335829",
+          "oid": "018",
+          "aid": "0006335829"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "\"투자는 타이밍이 아니라 타임\"…20년 장기투자 조언",
+          "url": "https://n.news.naver.com/article/018/0006335949",
+          "oid": "018",
+          "aid": "0006335949"
+        },
+        {
+          "rank": 5,
+          "type": "photo",
+          "title": "[속보]코스닥, 매수 사이드카 발동 17시간전",
+          "url": "https://n.news.naver.com/article/018/0006335563",
+          "oid": "018",
+          "aid": "0006335563"
+        },
+        {
+          "rank": 6,
+          "type": "headline",
+          "title": "[단독]실손 있다고 했더니 \"무좀 치료 480만원\"",
+          "url": "https://n.news.naver.com/article/018/0006335838",
+          "oid": "018",
+          "aid": "0006335838"
+        }
+      ],
+      "count": 6
+    },
+    "아시아경제": {
+      "oid": "277",
+      "url": "https://media.naver.com/press/277",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "임신중 아기 건강에 술담배보다 더 무서운 건…'부모의 지갑'이었다",
+          "url": "https://n.news.naver.com/article/277/0005793980",
+          "oid": "277",
+          "aid": "0005793980"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "\"라떼는 피카츄 돈가스였는데\"…'1조 시장' 터졌다, 유치원 식판의 대반전",
+          "url": "https://n.news.naver.com/article/277/0005793961",
+          "oid": "277",
+          "aid": "0005793961"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "\"반도체 빼면 시체인데 샴페인 터뜨릴 때인가\"…전문가들이 본 '국장'의 씁쓸한 현실[상법개정 1년]④",
+          "url": "https://n.news.naver.com/article/277/0005793975",
+          "oid": "277",
+          "aid": "0005793975"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "\"몸값 4000만원 훌쩍\"…신약개발 폭증에 1520억 돈벼락 맞은 '이 곳'",
+          "url": "https://n.news.naver.com/article/277/0005793605",
+          "oid": "277",
+          "aid": "0005793605"
+        },
+        {
+          "rank": 5,
+          "type": "headline",
+          "title": "[세제 이건 바꿔야]\"전방위 증세, 거래 과도하게 위축…거래 정상화에 적합한 조합 아냐\"",
+          "url": "https://n.news.naver.com/article/277/0005793375",
+          "oid": "277",
+          "aid": "0005793375"
+        },
+        {
+          "rank": 6,
+          "type": "headline",
+          "title": "[세제 이건 바꿔야] 국내 생산 촉진 '한국판 IRA' 뜬다…\"지원대상·환급 신중 필요\"",
+          "url": "https://n.news.naver.com/article/277/0005793369",
+          "oid": "277",
+          "aid": "0005793369"
+        }
+      ],
+      "count": 6
+    },
+    "조선비즈": {
+      "oid": "366",
+      "url": "https://media.naver.com/press/366",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "美 ‘강제노동 관세’ 부과…靑 “기존 15% 합의 지켜지게 협의”",
+          "url": "https://n.news.naver.com/article/366/0001181461",
+          "oid": "366",
+          "aid": "0001181461"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "삼전닉스 레버리지 ETF 예탁금 상향, 31일 조기시행",
+          "url": "https://n.news.naver.com/article/366/0001181467",
+          "oid": "366",
+          "aid": "0001181467"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "AMD, 차세대 AI 칩 핵심축에 HBM4 배치… “매년 메모리 대역폭 강화”",
+          "url": "https://n.news.naver.com/article/366/0001181439",
+          "oid": "366",
+          "aid": "0001181439"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "‘해상풍력 터빈 1위’ 베스타스, 약속했던 목포 공장 왜 안 짓나 했더니… “수주 부진에 보류”",
+          "url": "https://n.news.naver.com/article/366/0001181443",
+          "oid": "366",
+          "aid": "0001181443"
+        },
+        {
+          "rank": 5,
+          "type": "photo",
+          "title": "동영상 뉴스",
+          "url": "https://n.news.naver.com/article/366/0001181442",
+          "oid": "366",
+          "aid": "0001181442"
+        },
+        {
+          "rank": 6,
+          "type": "photo",
+          "title": "동영상 뉴스",
+          "url": "https://n.news.naver.com/article/366/0001181120",
+          "oid": "366",
+          "aid": "0001181120"
+        }
+      ],
+      "count": 6
+    },
+    "연합뉴스": {
+      "oid": "001",
+      "url": "https://media.naver.com/press/001",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "靑, '美 301조 관세' 부과에 \"최종 15% 지켜지도록 긴밀 협의\"",
+          "url": "https://n.news.naver.com/article/001/0016212337",
+          "oid": "001",
+          "aid": "0016212337"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "단일종목 레버리지 예탁금 3천만원 상향, 31일부터 조기시행",
+          "url": "https://n.news.naver.com/article/001/0016212303",
+          "oid": "001",
+          "aid": "0016212303"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "전국 북태평양고기압 영향권…한낮 최고 38도 무더위",
+          "url": "https://n.news.naver.com/article/001/0016212341",
+          "oid": "001",
+          "aid": "0016212341"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "국민 10명 중 8명 \"반려동물 대중교통 이용 조건부 찬성\"",
+          "url": "https://n.news.naver.com/article/001/0016212210",
+          "oid": "001",
+          "aid": "0016212210"
+        },
+        {
+          "rank": 5,
+          "type": "photo",
+          "title": "동영상 뉴스",
+          "url": "https://n.news.naver.com/article/001/0016211559",
+          "oid": "001",
+          "aid": "0016211559"
+        },
+        {
+          "rank": 6,
+          "type": "photo",
+          "title": "동영상 뉴스",
+          "url": "https://n.news.naver.com/article/001/0016210700",
+          "oid": "001",
+          "aid": "0016210700"
+        }
+      ],
+      "count": 6
+    },
+    "뉴시스": {
+      "oid": "003",
+      "url": "https://media.naver.com/press/003",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "靑, 美 무역법 301조 관세 12.5% 부과에 \"최종 15% 지켜지도록 긴밀히 협의\"",
+          "url": "https://n.news.naver.com/article/003/0014085308",
+          "oid": "003",
+          "aid": "0014085308"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "[속보]미군, 이란 군사시설 또 야간 공습…13일 연속 타격",
+          "url": "https://n.news.naver.com/article/003/0014085430",
+          "oid": "003",
+          "aid": "0014085430"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "[단독]알몸 바닥 기기·고추냉이 식고문…계룡대 가혹행위",
+          "url": "https://n.news.naver.com/article/003/0014085310",
+          "oid": "003",
+          "aid": "0014085310"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "\"AI 거품 꺼지면 실물 경기 폭망한다\"…美 경제 뒤흔드는 '75조 달러' 경고장",
+          "url": "https://n.news.naver.com/article/003/0014085274",
+          "oid": "003",
+          "aid": "0014085274"
+        },
+        {
+          "rank": 5,
+          "type": "headline",
+          "title": "27일 또 토론회 여는 정부…부동산 종합대책 막판 고심",
+          "url": "https://n.news.naver.com/article/003/0014085185",
+          "oid": "003",
+          "aid": "0014085185"
+        },
+        {
+          "rank": 6,
+          "type": "headline",
+          "title": "부동산 세제개편 임박…보유세 강화·'똘똘한 한 채' 특혜↓",
+          "url": "https://n.news.naver.com/article/003/0014085248",
+          "oid": "003",
+          "aid": "0014085248"
+        }
+      ],
+      "count": 6
+    },
+    "뉴스1": {
+      "oid": "421",
+      "url": "https://media.naver.com/press/421",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "美, 60개 경제권에 '강제노동 301조 관세' 부과…韓 12.5%(종합)",
+          "url": "https://n.news.naver.com/article/421/0009076428",
+          "oid": "421",
+          "aid": "0009076428"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "트럼프 \"이란에 최대 규모 공격 심각하게 고려 중…결정 임박\"",
+          "url": "https://n.news.naver.com/article/421/0009076344",
+          "oid": "421",
+          "aid": "0009076344"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "[속보] 단일종목 레버리지 예탁금 상향, 31일부터 조기 시행",
+          "url": "https://n.news.naver.com/article/421/0009076377",
+          "oid": "421",
+          "aid": "0009076377"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "14년 만에 새벽배송 문 열리나…대형마트 \"의무휴업도 풀어야\"",
+          "url": "https://n.news.naver.com/article/421/0009076278",
+          "oid": "421",
+          "aid": "0009076278"
+        },
+        {
+          "rank": 5,
+          "type": "headline",
+          "title": "위",
+          "url": "https://n.news.naver.com/article/421/0009076248",
+          "oid": "421",
+          "aid": "0009076248"
+        },
+        {
+          "rank": 6,
+          "type": "headline",
+          "title": "위",
+          "url": "https://n.news.naver.com/article/421/0009074388",
+          "oid": "421",
+          "aid": "0009074388"
+        }
+      ],
+      "count": 6
+    },
+    "YTN": {
+      "oid": "052",
+      "url": "https://media.naver.com/press/052",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "미국, 무역법 301조 '강제 노동 관세' 확정...한국엔 12.5% 부과",
+          "url": "https://n.news.naver.com/article/052/0002383810",
+          "oid": "052",
+          "aid": "0002383810"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "홍해 봉쇄에 유가 100달러 선 돌파...트럼프 \"대규모 공격 임박\"",
+          "url": "https://n.news.naver.com/article/052/0002383799",
+          "oid": "052",
+          "aid": "0002383799"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "흑해로 확산한 우크라전...젤렌스키 \"곧 트럼프와 회담\"",
+          "url": "https://n.news.naver.com/article/052/0002383786",
+          "oid": "052",
+          "aid": "0002383786"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "최태원-노소영 '세기의 이혼' 오늘 결론...재산분할 주목",
+          "url": "https://n.news.naver.com/article/052/0002383773",
+          "oid": "052",
+          "aid": "0002383773"
+        },
+        {
+          "rank": 5,
+          "type": "headline",
+          "title": "동영상 뉴스 재생시간 02:16",
+          "url": "https://n.news.naver.com/article/052/0002383800",
+          "oid": "052",
+          "aid": "0002383800"
+        },
+        {
+          "rank": 6,
+          "type": "headline",
+          "title": "동영상 뉴스 재생시간 04:27",
+          "url": "https://n.news.naver.com/article/052/0002383814",
+          "oid": "052",
+          "aid": "0002383814"
+        }
+      ],
+      "count": 6
+    },
+    "SBS": {
+      "oid": "055",
+      "url": "https://media.naver.com/press/055",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "미, 60개국에 '강제노동 관세' 발표…한국 사실상 12.5%",
+          "url": "https://n.news.naver.com/article/055/0001375014",
+          "oid": "055",
+          "aid": "0001375014"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "유시민 \"이 대통령 1년의 방식, 진영을 혼돈에 몰아넣을 수도\"",
+          "url": "https://n.news.naver.com/article/055/0001375048",
+          "oid": "055",
+          "aid": "0001375048"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "김포 아파트서 부패한 60대 시신 발견…국과수 부검",
+          "url": "https://n.news.naver.com/article/055/0001375065",
+          "oid": "055",
+          "aid": "0001375065"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "\"떠난지 일주일 만에 걸렸다\"…외국인들 앓는 '부산병'",
+          "url": "https://n.news.naver.com/article/055/0001375025",
+          "oid": "055",
+          "aid": "0001375025"
+        },
+        {
+          "rank": 5,
+          "type": "headline",
+          "title": "동영상 뉴스 재생시간 01:26",
+          "url": "https://n.news.naver.com/article/055/0001375020",
+          "oid": "055",
+          "aid": "0001375020"
+        },
+        {
+          "rank": 6,
+          "type": "headline",
+          "title": "동영상 뉴스 재생시간 01:10",
+          "url": "https://n.news.naver.com/article/055/0001375050",
+          "oid": "055",
+          "aid": "0001375050"
+        }
+      ],
+      "count": 6
+    },
+    "KBS": {
+      "oid": "056",
+      "url": "https://media.naver.com/press/056",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "미국 무역법 301조 ‘강제 노동 관세’ 부과…한국에는 12.5%",
+          "url": "https://n.news.naver.com/article/056/0012224248",
+          "oid": "056",
+          "aid": "0012224248"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "미 상무 “미국 내 선박 건조 결과 중요”…한미 조선 협력 속도",
+          "url": "https://n.news.naver.com/article/056/0012224250",
+          "oid": "056",
+          "aid": "0012224250"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "‘36주 낙태’ 산모 살인죄 무죄, 왜?…‘임신 중지 자기결정권’ 손든 2심",
+          "url": "https://n.news.naver.com/article/056/0012224214",
+          "oid": "056",
+          "aid": "0012224214"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "국민연금 보너스, 범죄자는 안 준다…대상은? [잇슈 머니]",
+          "url": "https://n.news.naver.com/article/056/0012224247",
+          "oid": "056",
+          "aid": "0012224247"
+        },
+        {
+          "rank": 5,
+          "type": "headline",
+          "title": "동영상 뉴스 재생시간 02:20",
+          "url": "https://n.news.naver.com/article/056/0012224294",
+          "oid": "056",
+          "aid": "0012224294"
+        },
+        {
+          "rank": 6,
+          "type": "headline",
+          "title": "동영상 뉴스 재생시간 04:55",
+          "url": "https://n.news.naver.com/article/056/0012224246",
+          "oid": "056",
+          "aid": "0012224246"
+        }
+      ],
+      "count": 6
+    },
+    "MBN": {
+      "oid": "057",
+      "url": "https://media.naver.com/press/057",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "미국 '강제노동' 관세, 한국 12.5%…한미 조선협력센터 출범",
+          "url": "https://n.news.naver.com/article/057/0001960125",
+          "oid": "057",
+          "aid": "0001960125"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "[속보] 단일종목 레버리지 예탁금 3천만 원, 이달 31일부터 시행",
+          "url": "https://n.news.naver.com/article/057/0001960137",
+          "oid": "057",
+          "aid": "0001960137"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "\"이 대통령이 만남 요청한다면?\"…유시민 \"만날 생각 없다\"",
+          "url": "https://n.news.naver.com/article/057/0001960113",
+          "oid": "057",
+          "aid": "0001960113"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "축구공 크기 '세계 희귀종' 버섯…남원 과수원서 13년째 '쑥'",
+          "url": "https://n.news.naver.com/article/057/0001960135",
+          "oid": "057",
+          "aid": "0001960135"
+        },
+        {
+          "rank": 5,
+          "type": "photo",
+          "title": "동영상 뉴스",
+          "url": "https://n.news.naver.com/article/057/0001960112",
+          "oid": "057",
+          "aid": "0001960112"
+        },
+        {
+          "rank": 6,
+          "type": "photo",
+          "title": "동영상 뉴스",
+          "url": "https://n.news.naver.com/article/057/0001960124",
+          "oid": "057",
+          "aid": "0001960124"
+        }
+      ],
+      "count": 6
+    },
+    "MBC": {
+      "oid": "214",
+      "url": "https://media.naver.com/press/214",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "미국, 60개국에 '301조 강제노동 관세' 확정‥한국은 12.5%",
+          "url": "https://n.news.naver.com/article/214/0001513588",
+          "oid": "214",
+          "aid": "0001513588"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "배달 음식 들고 \"경찰입니다\"‥1,700차례 '무면허 운전' 덜미",
+          "url": "https://n.news.naver.com/article/214/0001513550",
+          "oid": "214",
+          "aid": "0001513550"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "유시민 \"이 대통령 만날 생각 없어‥공적인 관계로 충분\"",
+          "url": "https://n.news.naver.com/article/214/0001513567",
+          "oid": "214",
+          "aid": "0001513567"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "쿠팡 불 꺼지자마자‥\"이쪽 쿠팡도 불났어요\"",
+          "url": "https://n.news.naver.com/article/214/0001513531",
+          "oid": "214",
+          "aid": "0001513531"
+        },
+        {
+          "rank": 5,
+          "type": "headline",
+          "title": "동영상 뉴스 재생시간 02:23",
+          "url": "https://n.news.naver.com/article/214/0001513535",
+          "oid": "214",
+          "aid": "0001513535"
+        },
+        {
+          "rank": 6,
+          "type": "headline",
+          "title": "동영상 뉴스 재생시간 01:55",
+          "url": "https://n.news.naver.com/article/214/0001513631",
+          "oid": "214",
+          "aid": "0001513631"
+        }
+      ],
+      "count": 6
+    },
+    "연합뉴스TV": {
+      "oid": "422",
+      "url": "https://media.naver.com/press/422",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "[속보] 단일종목 레버리지 예탁금 3천만원 31일 시행",
+          "url": "https://n.news.naver.com/article/422/0000888360",
+          "oid": "422",
+          "aid": "0000888360"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "靑 \"한미, 관세합의 준수 공감대…15% 지켜지게 협의\"",
+          "url": "https://n.news.naver.com/article/422/0000888354",
+          "oid": "422",
+          "aid": "0000888354"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "오늘 최태원·노소영 파기환송심 선고…SK 주식 쟁점",
+          "url": "https://n.news.naver.com/article/422/0000888305",
+          "oid": "422",
+          "aid": "0000888305"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "고위공직자 73명 재산공개…신현송 총재 82억",
+          "url": "https://n.news.naver.com/article/422/0000888334",
+          "oid": "422",
+          "aid": "0000888334"
+        },
+        {
+          "rank": 5,
+          "type": "headline",
+          "title": "동영상 뉴스 재생시간 05:21",
+          "url": "https://n.news.naver.com/article/422/0000824387",
+          "oid": "422",
+          "aid": "0000824387"
+        },
+        {
+          "rank": 6,
+          "type": "headline",
+          "title": "동영상 뉴스 재생시간 06:09",
+          "url": "https://n.news.naver.com/article/422/0000820723",
+          "oid": "422",
+          "aid": "0000820723"
+        }
+      ],
+      "count": 6
+    },
+    "JTBC": {
+      "oid": "437",
+      "url": "https://media.naver.com/press/437",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "[단독] \"전 대원 탈출하라\"…대참사 직전까지 갔던 쿠팡 화재",
+          "url": "https://n.news.naver.com/article/437/0000502769",
+          "oid": "437",
+          "aid": "0000502769"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "남편·오세훈 잇단 유죄 뒤…\"매우 이례적\" 대법은 왜?",
+          "url": "https://n.news.naver.com/article/437/0000502764",
+          "oid": "437",
+          "aid": "0000502764"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "떠난 직원만 24명…골프장 이사장 성희롱·갑질 어땠기에",
+          "url": "https://n.news.naver.com/article/437/0000502807",
+          "oid": "437",
+          "aid": "0000502807"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "'왕사남' 표절 의혹 끝…법원 \"내용 전혀 달라\" 가처분 기각",
+          "url": "https://n.news.naver.com/article/437/0000502808",
+          "oid": "437",
+          "aid": "0000502808"
+        },
+        {
+          "rank": 5,
+          "type": "headline",
+          "title": "동영상 뉴스 재생시간 03:12",
+          "url": "https://n.news.naver.com/article/437/0000502790",
+          "oid": "437",
+          "aid": "0000502790"
+        },
+        {
+          "rank": 6,
+          "type": "headline",
+          "title": "동영상 뉴스 재생시간 01:20",
+          "url": "https://n.news.naver.com/article/437/0000502820",
+          "oid": "437",
+          "aid": "0000502820"
+        }
+      ],
+      "count": 6
+    },
+    "TV조선": {
+      "oid": "448",
+      "url": "https://media.naver.com/press/448",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "美, 한국에 최대 12.5% '강제노동 관세' 부과 확정",
+          "url": "https://n.news.naver.com/article/448/0000628960",
+          "oid": "448",
+          "aid": "0000628960"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "유시민 \"李대통령 계파 수장처럼 행동…당 대표는 부하 아니다\"",
+          "url": "https://n.news.naver.com/article/448/0000628958",
+          "oid": "448",
+          "aid": "0000628958"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "단일종목 레버리지 예탁금 3천만 원 상향, 31일로 앞당겨 시행",
+          "url": "https://n.news.naver.com/article/448/0000629008",
+          "oid": "448",
+          "aid": "0000629008"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "'충주맨' 김선태 \"집 팔아 삼성전자 샀는데…6만원대 다팔아\" 절망",
+          "url": "https://n.news.naver.com/article/448/0000628969",
+          "oid": "448",
+          "aid": "0000628969"
+        },
+        {
+          "rank": 5,
+          "type": "photo",
+          "title": "동영상 뉴스",
+          "url": "https://n.news.naver.com/article/448/0000628983",
+          "oid": "448",
+          "aid": "0000628983"
+        },
+        {
+          "rank": 6,
+          "type": "photo",
+          "title": "동영상 뉴스",
+          "url": "https://n.news.naver.com/article/448/0000628995",
+          "oid": "448",
+          "aid": "0000628995"
+        }
+      ],
+      "count": 6
+    },
+    "채널A": {
+      "oid": "449",
+      "url": "https://media.naver.com/press/449",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "美, 60개국에 ‘강제노동 관세’ 확정…한국은 12.5%",
+          "url": "https://n.news.naver.com/article/449/0000354125",
+          "oid": "449",
+          "aid": "0000354125"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "[속보]단일종목 레버리지 예탁금 ‘3000만원’, 이달 31일부터 조기 시행",
+          "url": "https://n.news.naver.com/article/449/0000354130",
+          "oid": "449",
+          "aid": "0000354130"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "광산경찰서장 13시간 피의자 조사…“성실히 수사에 임하겠다”",
+          "url": "https://n.news.naver.com/article/449/0000354126",
+          "oid": "449",
+          "aid": "0000354126"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "중학생 10명이 또래 1명을…3시간 ‘집단 폭행’",
+          "url": "https://n.news.naver.com/article/449/0000354101",
+          "oid": "449",
+          "aid": "0000354101"
+        },
+        {
+          "rank": 5,
+          "type": "headline",
+          "title": "동영상 뉴스 재생시간 01:55",
+          "url": "https://n.news.naver.com/article/449/0000354100",
+          "oid": "449",
+          "aid": "0000354100"
+        },
+        {
+          "rank": 6,
+          "type": "photo",
+          "title": "동영상 뉴스",
+          "url": "https://n.news.naver.com/article/449/0000354094",
+          "oid": "449",
+          "aid": "0000354094"
+        }
+      ],
+      "count": 6
+    },
+    "프레시안": {
+      "oid": "002",
+      "url": "https://media.naver.com/press/002",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "트럼프, 네타냐후에 또 넘어갔나…美·이스라엘 정보 수장 회동 후 이란 재공격",
+          "url": "https://n.news.naver.com/article/002/0002449376",
+          "oid": "002",
+          "aid": "0002449376"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "명태균 측 \"오세훈, 항소심서 이진관 같은 판사 만나 국립호텔에 유숙하길\"",
+          "url": "https://n.news.naver.com/article/002/0002449476",
+          "oid": "002",
+          "aid": "0002449476"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "김민석·정청래·송영길 컷오프 통과…고민정·김보미 탈락",
+          "url": "https://n.news.naver.com/article/002/0002449473",
+          "oid": "002",
+          "aid": "0002449473"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "이광수 대표 \"오세훈 시장처럼 재건축하면 집값 폭등할 것\"",
+          "url": "https://n.news.naver.com/article/002/0002449487",
+          "oid": "002",
+          "aid": "0002449487"
+        },
+        {
+          "rank": 5,
+          "type": "headline",
+          "title": "'사기꾼 명태균'…에게 사기당한 사람?[손문상의 그림세상]",
+          "url": "https://n.news.naver.com/article/002/0002449324",
+          "oid": "002",
+          "aid": "0002449324"
+        },
+        {
+          "rank": 6,
+          "type": "headline",
+          "title": "\"진짜,  잘 하고 있는 것 맞아?\"[손문상의 그림세상]",
+          "url": "https://n.news.naver.com/article/002/0002449109",
+          "oid": "002",
+          "aid": "0002449109"
+        }
+      ],
+      "count": 6
+    },
+    "오마이뉴스": {
+      "oid": "047",
+      "url": "https://media.naver.com/press/047",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "한국 원화가 약할 수밖에 없는 이유, 이 나라와 비교해 보니",
+          "url": "https://n.news.naver.com/article/047/0002523474",
+          "oid": "047",
+          "aid": "0002523474"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "이재명 대통령의 '미국·남미 3국 순방' 실용외교",
+          "url": "https://n.news.naver.com/article/047/0002523475",
+          "oid": "047",
+          "aid": "0002523475"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "피서객이 민박집 주인에게 남기고 간, 감동의 손편지",
+          "url": "https://n.news.naver.com/article/047/0002523472",
+          "oid": "047",
+          "aid": "0002523472"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "[이충재 칼럼] 오세훈의 '두 얼굴'",
+          "url": "https://n.news.naver.com/article/047/0002523470",
+          "oid": "047",
+          "aid": "0002523470"
+        },
+        {
+          "rank": 5,
+          "type": "headline",
+          "title": "'잘 노는' 걸로 유명한데... 팬들이 존경하기 이전에 사랑했던 선수",
+          "url": "https://n.news.naver.com/article/047/0002523047",
+          "oid": "047",
+          "aid": "0002523047"
+        },
+        {
+          "rank": 6,
+          "type": "headline",
+          "title": "[시니어그룹] \"그래, 잘 갈아 탔어\" 26명의 '인생 환승'을 담다",
+          "url": "https://n.news.naver.com/article/047/0002523109",
+          "oid": "047",
+          "aid": "0002523109"
+        }
+      ],
+      "count": 6
+    },
+    "노컷뉴스": {
+      "oid": "079",
+      "url": "https://media.naver.com/press/079",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "김건희 사건, 조희대 대법원장이 심리한다…이례적 전합 회부 왜?",
+          "url": "https://n.news.naver.com/article/079/0004171581",
+          "oid": "079",
+          "aid": "0004171581"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "[속보]삼전닉스 레버리지 예탁금 상향, 31일부터 조기 시행",
+          "url": "https://n.news.naver.com/article/079/0004171600",
+          "oid": "079",
+          "aid": "0004171600"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "美, 60개국에 '301조 강제노동 관세' 확정…한국 12.5%[오늘아침]",
+          "url": "https://n.news.naver.com/article/079/0004171597",
+          "oid": "079",
+          "aid": "0004171597"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "서정욱 \"오세훈 1심 판사, 정치판사 아닌 천재판사\"[한판승부]",
+          "url": "https://n.news.naver.com/article/079/0004171599",
+          "oid": "079",
+          "aid": "0004171599"
+        },
+        {
+          "rank": 5,
+          "type": "headline",
+          "title": "美재무부, 한국 환율 관찰대상국 유지…올해 1월 이어 재지정",
+          "url": "https://n.news.naver.com/article/079/0004171594",
+          "oid": "079",
+          "aid": "0004171594"
+        },
+        {
+          "rank": 6,
+          "type": "headline",
+          "title": "與 당권 김민석·정청래·송영길 3파전…최고위원 '친명 5 대 친청 3'",
+          "url": "https://n.news.naver.com/article/079/0004171586",
+          "oid": "079",
+          "aid": "0004171586"
+        }
+      ],
+      "count": 6
+    },
+    "데일리안": {
+      "oid": "119",
+      "url": "https://media.naver.com/press/119",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "'李 근저당'이 불 지핀 부동산 민심…국민의힘, '정권 견제' 동력 확보하나",
+          "url": "https://n.news.naver.com/article/119/0003114384",
+          "oid": "119",
+          "aid": "0003114384"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "[속보] 삼전닉스 레버리지 예탁금 3000만원, 오는 31일 시행",
+          "url": "https://n.news.naver.com/article/119/0003114408",
+          "oid": "119",
+          "aid": "0003114408"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "美, 60개국에 '강제노동 관세' 확정…한국은 12.5% 부과",
+          "url": "https://n.news.naver.com/article/119/0003114396",
+          "oid": "119",
+          "aid": "0003114396"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "온라인에서 모이고 거리에서 외쳤다…2030 정치가 달라졌다 [Now 2.30]",
+          "url": "https://n.news.naver.com/article/119/0003114399",
+          "oid": "119",
+          "aid": "0003114399"
+        },
+        {
+          "rank": 5,
+          "type": "headline",
+          "title": "젠슨 황 만나러 美로…이재용·최태원·정의선 'AI 3색 전략'",
+          "url": "https://n.news.naver.com/article/119/0003114156",
+          "oid": "119",
+          "aid": "0003114156"
+        },
+        {
+          "rank": 6,
+          "type": "headline",
+          "title": "시진핑 9월 24일 방미 확정…트럼프와 AI·무역 담판",
+          "url": "https://n.news.naver.com/article/119/0003114397",
+          "oid": "119",
+          "aid": "0003114397"
+        }
+      ],
+      "count": 6
+    }
+  },
+  "errors": {}
+}
