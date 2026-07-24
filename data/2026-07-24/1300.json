@@ -1,0 +1,1933 @@
+{
+  "collected_at": "2026-07-24T15:31:07.123415+09:00",
+  "collected_at_kst": "2026-07-24 15:31:07",
+  "press_count": 35,
+  "presses": {
+    "국민일보": {
+      "oid": "005",
+      "url": "https://media.naver.com/press/005",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "“정점식 이리와” 국힘 ‘멱살잡이’ 파동…“조폭 행태” 당내 비판 고조",
+          "url": "https://n.news.naver.com/article/005/0001862932",
+          "oid": "005",
+          "aid": "0001862932"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "강제노동은 명분… 트럼프, 韓中日에 동일한 12.5% 관세",
+          "url": "https://n.news.naver.com/article/005/0001862912",
+          "oid": "005",
+          "aid": "0001862912"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "‘무섭다, 이제 그만 손절할래’… 롤러코스피에 개미 대탈출",
+          "url": "https://n.news.naver.com/article/005/0001862884",
+          "oid": "005",
+          "aid": "0001862884"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "[단독] 검찰, 李대통령 ‘정자동 호텔 개발 특혜 의혹’ 불기소",
+          "url": "https://n.news.naver.com/article/005/0001862775",
+          "oid": "005",
+          "aid": "0001862775"
+        },
+        {
+          "rank": 5,
+          "type": "headline",
+          "title": "李 “보유세 강화… ‘똘똘한 한 채’로 투기”",
+          "url": "https://n.news.naver.com/article/005/0001862779",
+          "oid": "005",
+          "aid": "0001862779"
+        },
+        {
+          "rank": 6,
+          "type": "headline",
+          "title": "가액 기준 종부세 과세 공감… ‘초고가 1주택’ 혜택 제한 쟁점화",
+          "url": "https://n.news.naver.com/article/005/0001862805",
+          "oid": "005",
+          "aid": "0001862805"
+        }
+      ],
+      "count": 6
+    },
+    "동아일보": {
+      "oid": "020",
+      "url": "https://media.naver.com/press/020",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "[속보]“최태원, 노소영에 재산 3분의1 분할…9440억 현금 지급”",
+          "url": "https://n.news.naver.com/article/020/0003736292",
+          "oid": "020",
+          "aid": "0003736292"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "[단독]합수본, 선관위 충청지역도 투표율 허위 입력 정황 포착",
+          "url": "https://n.news.naver.com/article/020/0003736302",
+          "oid": "020",
+          "aid": "0003736302"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "신천지 신도들, 민주당 집단 가입 정황 포착…합수본 수사",
+          "url": "https://n.news.naver.com/article/020/0003736300",
+          "oid": "020",
+          "aid": "0003736300"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "곽범 “삼전 6만원때 1억 넣었는데…6만3000원에 나왔다”",
+          "url": "https://n.news.naver.com/article/020/0003736092",
+          "oid": "020",
+          "aid": "0003736092"
+        },
+        {
+          "rank": 5,
+          "type": "headline",
+          "title": "내란특검, 여인형·이진우에 징역30년 구형…“내란 열매 나누려 적극 참여”",
+          "url": "https://n.news.naver.com/article/020/0003736304",
+          "oid": "020",
+          "aid": "0003736304"
+        },
+        {
+          "rank": 6,
+          "type": "headline",
+          "title": "美·이란 충돌에 국제유가 급등…코스피·코스닥 매도 사이드카 발동",
+          "url": "https://n.news.naver.com/article/020/0003736293",
+          "oid": "020",
+          "aid": "0003736293"
+        }
+      ],
+      "count": 6
+    },
+    "문화일보": {
+      "oid": "021",
+      "url": "https://media.naver.com/press/021",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "[속보]法 “최 회장, 노 관장에 9440억 지급하라”",
+          "url": "https://n.news.naver.com/article/021/0002806853",
+          "oid": "021",
+          "aid": "0002806853"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "합수본, 신천지 ‘민주당도 집단 가입’ 정황 포착…수사망 확대",
+          "url": "https://n.news.naver.com/article/021/0002806856",
+          "oid": "021",
+          "aid": "0002806856"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "희귀 성 가진 아내 “아이 성씨는 내 것으로 하자”[당신생각은]",
+          "url": "https://n.news.naver.com/article/021/0002806675",
+          "oid": "021",
+          "aid": "0002806675"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "식대가 9만원인데…4인 가족 결혼식 가서 축의금 10만원",
+          "url": "https://n.news.naver.com/article/021/0002806644",
+          "oid": "021",
+          "aid": "0002806644"
+        },
+        {
+          "rank": 5,
+          "type": "photo",
+          "title": "정점식 만난 이준석 “李 부동산 실정 등 의견취합 고민” 3일전",
+          "url": "https://n.news.naver.com/article/021/0002805990",
+          "oid": "021",
+          "aid": "0002805990"
+        },
+        {
+          "rank": 6,
+          "type": "headline",
+          "title": "‘고려아연은 국가기간산업’…노동계, MBK 인수 시도 견제 본격화",
+          "url": "https://n.news.naver.com/article/021/0002806845",
+          "oid": "021",
+          "aid": "0002806845"
+        }
+      ],
+      "count": 6
+    },
+    "세계일보": {
+      "oid": "022",
+      "url": "https://media.naver.com/press/022",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "유가 급등에 코스피·코스닥 나란히 매도 사이드카…기관·외인 순매도",
+          "url": "https://n.news.naver.com/article/022/0004145600",
+          "oid": "022",
+          "aid": "0004145600"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "“성과 나누자”…삼성전자 노사, 반도체 성과급 일부 ‘사회환원’ 추진",
+          "url": "https://n.news.naver.com/article/022/0004145566",
+          "oid": "022",
+          "aid": "0004145566"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "李대통령, 美 샌프란시스코로 출국…젠슨 황·올트먼 만나 AI 외교",
+          "url": "https://n.news.naver.com/article/022/0004145615",
+          "oid": "022",
+          "aid": "0004145615"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "“74조 매도폭탄 쏟아진다?”…1670조 국민연금이 밝힌 ‘실체’ [숫자 뒤의 진실]",
+          "url": "https://n.news.naver.com/article/022/0004145486",
+          "oid": "022",
+          "aid": "0004145486"
+        },
+        {
+          "rank": 5,
+          "type": "photo",
+          "title": "현우진 “고생하면서 일한 게 부정당한 것 같다”…검찰은 징역 1년 구형 1시간전",
+          "url": "https://n.news.naver.com/article/022/0004145604",
+          "oid": "022",
+          "aid": "0004145604"
+        },
+        {
+          "rank": 6,
+          "type": "photo",
+          "title": "주북 중국대사, 김일성 6·25전쟁 사적지 찾아 북·중 우의 강조 7시간전",
+          "url": "https://n.news.naver.com/article/022/0004145543",
+          "oid": "022",
+          "aid": "0004145543"
+        }
+      ],
+      "count": 6
+    },
+    "조선일보": {
+      "oid": "023",
+      "url": "https://media.naver.com/press/023",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "법원 “최태원, 노소영에 9440억원 재산 분할”",
+          "url": "https://n.news.naver.com/article/023/0003989424",
+          "oid": "023",
+          "aid": "0003989424"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "최태원과 노소영 세기의 이혼에 SK텔레콤 주가 5%대 폭등",
+          "url": "https://n.news.naver.com/article/023/0003989429",
+          "oid": "023",
+          "aid": "0003989429"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "“신천지 신도, 민주당 집단 가입... 관련자 수사”",
+          "url": "https://n.news.naver.com/article/023/0003989420",
+          "oid": "023",
+          "aid": "0003989420"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "“요즘 실버타운, 부부는 별로 없고 이런 관계 많다는데..”",
+          "url": "https://n.news.naver.com/article/023/0003989376",
+          "oid": "023",
+          "aid": "0003989376"
+        },
+        {
+          "rank": 5,
+          "type": "headline",
+          "title": "“돈과 로맨스, 부패와 배신 얽힌 현실판 K드라마”...외신도 주목한 최태원 이혼",
+          "url": "https://n.news.naver.com/article/023/0003989430",
+          "oid": "023",
+          "aid": "0003989430"
+        },
+        {
+          "rank": 6,
+          "type": "headline",
+          "title": "李대통령, 美 샌프란시스코로 출국… 젠슨 황·올트먼 만나",
+          "url": "https://n.news.naver.com/article/023/0003989434",
+          "oid": "023",
+          "aid": "0003989434"
+        }
+      ],
+      "count": 6
+    },
+    "중앙일보": {
+      "oid": "025",
+      "url": "https://media.naver.com/press/025",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "法 “최태원, 노소영에 9440억원 지급”…SK 주식도 분할대상 인정",
+          "url": "https://n.news.naver.com/article/025/0003539927",
+          "oid": "025",
+          "aid": "0003539927"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "“박지성이 뭘 알아” 막말 서강일…축협 청문회 참고인 부른다",
+          "url": "https://n.news.naver.com/article/025/0003539936",
+          "oid": "025",
+          "aid": "0003539936"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "“40억집, 월 보유세 330만원”…李 “발상 새롭다”는 이광수 해법",
+          "url": "https://n.news.naver.com/article/025/0003539743",
+          "oid": "025",
+          "aid": "0003539743"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "남녀 3명과 숨졌다…“오빠야~♥” 포르쉐 사준 아내 충격 유서",
+          "url": "https://n.news.naver.com/article/025/0003539908",
+          "oid": "025",
+          "aid": "0003539908"
+        },
+        {
+          "rank": 5,
+          "type": "photo",
+          "title": "동영상 뉴스",
+          "url": "https://n.news.naver.com/article/025/0003539926",
+          "oid": "025",
+          "aid": "0003539926"
+        },
+        {
+          "rank": 6,
+          "type": "photo",
+          "title": "동영상 뉴스",
+          "url": "https://n.news.naver.com/article/025/0003539900",
+          "oid": "025",
+          "aid": "0003539900"
+        }
+      ],
+      "count": 6
+    },
+    "한겨레": {
+      "oid": "028",
+      "url": "https://media.naver.com/press/028",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "친청계 “김민석, ‘신천지 공모자’ 지목하라, 못하면 사퇴”…총공세",
+          "url": "https://n.news.naver.com/article/028/0002815622",
+          "oid": "028",
+          "aid": "0002815622"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "[속보] 9440억원 기준은…“최태원 주식 중 노소영 몫 1/3…주가 급등 고려”",
+          "url": "https://n.news.naver.com/article/028/0002815621",
+          "oid": "028",
+          "aid": "0002815621"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "‘미군은 외국군 지휘 안 받는다’고?…전작권 반대론자들의 뇌피셜",
+          "url": "https://n.news.naver.com/article/028/0002815591",
+          "oid": "028",
+          "aid": "0002815591"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "의식 되찾은 민경욱 “부정선거 싸움 이어가란 뜻”...이진숙 “왕성 활동하길”",
+          "url": "https://n.news.naver.com/article/028/0002815624",
+          "oid": "028",
+          "aid": "0002815624"
+        },
+        {
+          "rank": 5,
+          "type": "headline",
+          "title": "한병도 “보완수사 요구권 실질화”…보완수사권 전면 폐지 방침",
+          "url": "https://n.news.naver.com/article/028/0002815193",
+          "oid": "028",
+          "aid": "0002815193"
+        },
+        {
+          "rank": 6,
+          "type": "headline",
+          "title": "윤호중 “공소청에 보완수사권 남겨선 안 돼…통제 수단 충분”",
+          "url": "https://n.news.naver.com/article/028/0002815292",
+          "oid": "028",
+          "aid": "0002815292"
+        }
+      ],
+      "count": 6
+    },
+    "경향신문": {
+      "oid": "032",
+      "url": "https://media.naver.com/press/032",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "[속보]법원 “최태원, 노소영에 재산분할금 9440억원 현금 지급…SK주식도 분할 대상”",
+          "url": "https://n.news.naver.com/article/032/0003460189",
+          "oid": "032",
+          "aid": "0003460189"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "‘유시민, 그만 자중하라’···잇단 재건축·필패·계파 수장 주장에 “내란세력 돕는 결과” 커지는 비판",
+          "url": "https://n.news.naver.com/article/032/0003460178",
+          "oid": "032",
+          "aid": "0003460178"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "판사마저 꾸짖었다···미 법무부, NYT 기자 소환장 철회",
+          "url": "https://n.news.naver.com/article/032/0003460191",
+          "oid": "032",
+          "aid": "0003460191"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "탕웨이, 47세에 둘째 출산…“네 식구의 여행 시작해요”",
+          "url": "https://n.news.naver.com/article/032/0003460011",
+          "oid": "032",
+          "aid": "0003460011"
+        },
+        {
+          "rank": 5,
+          "type": "headline",
+          "title": "기아, 올해 역대 2분기 최다 판매·최대 매출 달성…영업이익은 5% 감소",
+          "url": "https://n.news.naver.com/article/032/0003460200",
+          "oid": "032",
+          "aid": "0003460200"
+        },
+        {
+          "rank": 6,
+          "type": "headline",
+          "title": "“선관위 해체가 답”···국민의힘, ‘투표율 조작 정황’에 특검 확대·국정조사 연장 촉구",
+          "url": "https://n.news.naver.com/article/032/0003460195",
+          "oid": "032",
+          "aid": "0003460195"
+        }
+      ],
+      "count": 6
+    },
+    "서울신문": {
+      "oid": "081",
+      "url": "https://media.naver.com/press/081",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "法 “최태원 SK주식 재산분할 대상 포함… 기준 시점은 사실심 변론종결일”",
+          "url": "https://n.news.naver.com/article/081/0003664452",
+          "oid": "081",
+          "aid": "0003664452"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "성인 남성 10명 중 4명 성구매 경험…첫 동기는 ‘호기심’",
+          "url": "https://n.news.naver.com/article/081/0003664324",
+          "oid": "081",
+          "aid": "0003664324"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "“박지성이 뭘 알아” 결국 국회 서나…축구협회 청문회 참고인 됐다",
+          "url": "https://n.news.naver.com/article/081/0003664405",
+          "oid": "081",
+          "aid": "0003664405"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "“집, 주차장 등 장소 안 가렸다” 1만명 쓰러지고 14명 사망…난리 난 일본 상황",
+          "url": "https://n.news.naver.com/article/081/0003664396",
+          "oid": "081",
+          "aid": "0003664396"
+        },
+        {
+          "rank": 5,
+          "type": "headline",
+          "title": "위",
+          "url": "https://n.news.naver.com/article/081/0003664124",
+          "oid": "081",
+          "aid": "0003664124"
+        },
+        {
+          "rank": 6,
+          "type": "headline",
+          "title": "위",
+          "url": "https://n.news.naver.com/article/081/0003664377",
+          "oid": "081",
+          "aid": "0003664377"
+        }
+      ],
+      "count": 6
+    },
+    "한국일보": {
+      "oid": "469",
+      "url": "https://media.naver.com/press/469",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "[속보] \"노소영에 9440억 지급하라\"... 법원 \"최태원 SK 주식, 분할대상 재산에 포함\"",
+          "url": "https://n.news.naver.com/article/469/0000944173",
+          "oid": "469",
+          "aid": "0000944173"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "강남서 유행하는 '대통령 근저당'?… '매도인 근저당' 매물 속속 등장",
+          "url": "https://n.news.naver.com/article/469/0000944169",
+          "oid": "469",
+          "aid": "0000944169"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "인권위, '스타벅스 논란' 배재고 긴급구제 신청 각하",
+          "url": "https://n.news.naver.com/article/469/0000944187",
+          "oid": "469",
+          "aid": "0000944187"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "'여중생 성매매' 최영중 전 청주시의원, 16일치 급여부터 챙겼다",
+          "url": "https://n.news.naver.com/article/469/0000944172",
+          "oid": "469",
+          "aid": "0000944172"
+        },
+        {
+          "rank": 5,
+          "type": "headline",
+          "title": "\"한국도 따라 한 이란의 자랑\"… 저가 드론은 어떻게 전쟁 판을 바꿨나 [세계는 왜]",
+          "url": "https://n.news.naver.com/article/469/0000944095",
+          "oid": "469",
+          "aid": "0000944095"
+        },
+        {
+          "rank": 6,
+          "type": "headline",
+          "title": "트럼프, 후티 반군 홍해 피격에 \"이란 책임 물을 것\"",
+          "url": "https://n.news.naver.com/article/469/0000944062",
+          "oid": "469",
+          "aid": "0000944062"
+        }
+      ],
+      "count": 6
+    },
+    "머니투데이": {
+      "oid": "008",
+      "url": "https://media.naver.com/press/008",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "법원 \"최태원, 노소영에 9440억원 줘야\"… 엇갈린 SK그룹주 주가",
+          "url": "https://n.news.naver.com/article/008/0005390568",
+          "oid": "008",
+          "aid": "0005390568"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "[단독]대통령만이 아니었다…양지마을 15억 이상 30%가 근저당 매매",
+          "url": "https://n.news.naver.com/article/008/0005390559",
+          "oid": "008",
+          "aid": "0005390559"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "인권위 \"'스벅 가야지' 배재고 긴급구제 필요없다\"…출전정지 감경 고려",
+          "url": "https://n.news.naver.com/article/008/0005390521",
+          "oid": "008",
+          "aid": "0005390521"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "\"편협하고 이중적 역사 인식\"...일본, 조선인 '우키시마호 참사' 모르쇠",
+          "url": "https://n.news.naver.com/article/008/0005390447",
+          "oid": "008",
+          "aid": "0005390447"
+        },
+        {
+          "rank": 5,
+          "type": "headline",
+          "title": "\"이란 때릴 것\" 또 말뿐이겠지...트럼프 '타코 공식' 나왔다",
+          "url": "https://n.news.naver.com/article/008/0005390547",
+          "oid": "008",
+          "aid": "0005390547"
+        },
+        {
+          "rank": 6,
+          "type": "headline",
+          "title": "트럼프 \"선박 피해, 이란 동결자금으로 배상…이게 공평하지\"",
+          "url": "https://n.news.naver.com/article/008/0005390347",
+          "oid": "008",
+          "aid": "0005390347"
+        }
+      ],
+      "count": 6
+    },
+    "매일경제": {
+      "oid": "009",
+      "url": "https://media.naver.com/press/009",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "9년 끈 ‘세기의 이혼전’ 마침표…최태원, 노소영에 9440억원 재산분할",
+          "url": "https://n.news.naver.com/article/009/0005711810",
+          "oid": "009",
+          "aid": "0005711810"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "“반도체 팔아도 달러가 새는 한국”…미국이 콕 집은 ‘서학개미’의 역설",
+          "url": "https://n.news.naver.com/article/009/0005711737",
+          "oid": "009",
+          "aid": "0005711737"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "장동혁 “李, 부동산정책 바꿀 생각 없다면 정권을 바꾸는 수밖에”",
+          "url": "https://n.news.naver.com/article/009/0005711808",
+          "oid": "009",
+          "aid": "0005711808"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "“뷔페 100번도 살게”…최화정, 삼전닉스 최고점에 판 ‘주식 고수’",
+          "url": "https://n.news.naver.com/article/009/0005711722",
+          "oid": "009",
+          "aid": "0005711722"
+        },
+        {
+          "rank": 5,
+          "type": "photo",
+          "title": "세금인상만 남은 부동산 토론회 … 답답함 느낀 국민 많았을 것 [사설] 22시간전",
+          "url": "https://n.news.naver.com/article/009/0005711431",
+          "oid": "009",
+          "aid": "0005711431"
+        },
+        {
+          "rank": 6,
+          "type": "photo",
+          "title": "하이닉스 노조 \"자사주 말고 현금만\"… N% 성과급 이대로 안 된다 [사설] 1일전",
+          "url": "https://n.news.naver.com/article/009/0005710805",
+          "oid": "009",
+          "aid": "0005710805"
+        }
+      ],
+      "count": 6
+    },
+    "서울경제": {
+      "oid": "011",
+      "url": "https://media.naver.com/press/011",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "9년 만에 끝난 ‘세기의 이혼전’…法 “최태원, 노소영에게 9440억 지급해라”",
+          "url": "https://n.news.naver.com/article/011/0004644855",
+          "oid": "011",
+          "aid": "0004644855"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "하닉·삼전 6% 떨어지는데…상위 투자자는 순매수 1·2위 [주식 초고수는 지금]",
+          "url": "https://n.news.naver.com/article/011/0004644807",
+          "oid": "011",
+          "aid": "0004644807"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "오랜만에 계좌 열었다 깜짝 “이 정도일 줄이야”…M7 시총 하루 새 1200조원 ‘증발’",
+          "url": "https://n.news.naver.com/article/011/0004644823",
+          "oid": "011",
+          "aid": "0004644823"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "“일본 여행 취소해야 하나”…일주일 동안 1만명 실려간 숨 막히는 日 폭염",
+          "url": "https://n.news.naver.com/article/011/0004644408",
+          "oid": "011",
+          "aid": "0004644408"
+        },
+        {
+          "rank": 5,
+          "type": "headline",
+          "title": "불붙는 가비아 공개매수 논쟁…얼라인 “이해상충이 핵심” [시그널]",
+          "url": "https://n.news.naver.com/article/011/0004644848",
+          "oid": "011",
+          "aid": "0004644848"
+        },
+        {
+          "rank": 6,
+          "type": "headline",
+          "title": "일본, 한국·중국산 철강재에 관세 부과 검토…덤핑 잠정 결론",
+          "url": "https://n.news.naver.com/article/011/0004644837",
+          "oid": "011",
+          "aid": "0004644837"
+        }
+      ],
+      "count": 6
+    },
+    "파이낸셜뉴스": {
+      "oid": "014",
+      "url": "https://media.naver.com/press/014",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "최태원 주식 상당 부분 '재산분할 대상'...판단 배경은?",
+          "url": "https://n.news.naver.com/article/014/0005552537",
+          "oid": "014",
+          "aid": "0005552537"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "\"하이닉스 290만→190만원됐는데\"...하락장에서 주가 2배 뛴 SK이터닉스",
+          "url": "https://n.news.naver.com/article/014/0005552276",
+          "oid": "014",
+          "aid": "0005552276"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "62조 '빚투' 후폭풍…반대매매·연체·미수채권 '3중 압박' [fn마켓워치]",
+          "url": "https://n.news.naver.com/article/014/0005552492",
+          "oid": "014",
+          "aid": "0005552492"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "12억, '누가 비싸다고 했나' 허탈...18억 넘고 19억 넘보는 수지",
+          "url": "https://n.news.naver.com/article/014/0005552536",
+          "oid": "014",
+          "aid": "0005552536"
+        },
+        {
+          "rank": 5,
+          "type": "photo",
+          "title": "식지 않는 '빚투'… 가계대출 관리 사실상 실패 21시간전",
+          "url": "https://n.news.naver.com/article/014/0005552174",
+          "oid": "014",
+          "aid": "0005552174"
+        },
+        {
+          "rank": 6,
+          "type": "photo",
+          "title": "'명태균 게이트' 하급심마다 다르게 해석... 여론조사 성격·피고인 관여 정도가 쟁점 21시간전",
+          "url": "https://n.news.naver.com/article/014/0005552195",
+          "oid": "014",
+          "aid": "0005552195"
+        }
+      ],
+      "count": 6
+    },
+    "한국경제": {
+      "oid": "015",
+      "url": "https://media.naver.com/press/015",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "\"SK 주식은 공동재산\"…최태원, 노소영에 '9440억 지급' 판결",
+          "url": "https://n.news.naver.com/article/015/0005313502",
+          "oid": "015",
+          "aid": "0005313502"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "\"상장 한 달 만에 반토막 위기\"…머스크, 공매도에 경고",
+          "url": "https://n.news.naver.com/article/015/0005313510",
+          "oid": "015",
+          "aid": "0005313510"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "1000원 주식이 996억 됐다…부자들 '재테크' 뭐길래",
+          "url": "https://n.news.naver.com/article/015/0005313471",
+          "oid": "015",
+          "aid": "0005313471"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "\"가짜 팀장한테 먼저 혼났습니다\"…요즘 직장인 '씁쓸한 현실' [리멤버 오피스워]",
+          "url": "https://n.news.naver.com/article/015/0005313433",
+          "oid": "015",
+          "aid": "0005313433"
+        },
+        {
+          "rank": 5,
+          "type": "headline",
+          "title": "전기차 판매 60% 뛴 기아, 글로벌 매출·판매량·시장점유율 '역대 최대' [종합]",
+          "url": "https://n.news.naver.com/article/015/0005313508",
+          "oid": "015",
+          "aid": "0005313508"
+        },
+        {
+          "rank": 6,
+          "type": "headline",
+          "title": "\"수능 문항 돈 주고 샀나\"…'일타강사' 현우진 징역 1년 구형",
+          "url": "https://n.news.naver.com/article/015/0005313495",
+          "oid": "015",
+          "aid": "0005313495"
+        }
+      ],
+      "count": 6
+    },
+    "헤럴드경제": {
+      "oid": "016",
+      "url": "https://media.naver.com/press/016",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "사상 최대의 재산분할…최태원, 노소영에 9440억 지급, SK(주) 포함 [세상&]",
+          "url": "https://n.news.naver.com/article/016/0002674709",
+          "oid": "016",
+          "aid": "0002674709"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "“2030은 왜 보수를 택했나…‘영포티 운동권’ 반감·공정 요구”",
+          "url": "https://n.news.naver.com/article/016/0002674669",
+          "oid": "016",
+          "aid": "0002674669"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "‘무조건 남는 장사’ ‘감방 살면 그만’ 직업이 된 사기…사기범 절반이 전과자였다 [사기공화국의 민낯①]",
+          "url": "https://n.news.naver.com/article/016/0002674316",
+          "oid": "016",
+          "aid": "0002674316"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "경찰, 이언주 ‘합성 음란물 게시’ 기업인 불구속 송치[세상&]",
+          "url": "https://n.news.naver.com/article/016/0002674659",
+          "oid": "016",
+          "aid": "0002674659"
+        },
+        {
+          "rank": 5,
+          "type": "headline",
+          "title": "李 “양도세 감면 ‘횟수제한’ 일리있다”…주거 상향 사다리 ‘갈아타기’ 위축되나 [부동산 정책 국민 대토론회]",
+          "url": "https://n.news.naver.com/article/016/0002674586",
+          "oid": "016",
+          "aid": "0002674586"
+        },
+        {
+          "rank": 6,
+          "type": "headline",
+          "title": "초고가·비거주 1주택 ‘증세 직진’…똘똘한 한 채 잡힐까 [부동산 정책 국민 대토론회]",
+          "url": "https://n.news.naver.com/article/016/0002674584",
+          "oid": "016",
+          "aid": "0002674584"
+        }
+      ],
+      "count": 6
+    },
+    "이데일리": {
+      "oid": "018",
+      "url": "https://media.naver.com/press/018",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "한 달 새 1~2억은 우습게 올라…규제 확대에도 경기 남부 집값 더 오르네",
+          "url": "https://n.news.naver.com/article/018/0006336195",
+          "oid": "018",
+          "aid": "0006336195"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "'극단적 더위' 체감온도 38도↑…경북 폭염중대경보",
+          "url": "https://n.news.naver.com/article/018/0006336220",
+          "oid": "018",
+          "aid": "0006336220"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "현대차·기아, 2분기 나란히 '역대 최대 매출'…수익성은 뒷걸음질(종합)",
+          "url": "https://n.news.naver.com/article/018/0006336221",
+          "oid": "018",
+          "aid": "0006336221"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "나경원 \"신천지 유착 알고도 은폐…진짜 위헌정당은 민주당\"",
+          "url": "https://n.news.naver.com/article/018/0006336225",
+          "oid": "018",
+          "aid": "0006336225"
+        },
+        {
+          "rank": 5,
+          "type": "photo",
+          "title": "[속보]코스닥, 매수 사이드카 발동 1일전",
+          "url": "https://n.news.naver.com/article/018/0006335563",
+          "oid": "018",
+          "aid": "0006335563"
+        },
+        {
+          "rank": 6,
+          "type": "headline",
+          "title": "단일종목 레버리지 예탁금 3000만원 상향…31일부터 조기시행(상보)",
+          "url": "https://n.news.naver.com/article/018/0006335909",
+          "oid": "018",
+          "aid": "0006335909"
+        }
+      ],
+      "count": 6
+    },
+    "아시아경제": {
+      "oid": "277",
+      "url": "https://media.naver.com/press/277",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "[속보] 법원 “노태우 지원금 있었다 하더라도 재산 분할비율 고려하지 않음”",
+          "url": "https://n.news.naver.com/article/277/0005794280",
+          "oid": "277",
+          "aid": "0005794280"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "\"대통령이 종목 찍어주는 셈\"…월 1억5000만원 '리딩방' 두고 월가도 '갸웃'",
+          "url": "https://n.news.naver.com/article/277/0005794303",
+          "oid": "277",
+          "aid": "0005794303"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "\"90%나 깎아준대\"…요즘 2030 무조건 여기 모인다. '매장 100개' 늘리는 뷰티 신흥강자[Why&Next]",
+          "url": "https://n.news.naver.com/article/277/0005793959",
+          "oid": "277",
+          "aid": "0005793959"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "임신중 아기 건강에 술담배보다 더 무서운 건…'부모의 지갑'이었다",
+          "url": "https://n.news.naver.com/article/277/0005793980",
+          "oid": "277",
+          "aid": "0005793980"
+        },
+        {
+          "rank": 5,
+          "type": "photo",
+          "title": "[속보] 법원 “재산분할 기준은 이혼소송 사실심 변론종결일” 57분전",
+          "url": "https://n.news.naver.com/article/277/0005794272",
+          "oid": "277",
+          "aid": "0005794272"
+        },
+        {
+          "rank": 6,
+          "type": "headline",
+          "title": "아직 갈 길 멀다…'코리아 프리미엄' 숙제 산적[상법개정 1년]④",
+          "url": "https://n.news.naver.com/article/277/0005793975",
+          "oid": "277",
+          "aid": "0005793975"
+        }
+      ],
+      "count": 6
+    },
+    "조선비즈": {
+      "oid": "366",
+      "url": "https://media.naver.com/press/366",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "[속보] 법원 “최태원, 노소영에 재산분할금 9440억원 지급하라”",
+          "url": "https://n.news.naver.com/article/366/0001181613",
+          "oid": "366",
+          "aid": "0001181613"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "韓 조선 빅3, 美 야드에 설계·자동화 기술부터 심는다… ‘마스가’ 현지 건조 밑그림",
+          "url": "https://n.news.naver.com/article/366/0001181629",
+          "oid": "366",
+          "aid": "0001181629"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "집값 잡겠다고 대출 꽉 조인 정부, 대통령 지시에 보완책 준비",
+          "url": "https://n.news.naver.com/article/366/0001181645",
+          "oid": "366",
+          "aid": "0001181645"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "포스코 노조 “10년차부터 금 달라”… 사측은 계열사 부작용 언급하며 거부",
+          "url": "https://n.news.naver.com/article/366/0001181623",
+          "oid": "366",
+          "aid": "0001181623"
+        },
+        {
+          "rank": 5,
+          "type": "photo",
+          "title": "동영상 뉴스",
+          "url": "https://n.news.naver.com/article/366/0001181442",
+          "oid": "366",
+          "aid": "0001181442"
+        },
+        {
+          "rank": 6,
+          "type": "photo",
+          "title": "동영상 뉴스",
+          "url": "https://n.news.naver.com/article/366/0001181120",
+          "oid": "366",
+          "aid": "0001181120"
+        }
+      ],
+      "count": 6
+    },
+    "연합뉴스": {
+      "oid": "001",
+      "url": "https://media.naver.com/press/001",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "[속보] 與, 보완수사권 포함 檢직접수사 금지 당론추인",
+          "url": "https://n.news.naver.com/article/001/0016213488",
+          "oid": "001",
+          "aid": "0016213488"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "법원 \"최태원, 노소영에 재산분할금 9천440억원 현금 지급\"(종합)",
+          "url": "https://n.news.naver.com/article/001/0016213462",
+          "oid": "001",
+          "aid": "0016213462"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "12.5% 발표에도 끝나지 않은 대미관세 협상…15% 사수할까",
+          "url": "https://n.news.naver.com/article/001/0016213003",
+          "oid": "001",
+          "aid": "0016213003"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "금은방서 골드바 낚아채 달아난 고교생…망본 중학생만 구속",
+          "url": "https://n.news.naver.com/article/001/0016212631",
+          "oid": "001",
+          "aid": "0016212631"
+        },
+        {
+          "rank": 5,
+          "type": "headline",
+          "title": "동영상 뉴스 재생시간 02:22",
+          "url": "https://n.news.naver.com/article/001/0016213013",
+          "oid": "001",
+          "aid": "0016213013"
+        },
+        {
+          "rank": 6,
+          "type": "photo",
+          "title": "동영상 뉴스",
+          "url": "https://n.news.naver.com/article/001/0016212689",
+          "oid": "001",
+          "aid": "0016212689"
+        }
+      ],
+      "count": 6
+    },
+    "뉴시스": {
+      "oid": "003",
+      "url": "https://media.naver.com/press/003",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "최태원·노소영 재산분할 9440억…재원 마련 방안은?",
+          "url": "https://n.news.naver.com/article/003/0014086666",
+          "oid": "003",
+          "aid": "0014086666"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "선관위, '숫자 마사지'하며 투표율 조작 정황…혐의 처벌 수위는",
+          "url": "https://n.news.naver.com/article/003/0014086200",
+          "oid": "003",
+          "aid": "0014086200"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "합수본, 신천지 '민주당도 집단 가입' 정황 포착…수사망 확대",
+          "url": "https://n.news.naver.com/article/003/0014086289",
+          "oid": "003",
+          "aid": "0014086289"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "잠든 중국인 女관광객에 '소변테러'…일본인에 실형 구형",
+          "url": "https://n.news.naver.com/article/003/0014086584",
+          "oid": "003",
+          "aid": "0014086584"
+        },
+        {
+          "rank": 5,
+          "type": "headline",
+          "title": "트럼프, 301조로 무역전략 유지…과잉생산 등 추가 관세 가능성",
+          "url": "https://n.news.naver.com/article/003/0014085932",
+          "oid": "003",
+          "aid": "0014085932"
+        },
+        {
+          "rank": 6,
+          "type": "headline",
+          "title": "靑, 美 무역법 301조 관세 12.5% 부과에 \"최종 15% 지켜지도록 긴밀히 협의\"",
+          "url": "https://n.news.naver.com/article/003/0014085308",
+          "oid": "003",
+          "aid": "0014085308"
+        }
+      ],
+      "count": 6
+    },
+    "뉴스1": {
+      "oid": "421",
+      "url": "https://media.naver.com/press/421",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "법원 \"최태원, 노소영에 재산분할로 9440억 지급…SK주식 포함\"",
+          "url": "https://n.news.naver.com/article/421/0009077445",
+          "oid": "421",
+          "aid": "0009077445"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "정교유착 합수본 '신천지 민주당 가입' 정황 포착…수사 확대",
+          "url": "https://n.news.naver.com/article/421/0009077048",
+          "oid": "421",
+          "aid": "0009077048"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "[단독] 경기 이어 충청서도 '투표율 허위입력' 정황…합수본 수사 확대",
+          "url": "https://n.news.naver.com/article/421/0009077533",
+          "oid": "421",
+          "aid": "0009077533"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "\"성적 요구 거절하자 업무배제 보복\"…경기도청 익명 폭로 논란",
+          "url": "https://n.news.naver.com/article/421/0009077522",
+          "oid": "421",
+          "aid": "0009077522"
+        },
+        {
+          "rank": 5,
+          "type": "headline",
+          "title": "위",
+          "url": "https://n.news.naver.com/article/421/0009076415",
+          "oid": "421",
+          "aid": "0009076415"
+        },
+        {
+          "rank": 6,
+          "type": "headline",
+          "title": "위",
+          "url": "https://n.news.naver.com/article/421/0009076870",
+          "oid": "421",
+          "aid": "0009076870"
+        }
+      ],
+      "count": 6
+    },
+    "YTN": {
+      "oid": "052",
+      "url": "https://media.naver.com/press/052",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "법원 \"최태원, 노소영에 재산 분할 9440억 원 지급\"",
+          "url": "https://n.news.naver.com/article/052/0002384017",
+          "oid": "052",
+          "aid": "0002384017"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "이 대통령, 미국·남미·독일 순방 출발...샌프란시스코에서 첫 일정",
+          "url": "https://n.news.naver.com/article/052/0002383968",
+          "oid": "052",
+          "aid": "0002383968"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "다시 시작된 대미 관세 폭탄...\"15% 상한 사수\"",
+          "url": "https://n.news.naver.com/article/052/0002383924",
+          "oid": "052",
+          "aid": "0002383924"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "[단독] '투표율 조작' 이틀째 압수수색...메신저 영장은 기각",
+          "url": "https://n.news.naver.com/article/052/0002383932",
+          "oid": "052",
+          "aid": "0002383932"
+        },
+        {
+          "rank": 5,
+          "type": "headline",
+          "title": "동영상 뉴스 재생시간 01:59",
+          "url": "https://n.news.naver.com/article/052/0002384014",
+          "oid": "052",
+          "aid": "0002384014"
+        },
+        {
+          "rank": 6,
+          "type": "headline",
+          "title": "동영상 뉴스 재생시간 01:53",
+          "url": "https://n.news.naver.com/article/052/0002383976",
+          "oid": "052",
+          "aid": "0002383976"
+        }
+      ],
+      "count": 6
+    },
+    "SBS": {
+      "oid": "055",
+      "url": "https://media.naver.com/press/055",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "법원 \"최태원, 노소영에 재산분할금 9천440억 원 지급\"",
+          "url": "https://n.news.naver.com/article/055/0001375143",
+          "oid": "055",
+          "aid": "0001375143"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "\"이제 성과 내놔라\" 14.5% 급락…다음 달이 큰 고비?",
+          "url": "https://n.news.naver.com/article/055/0001375116",
+          "oid": "055",
+          "aid": "0001375116"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "\"나는 신\" 의붓딸·신도 세뇌해 성추행…징역 9년에 항소",
+          "url": "https://n.news.naver.com/article/055/0001375149",
+          "oid": "055",
+          "aid": "0001375149"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "물속 1m 찌꺼기 꽉 찼다…썩는 냄새 진동에 \"올해 최악\"",
+          "url": "https://n.news.naver.com/article/055/0001375016",
+          "oid": "055",
+          "aid": "0001375016"
+        },
+        {
+          "rank": 5,
+          "type": "headline",
+          "title": "동영상 뉴스 재생시간 01:19",
+          "url": "https://n.news.naver.com/article/055/0001375020",
+          "oid": "055",
+          "aid": "0001375020"
+        },
+        {
+          "rank": 6,
+          "type": "photo",
+          "title": "동영상 뉴스",
+          "url": "https://n.news.naver.com/article/055/0001375125",
+          "oid": "055",
+          "aid": "0001375125"
+        }
+      ],
+      "count": 6
+    },
+    "KBS": {
+      "oid": "056",
+      "url": "https://media.naver.com/press/056",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "법원 “최태원, 노소영에 9,440억 지급”…SK 주식 분할대상 인정",
+          "url": "https://n.news.naver.com/article/056/0012224545",
+          "oid": "056",
+          "aid": "0012224545"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "최태원 측 “심려 끼쳐 송구…판결문 검토 후 상고 여부 결정” [지금뉴스]",
+          "url": "https://n.news.naver.com/article/056/0012224555",
+          "oid": "056",
+          "aid": "0012224555"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "미국·사우디 원자력 협정 맺었는데 ‘한국 언급’ 왜?",
+          "url": "https://n.news.naver.com/article/056/0012224538",
+          "oid": "056",
+          "aid": "0012224538"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "‘곤봉 폭행’ 파장 사흘 만에 물대포 들고온 중국 [지금뉴스]",
+          "url": "https://n.news.naver.com/article/056/0012224537",
+          "oid": "056",
+          "aid": "0012224537"
+        },
+        {
+          "rank": 5,
+          "type": "headline",
+          "title": "동영상 뉴스 재생시간 01:25",
+          "url": "https://n.news.naver.com/article/056/0012224534",
+          "oid": "056",
+          "aid": "0012224534"
+        },
+        {
+          "rank": 6,
+          "type": "headline",
+          "title": "동영상 뉴스 재생시간 01:40",
+          "url": "https://n.news.naver.com/article/056/0012224524",
+          "oid": "056",
+          "aid": "0012224524"
+        }
+      ],
+      "count": 6
+    },
+    "MBN": {
+      "oid": "057",
+      "url": "https://media.naver.com/press/057",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "최태원, 노소영에 재산분할 9천440억원…파기환송심 판결",
+          "url": "https://n.news.naver.com/article/057/0001960230",
+          "oid": "057",
+          "aid": "0001960230"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "박지원 \"유시민 비평 일부 인정...하지만, 내란 세력 돕는 결과 우려\"",
+          "url": "https://n.news.naver.com/article/057/0001960218",
+          "oid": "057",
+          "aid": "0001960218"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "[단독] “커플 싸우는 줄 알았는데”…경찰, 필로폰 투약 남녀 2명 검거",
+          "url": "https://n.news.naver.com/article/057/0001960165",
+          "oid": "057",
+          "aid": "0001960165"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "\"알몸으로 바닥 기고·고추냉이 식고문\"…계룡대서 해병 가혹행위 의혹",
+          "url": "https://n.news.naver.com/article/057/0001960236",
+          "oid": "057",
+          "aid": "0001960236"
+        },
+        {
+          "rank": 5,
+          "type": "photo",
+          "title": "동영상 뉴스",
+          "url": "https://n.news.naver.com/article/057/0001960199",
+          "oid": "057",
+          "aid": "0001960199"
+        },
+        {
+          "rank": 6,
+          "type": "photo",
+          "title": "동영상 뉴스",
+          "url": "https://n.news.naver.com/article/057/0001960125",
+          "oid": "057",
+          "aid": "0001960125"
+        }
+      ],
+      "count": 6
+    },
+    "MBC": {
+      "oid": "214",
+      "url": "https://media.naver.com/press/214",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "법원 \"최태원, 노소영에 재산분할금 9천440억 원 지급\"",
+          "url": "https://n.news.naver.com/article/214/0001513707",
+          "oid": "214",
+          "aid": "0001513707"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "강제입원, 전광훈 집회 동원‥아동 그룹홈 원장 2심서 징역 5년6개월",
+          "url": "https://n.news.naver.com/article/214/0001513713",
+          "oid": "214",
+          "aid": "0001513713"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "미 뉴욕타임스 \"이란, 트럼프 휴전 제안 거부‥확전 대비\"",
+          "url": "https://n.news.naver.com/article/214/0001513670",
+          "oid": "214",
+          "aid": "0001513670"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "버스만 출발하면 '콰당' \"악!\"‥\"시속 3km인데\"",
+          "url": "https://n.news.naver.com/article/214/0001513631",
+          "oid": "214",
+          "aid": "0001513631"
+        },
+        {
+          "rank": 5,
+          "type": "photo",
+          "title": "동영상 뉴스",
+          "url": "https://n.news.naver.com/article/214/0001513730",
+          "oid": "214",
+          "aid": "0001513730"
+        },
+        {
+          "rank": 6,
+          "type": "photo",
+          "title": "동영상 뉴스",
+          "url": "https://n.news.naver.com/article/214/0001513729",
+          "oid": "214",
+          "aid": "0001513729"
+        }
+      ],
+      "count": 6
+    },
+    "연합뉴스TV": {
+      "oid": "422",
+      "url": "https://media.naver.com/press/422",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "법원 \"최태원, 노소영에 재산분할금 9,440억 원 지급해야\"",
+          "url": "https://n.news.naver.com/article/422/0000888493",
+          "oid": "422",
+          "aid": "0000888493"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "최태원, 재상고 나설까…\"판결문 검토 후 결정\"",
+          "url": "https://n.news.naver.com/article/422/0000888510",
+          "oid": "422",
+          "aid": "0000888510"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "5거래일 연속 사이드카…단일종목 레버리지 오늘도 15%대 폭락",
+          "url": "https://n.news.naver.com/article/422/0000888487",
+          "oid": "422",
+          "aid": "0000888487"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "해체 앞둔 방첩사 부대원에 '새 소속' 통보…간부 460여명 원대 복귀",
+          "url": "https://n.news.naver.com/article/422/0000888508",
+          "oid": "422",
+          "aid": "0000888508"
+        },
+        {
+          "rank": 5,
+          "type": "headline",
+          "title": "동영상 뉴스 재생시간 05:21",
+          "url": "https://n.news.naver.com/article/422/0000824387",
+          "oid": "422",
+          "aid": "0000824387"
+        },
+        {
+          "rank": 6,
+          "type": "headline",
+          "title": "동영상 뉴스 재생시간 06:09",
+          "url": "https://n.news.naver.com/article/422/0000820723",
+          "oid": "422",
+          "aid": "0000820723"
+        }
+      ],
+      "count": 6
+    },
+    "JTBC": {
+      "oid": "437",
+      "url": "https://media.naver.com/press/437",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "\"차라리 문재인이 나았단 말까지\"...장동혁 \"아무말 대잔치 토론\"",
+          "url": "https://n.news.naver.com/article/437/0000502880",
+          "oid": "437",
+          "aid": "0000502880"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "\"박지성이 뭘 안다고\"…'막말' 서강일, 청문회 참고인 됐다",
+          "url": "https://n.news.naver.com/article/437/0000502906",
+          "oid": "437",
+          "aid": "0000502906"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "\"몸무게까지 싹 털어갔는데\"…'따릉이' 5000원 보상에 이용자들 부글",
+          "url": "https://n.news.naver.com/article/437/0000502863",
+          "oid": "437",
+          "aid": "0000502863"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "[비하인드 뉴스] \"유시민, 눈빛이 이상해져\" \"병 깊어진듯\"…독설 후폭풍",
+          "url": "https://n.news.naver.com/article/437/0000502790",
+          "oid": "437",
+          "aid": "0000502790"
+        },
+        {
+          "rank": 5,
+          "type": "photo",
+          "title": "동영상 뉴스",
+          "url": "https://n.news.naver.com/article/437/0000502879",
+          "oid": "437",
+          "aid": "0000502879"
+        },
+        {
+          "rank": 6,
+          "type": "photo",
+          "title": "동영상 뉴스",
+          "url": "https://n.news.naver.com/article/437/0000502894",
+          "oid": "437",
+          "aid": "0000502894"
+        }
+      ],
+      "count": 6
+    },
+    "TV조선": {
+      "oid": "448",
+      "url": "https://media.naver.com/press/448",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "법원 \"최태원, 노소영에 재산분할금 9천440억원 지급\"",
+          "url": "https://n.news.naver.com/article/448/0000629115",
+          "oid": "448",
+          "aid": "0000629115"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "[단독] 정교유착 합수본, 6·3 지방선거 신천지 '민주당 집단가입 정황' 수사",
+          "url": "https://n.news.naver.com/article/448/0000629084",
+          "oid": "448",
+          "aid": "0000629084"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "나경원 \"선관위, 국민 주권 도둑질…서버·전산 낱낱이 해부해야\"",
+          "url": "https://n.news.naver.com/article/448/0000629087",
+          "oid": "448",
+          "aid": "0000629087"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "한병도 \"보완수사권 폐지, 좌고우면할 시간 없어\"",
+          "url": "https://n.news.naver.com/article/448/0000629127",
+          "oid": "448",
+          "aid": "0000629127"
+        },
+        {
+          "rank": 5,
+          "type": "photo",
+          "title": "조직개편안 놓고 광주·전남 공무원노조 충돌…통합 한 달 만에 갈등 1시간전",
+          "url": "https://n.news.naver.com/article/448/0000629107",
+          "oid": "448",
+          "aid": "0000629107"
+        },
+        {
+          "rank": 6,
+          "type": "photo",
+          "title": "\"친구가 자해한 것 같다\" 신고…지인 살해한 50대 긴급체포 1시간전",
+          "url": "https://n.news.naver.com/article/448/0000629105",
+          "oid": "448",
+          "aid": "0000629105"
+        }
+      ],
+      "count": 6
+    },
+    "채널A": {
+      "oid": "449",
+      "url": "https://media.naver.com/press/449",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "법원 “최태원, 노소영에 9440억 분할…주식은 그대로 보유”",
+          "url": "https://n.news.naver.com/article/449/0000354174",
+          "oid": "449",
+          "aid": "0000354174"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "신천지 ‘민주당 집단 가입’ 정황 포착…합수본, 수사망 확대",
+          "url": "https://n.news.naver.com/article/449/0000354170",
+          "oid": "449",
+          "aid": "0000354170"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "정점식 멱살 잡은 권영진 “큰 결례…반성하고 사과”",
+          "url": "https://n.news.naver.com/article/449/0000354150",
+          "oid": "449",
+          "aid": "0000354150"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "“성적 요구 거절하자 업무배제 보복”…경기도청 공무원 폭로",
+          "url": "https://n.news.naver.com/article/449/0000354187",
+          "oid": "449",
+          "aid": "0000354187"
+        },
+        {
+          "rank": 5,
+          "type": "headline",
+          "title": "동영상 뉴스 재생시간 00:48",
+          "url": "https://n.news.naver.com/article/449/0000354149",
+          "oid": "449",
+          "aid": "0000354149"
+        },
+        {
+          "rank": 6,
+          "type": "headline",
+          "title": "동영상 뉴스 재생시간 01:27",
+          "url": "https://n.news.naver.com/article/449/0000354181",
+          "oid": "449",
+          "aid": "0000354181"
+        }
+      ],
+      "count": 6
+    },
+    "프레시안": {
+      "oid": "002",
+      "url": "https://media.naver.com/press/002",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "명태균 측 \"오세훈, 항소심서 이진관 같은 판사 만나 국립호텔에 유숙하길\"",
+          "url": "https://n.news.naver.com/article/002/0002449476",
+          "oid": "002",
+          "aid": "0002449476"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "이광수 대표 \"오세훈 시장처럼 재건축하면 집값 폭등할 것\"",
+          "url": "https://n.news.naver.com/article/002/0002449487",
+          "oid": "002",
+          "aid": "0002449487"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "유시민 \"李대통령 X 이용해 '샤라웃'…현 국정운영으로 성공 못해\"",
+          "url": "https://n.news.naver.com/article/002/0002449489",
+          "oid": "002",
+          "aid": "0002449489"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "또 관세 카드 꺼낸 트럼프, 이번에는 '강제노동' 관세? 美 내부서 \"우리부터 돌아보라\" 일침[트럼프 2기]",
+          "url": "https://n.news.naver.com/article/002/0002449570",
+          "oid": "002",
+          "aid": "0002449570"
+        },
+        {
+          "rank": 5,
+          "type": "headline",
+          "title": "'사기꾼 명태균'…에게 사기당한 사람?[손문상의 그림세상]",
+          "url": "https://n.news.naver.com/article/002/0002449324",
+          "oid": "002",
+          "aid": "0002449324"
+        },
+        {
+          "rank": 6,
+          "type": "headline",
+          "title": "\"진짜,  잘 하고 있는 것 맞아?\"[손문상의 그림세상]",
+          "url": "https://n.news.naver.com/article/002/0002449109",
+          "oid": "002",
+          "aid": "0002449109"
+        }
+      ],
+      "count": 6
+    },
+    "오마이뉴스": {
+      "oid": "047",
+      "url": "https://media.naver.com/press/047",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "[단독] 정교유착 합수본, 신천지 신도 민주당 가입 정황 포착... 수사 확대",
+          "url": "https://n.news.naver.com/article/047/0002523513",
+          "oid": "047",
+          "aid": "0002523513"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "커밍아웃이 취미인 교사 \"누구도 배제되지 않는 학교 꿈꿔요\"",
+          "url": "https://n.news.naver.com/article/047/0002523552",
+          "oid": "047",
+          "aid": "0002523552"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "법원 \"최태원, 노소영에 현금 9440억 원 지급하라\"",
+          "url": "https://n.news.naver.com/article/047/0002523550",
+          "oid": "047",
+          "aid": "0002523550"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "7월 교토에서 열리는 축제, 입시 문제에도 나왔다네요",
+          "url": "https://n.news.naver.com/article/047/0002523555",
+          "oid": "047",
+          "aid": "0002523555"
+        },
+        {
+          "rank": 5,
+          "type": "headline",
+          "title": "'잘 노는' 걸로 유명한데... 팬들이 존경하기 이전에 사랑했던 선수",
+          "url": "https://n.news.naver.com/article/047/0002523047",
+          "oid": "047",
+          "aid": "0002523047"
+        },
+        {
+          "rank": 6,
+          "type": "headline",
+          "title": "[시니어그룹] \"그래, 잘 갈아 탔어\" 26명의 '인생 환승'을 담다",
+          "url": "https://n.news.naver.com/article/047/0002523109",
+          "oid": "047",
+          "aid": "0002523109"
+        }
+      ],
+      "count": 6
+    },
+    "노컷뉴스": {
+      "oid": "079",
+      "url": "https://media.naver.com/press/079",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "최태원, 노소영에 9440억원 재산분할…法 \"SK주식도 공동재산\"",
+          "url": "https://n.news.naver.com/article/079/0004171808",
+          "oid": "079",
+          "aid": "0004171808"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "아동 성범죄 혐의 사퇴한 최영중 전 청주시의원 16일치 급여 챙겨",
+          "url": "https://n.news.naver.com/article/079/0004171611",
+          "oid": "079",
+          "aid": "0004171611"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "정교유착 합수본, 신천지 신도 민주당 가입 정황 포착",
+          "url": "https://n.news.naver.com/article/079/0004171775",
+          "oid": "079",
+          "aid": "0004171775"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "지구촌교회, 삼척·도계·동해서 'MET2026 블레싱' 개최",
+          "url": "https://n.news.naver.com/article/079/0004171821",
+          "oid": "079",
+          "aid": "0004171821"
+        },
+        {
+          "rank": 5,
+          "type": "headline",
+          "title": "경찰, 경산 방화 피의자 주거지 등 압수수색…\"증거자료 확보\"",
+          "url": "https://n.news.naver.com/article/079/0004171791",
+          "oid": "079",
+          "aid": "0004171791"
+        },
+        {
+          "rank": 6,
+          "type": "headline",
+          "title": "육개장사발면·새우깡, 다음달 100원 오른다…\"원가 부담\"",
+          "url": "https://n.news.naver.com/article/079/0004171776",
+          "oid": "079",
+          "aid": "0004171776"
+        }
+      ],
+      "count": 6
+    },
+    "데일리안": {
+      "oid": "119",
+      "url": "https://media.naver.com/press/119",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "[속보] 法 \"노태우 지원금 300억 있었더라도 재산분할비율 산정서 제외\"",
+          "url": "https://n.news.naver.com/article/119/0003114661",
+          "oid": "119",
+          "aid": "0003114661"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "'어용지식인' 자처했던 유시민…왜 '이재명 정부'에 칼 빼들었나 [뉴스속인물]",
+          "url": "https://n.news.naver.com/article/119/0003114585",
+          "oid": "119",
+          "aid": "0003114585"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "트럼프 “지금 이 시점부터 선박 손실, 이란 동결자금으로 배상”",
+          "url": "https://n.news.naver.com/article/119/0003114670",
+          "oid": "119",
+          "aid": "0003114670"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "삼전닉스 레버리지, 31일부터 현금 3000만원 없으면 못 산다",
+          "url": "https://n.news.naver.com/article/119/0003114466",
+          "oid": "119",
+          "aid": "0003114466"
+        },
+        {
+          "rank": 5,
+          "type": "headline",
+          "title": "태블릿 쥔 아이들, 말랑이 만지는 어른들…주인 바뀐 ‘장난감 나라’? [말랑한 어른들③]",
+          "url": "https://n.news.naver.com/article/119/0003114389",
+          "oid": "119",
+          "aid": "0003114389"
+        },
+        {
+          "rank": 6,
+          "type": "headline",
+          "title": "보고, 누르고, 꾸민다…어른들이 장난감을 사는 이유 [말랑한 어른들②]",
+          "url": "https://n.news.naver.com/article/119/0003113927",
+          "oid": "119",
+          "aid": "0003113927"
+        }
+      ],
+      "count": 6
+    }
+  },
+  "errors": {}
+}
