@@ -1,0 +1,1933 @@
+{
+  "collected_at": "2026-07-29T08:52:24.882283+09:00",
+  "collected_at_kst": "2026-07-29 08:52:24",
+  "press_count": 35,
+  "presses": {
+    "국민일보": {
+      "oid": "005",
+      "url": "https://media.naver.com/press/005",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "“집 근처 법카 1400만원” 보도… 홍명보 “정해진 용도로 사용” 반박",
+          "url": "https://n.news.naver.com/article/005/0001863715",
+          "oid": "005",
+          "aid": "0001863715"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "SK하이닉스 2분기 영업익 60.5조… 상반기 100조 육박",
+          "url": "https://n.news.naver.com/article/005/0001863729",
+          "oid": "005",
+          "aid": "0001863729"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "금리 공포 현실화… ‘지금 싼’ 변동형 금리로 몰린다",
+          "url": "https://n.news.naver.com/article/005/0001863694",
+          "oid": "005",
+          "aid": "0001863694"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "“2명 사망·1명 심정지” 구마모토 강진 쇼핑몰 붕괴 밤샘 구조",
+          "url": "https://n.news.naver.com/article/005/0001863718",
+          "oid": "005",
+          "aid": "0001863718"
+        },
+        {
+          "rank": 5,
+          "type": "photo",
+          "title": "MZ세대 순유입 91%는 수도권… 유인은 반도체 등 첨단 ‘일자리’ 7시간전",
+          "url": "https://n.news.naver.com/article/005/0001863688",
+          "oid": "005",
+          "aid": "0001863688"
+        },
+        {
+          "rank": 6,
+          "type": "headline",
+          "title": "코스피 ‘차이나 쇼크’… 장중 6000선 붕괴",
+          "url": "https://n.news.naver.com/article/005/0001863625",
+          "oid": "005",
+          "aid": "0001863625"
+        }
+      ],
+      "count": 6
+    },
+    "동아일보": {
+      "oid": "020",
+      "url": "https://media.naver.com/press/020",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "[속보]영업이익 작년의 6.5배…SK하닉 2분기 사상 최대 실적",
+          "url": "https://n.news.naver.com/article/020/0003737315",
+          "oid": "020",
+          "aid": "0003737315"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "[단독]정부, 호르무즈에 초계함 파견 검토…美에 ‘기여’ 메시지",
+          "url": "https://n.news.naver.com/article/020/0003737298",
+          "oid": "020",
+          "aid": "0003737298"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "김용범, 코스피 폭락에 “AI 혁명은 진짜…확신이 덜한 것”",
+          "url": "https://n.news.naver.com/article/020/0003737311",
+          "oid": "020",
+          "aid": "0003737311"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "“1~2방울만 넣으세요”…인스타에 ‘물뽕’ 광고 버젓이",
+          "url": "https://n.news.naver.com/article/020/0003737313",
+          "oid": "020",
+          "aid": "0003737313"
+        },
+        {
+          "rank": 5,
+          "type": "headline",
+          "title": "美 중부사령부 “이란, 중동 미군기지에 탄도미사일 다수 발사”",
+          "url": "https://n.news.naver.com/article/020/0003737316",
+          "oid": "020",
+          "aid": "0003737316"
+        },
+        {
+          "rank": 6,
+          "type": "headline",
+          "title": "日 구마모토 규모 7.1 강진… 대형 쇼핑몰 일부 무너져",
+          "url": "https://n.news.naver.com/article/020/0003737293",
+          "oid": "020",
+          "aid": "0003737293"
+        }
+      ],
+      "count": 6
+    },
+    "문화일보": {
+      "oid": "021",
+      "url": "https://media.naver.com/press/021",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "한동훈 “민주당이 소주는 술 아닌 음료수라고 하면 그런 것”",
+          "url": "https://n.news.naver.com/article/021/0002807620",
+          "oid": "021",
+          "aid": "0002807620"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "[속보]‘안전한 곳으로 대피해야’…평택 미군기지서 백린 누출 신고",
+          "url": "https://n.news.naver.com/article/021/0002807587",
+          "oid": "021",
+          "aid": "0002807587"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "“욕 나오려 하네” 유인태가 ‘연임 개헌론’에 한 말",
+          "url": "https://n.news.naver.com/article/021/0002807648",
+          "oid": "021",
+          "aid": "0002807648"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "친정에게 받은 14억 아파트, 공동명의 해달라는 남편[당신 생각은]",
+          "url": "https://n.news.naver.com/article/021/0002807624",
+          "oid": "021",
+          "aid": "0002807624"
+        },
+        {
+          "rank": 5,
+          "type": "headline",
+          "title": "BJ 철구 “필리핀 원정도박·불법사채 사실…자수 하겠다”",
+          "url": "https://n.news.naver.com/article/021/0002807576",
+          "oid": "021",
+          "aid": "0002807576"
+        },
+        {
+          "rank": 6,
+          "type": "headline",
+          "title": "‘개미 계좌가 반토막이 났다’…15조원 산 단일 레버리지 상장가 대비 절반 이하로 추락",
+          "url": "https://n.news.naver.com/article/021/0002807611",
+          "oid": "021",
+          "aid": "0002807611"
+        }
+      ],
+      "count": 6
+    },
+    "세계일보": {
+      "oid": "022",
+      "url": "https://media.naver.com/press/022",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "SK하이닉스 영업이익률 76% 경이로운 기록… 반도체 초호황 질주 계속",
+          "url": "https://n.news.naver.com/article/022/0004146739",
+          "oid": "022",
+          "aid": "0004146739"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "“2배 벌려다 14억 날렸다”…외인 5조 투매에 코스피 732p 증발 [숫자 뒤의 진실]",
+          "url": "https://n.news.naver.com/article/022/0004146679",
+          "oid": "022",
+          "aid": "0004146679"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "경찰관 가족사건 전수조사서 117건 확인",
+          "url": "https://n.news.naver.com/article/022/0004146712",
+          "oid": "022",
+          "aid": "0004146712"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "요즘 난리 난 파크골프, 왜 많이 치나 봤더니…뜻밖의 연구 결과 [권준영의 머니볼]",
+          "url": "https://n.news.naver.com/article/022/0004146682",
+          "oid": "022",
+          "aid": "0004146682"
+        },
+        {
+          "rank": 5,
+          "type": "photo",
+          "title": "KB금융·구글 클라우드 협업… AI 금융 플랫폼 구축 나선다 2시간전",
+          "url": "https://n.news.naver.com/article/022/0004146719",
+          "oid": "022",
+          "aid": "0004146719"
+        },
+        {
+          "rank": 6,
+          "type": "photo",
+          "title": "북항서 패들보드 타고 더위 싹~ 부산 원도심·지역상권 활력 ‘업’ 2시간전",
+          "url": "https://n.news.naver.com/article/022/0004146715",
+          "oid": "022",
+          "aid": "0004146715"
+        }
+      ],
+      "count": 6
+    },
+    "조선일보": {
+      "oid": "023",
+      "url": "https://media.naver.com/press/023",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "[단독] ‘실탄’ 없는 중기관총으로 GP 경계 서는 軍",
+          "url": "https://n.news.naver.com/article/023/0003990187",
+          "oid": "023",
+          "aid": "0003990187"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "SK하이닉스, 2분기 영업이익  예상치보다는 낮은 60조5000억원",
+          "url": "https://n.news.naver.com/article/023/0003990207",
+          "oid": "023",
+          "aid": "0003990207"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "‘레버리지의 아버지’ 김용범 “변동성, 우리만 그런 건 아냐”",
+          "url": "https://n.news.naver.com/article/023/0003990208",
+          "oid": "023",
+          "aid": "0003990208"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "원전·가스터빈 앞세운 두산에너빌리티, 수주 잔고 26조 쌓여",
+          "url": "https://n.news.naver.com/article/023/0003990115",
+          "oid": "023",
+          "aid": "0003990115"
+        },
+        {
+          "rank": 5,
+          "type": "headline",
+          "title": "트럼프, 네타냐후·젤렌스키와 잇단 비공개 회담… 전쟁 돌파구 모색",
+          "url": "https://n.news.naver.com/article/023/0003990206",
+          "oid": "023",
+          "aid": "0003990206"
+        },
+        {
+          "rank": 6,
+          "type": "headline",
+          "title": "국민 약 40%가 토지 보유…소유자는 늘고, 면적은 줄어",
+          "url": "https://n.news.naver.com/article/023/0003990203",
+          "oid": "023",
+          "aid": "0003990203"
+        }
+      ],
+      "count": 6
+    },
+    "중앙일보": {
+      "oid": "025",
+      "url": "https://media.naver.com/press/025",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "SK하이닉스, 상반기 매출 첫 100조원 돌파…시장 기대는 밑돌아",
+          "url": "https://n.news.naver.com/article/025/0003540883",
+          "oid": "025",
+          "aid": "0003540883"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "“축! 前경찰서장 또 모셨습니다” 로펌도 전경예우 시대",
+          "url": "https://n.news.naver.com/article/025/0003540844",
+          "oid": "025",
+          "aid": "0003540844"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "앞자리서 휘두른 골프채에 머리 ‘퍽’…가해女 “피해자 과실 70%”",
+          "url": "https://n.news.naver.com/article/025/0003540854",
+          "oid": "025",
+          "aid": "0003540854"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "“노무현 수사 뭉갤 수 없었다”...정치적 타살, 그 주장의 진실은",
+          "url": "https://n.news.naver.com/article/025/0003540838",
+          "oid": "025",
+          "aid": "0003540838"
+        },
+        {
+          "rank": 5,
+          "type": "photo",
+          "title": "동영상 뉴스",
+          "url": "https://n.news.naver.com/article/025/0003540878",
+          "oid": "025",
+          "aid": "0003540878"
+        },
+        {
+          "rank": 6,
+          "type": "photo",
+          "title": "동영상 뉴스",
+          "url": "https://n.news.naver.com/article/025/0003540749",
+          "oid": "025",
+          "aid": "0003540749"
+        }
+      ],
+      "count": 6
+    },
+    "한겨레": {
+      "oid": "028",
+      "url": "https://media.naver.com/press/028",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "서울 재건축 연한 아파트 쏟아진다…고층 중심에 ‘공급 기여’ 한계 뚜렷",
+          "url": "https://n.news.naver.com/article/028/0002816181",
+          "oid": "028",
+          "aid": "0002816181"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "[속보] SK하이닉스 2분기 영업이익 60.5조…전년 대비 6.5배 급증",
+          "url": "https://n.news.naver.com/article/028/0002816189",
+          "oid": "028",
+          "aid": "0002816189"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "미국 “이란이 미군에 미사일 발사”…교전 재개되나",
+          "url": "https://n.news.naver.com/article/028/0002816192",
+          "oid": "028",
+          "aid": "0002816192"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "김용범 “주가 변동성, 단일종목 레버리지 포함 구조적 요인 점검”",
+          "url": "https://n.news.naver.com/article/028/0002816185",
+          "oid": "028",
+          "aid": "0002816185"
+        },
+        {
+          "rank": 5,
+          "type": "headline",
+          "title": "홍준표 “너 때문에 검찰 해체, 떠들기는”…한동훈 겨냥했나",
+          "url": "https://n.news.naver.com/article/028/0002815740",
+          "oid": "028",
+          "aid": "0002815740"
+        },
+        {
+          "rank": 6,
+          "type": "headline",
+          "title": "국힘, ‘정성호 사의’ 고리로 보완수사권 폐지 맹폭…“레임덕 신호탄”",
+          "url": "https://n.news.naver.com/article/028/0002815719",
+          "oid": "028",
+          "aid": "0002815719"
+        }
+      ],
+      "count": 6
+    },
+    "경향신문": {
+      "oid": "032",
+      "url": "https://media.naver.com/press/032",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "윤석열 “유흥 즐기다 난 사고”···이태원 참사 첫 회의서 ‘참사→사고’ 명칭부터 바꿨다",
+          "url": "https://n.news.naver.com/article/032/0003460895",
+          "oid": "032",
+          "aid": "0003460895"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "조정식, 이 대통령 연임 개헌론 논란에 “개헌 논의 대상 아냐”",
+          "url": "https://n.news.naver.com/article/032/0003460999",
+          "oid": "032",
+          "aid": "0003460999"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "한밤중 청라 주택가 ‘아수라장’…서울·인천 조폭 10명  야구방망이·각목 들고 패싸움",
+          "url": "https://n.news.naver.com/article/032/0003460821",
+          "oid": "032",
+          "aid": "0003460821"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "[단독]검찰, 그룹 UN 출신 최정원 ‘연인 특수협박’ 기소유예…스토킹은 무혐의",
+          "url": "https://n.news.naver.com/article/032/0003460988",
+          "oid": "032",
+          "aid": "0003460988"
+        },
+        {
+          "rank": 5,
+          "type": "headline",
+          "title": "SK하이닉스 2분기 영업익 60.5조···전년비 557%↑",
+          "url": "https://n.news.naver.com/article/032/0003461001",
+          "oid": "032",
+          "aid": "0003461001"
+        },
+        {
+          "rank": 6,
+          "type": "headline",
+          "title": "이 대통령 “브라질과 차세대민항기 개발·핵심광물·뷰티 협력”",
+          "url": "https://n.news.naver.com/article/032/0003461003",
+          "oid": "032",
+          "aid": "0003461003"
+        }
+      ],
+      "count": 6
+    },
+    "서울신문": {
+      "oid": "081",
+      "url": "https://media.naver.com/press/081",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "[속보] 日 구마모토 강진…2명 사망·3명 심정지, 공장서 9명 실종",
+          "url": "https://n.news.naver.com/article/081/0003665622",
+          "oid": "081",
+          "aid": "0003665622"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "SK하이닉스 최고 실적에도 주가는 약세…AI 메모리 호황 시험대",
+          "url": "https://n.news.naver.com/article/081/0003665623",
+          "oid": "081",
+          "aid": "0003665623"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "김용범, 코스피 급변동에 “AI 혁명에 대한 확신이 덜한 것…레버리지ETF 등 점검”",
+          "url": "https://n.news.naver.com/article/081/0003665616",
+          "oid": "081",
+          "aid": "0003665616"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "구준엽, 故서희원 ‘207억 펜트하우스’ 상속받았다…“자녀 2명과 공동 소유”",
+          "url": "https://n.news.naver.com/article/081/0003665614",
+          "oid": "081",
+          "aid": "0003665614"
+        },
+        {
+          "rank": 5,
+          "type": "headline",
+          "title": "위",
+          "url": "https://n.news.naver.com/article/081/0003665509",
+          "oid": "081",
+          "aid": "0003665509"
+        },
+        {
+          "rank": 6,
+          "type": "headline",
+          "title": "위",
+          "url": "https://n.news.naver.com/article/081/0003665484",
+          "oid": "081",
+          "aid": "0003665484"
+        }
+      ],
+      "count": 6
+    },
+    "한국일보": {
+      "oid": "469",
+      "url": "https://media.naver.com/press/469",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "[단독] 초기화된 尹 대통령 관저 PC에서 '내란' '계엄' 문건 수십 건이… '증거인멸' 덜미",
+          "url": "https://n.news.naver.com/article/469/0000944970",
+          "oid": "469",
+          "aid": "0000944970"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "SK하이닉스 2분기 영업익 60.5조…예상치 밑돌아",
+          "url": "https://n.news.naver.com/article/469/0000944993",
+          "oid": "469",
+          "aid": "0000944993"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "국힘 \"한번 해보라, 임기도 못 채울 것\"... \"대통령 연임, 국민의 선택\" 조 의장 발언 일파만파",
+          "url": "https://n.news.naver.com/article/469/0000944953",
+          "oid": "469",
+          "aid": "0000944953"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "'인서울' 대신 '자연인' 택한 고3들… 산에서 배운 진짜 생존법",
+          "url": "https://n.news.naver.com/article/469/0000944966",
+          "oid": "469",
+          "aid": "0000944966"
+        },
+        {
+          "rank": 5,
+          "type": "headline",
+          "title": "[단독] 거주용 주택 판단 어떻게?…학업·근무로 이사 땐 보유세 폭탄 면한다",
+          "url": "https://n.news.naver.com/article/469/0000944802",
+          "oid": "469",
+          "aid": "0000944802"
+        },
+        {
+          "rank": 6,
+          "type": "headline",
+          "title": "대통령 발목 잡은 초강력 부동산 규제… 거래 잔혹사 체험하고도 규제 강화",
+          "url": "https://n.news.naver.com/article/469/0000944831",
+          "oid": "469",
+          "aid": "0000944831"
+        }
+      ],
+      "count": 6
+    },
+    "머니투데이": {
+      "oid": "008",
+      "url": "https://media.naver.com/press/008",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "TSMC·엔비디아 다 제쳤다…SK하이닉스, 2Q 영업이익률 76%",
+          "url": "https://n.news.naver.com/article/008/0005392419",
+          "oid": "008",
+          "aid": "0005392419"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "美 중부사령부 \"이란, 중동 미군 기지에 미사일 공격…모두 요격\"",
+          "url": "https://n.news.naver.com/article/008/0005392420",
+          "oid": "008",
+          "aid": "0005392420"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "'암' 걸렸는데 의사 설명 2분...\"이제야 이해됐다\" 70대환자가 보낸 편지",
+          "url": "https://n.news.naver.com/article/008/0005392353",
+          "oid": "008",
+          "aid": "0005392353"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "\"7세 아이가 두 딸 성추행\" 학원 CCTV에 충격...남아 부모에 알렸더니",
+          "url": "https://n.news.naver.com/article/008/0005392373",
+          "oid": "008",
+          "aid": "0005392373"
+        },
+        {
+          "rank": 5,
+          "type": "headline",
+          "title": "한-브라질 공동성명…\"희토류 포함 전략 광물 협력 강조\"",
+          "url": "https://n.news.naver.com/article/008/0005392351",
+          "oid": "008",
+          "aid": "0005392351"
+        },
+        {
+          "rank": 6,
+          "type": "headline",
+          "title": "李 대통령 \"한국의 기술·브라질 자원 힘 합치면 최적의 파트너\"",
+          "url": "https://n.news.naver.com/article/008/0005392356",
+          "oid": "008",
+          "aid": "0005392356"
+        }
+      ],
+      "count": 6
+    },
+    "매일경제": {
+      "oid": "009",
+      "url": "https://media.naver.com/press/009",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "“50억 집 보유세 5000만원?”…강남 ‘똘똘한 한 채’ 세금 폭탄 예고",
+          "url": "https://n.news.naver.com/article/009/0005713571",
+          "oid": "009",
+          "aid": "0005713571"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "SK하이닉스 ‘사상 최대 실적’ 2분기 영업익 60조…영업이익률 76%",
+          "url": "https://n.news.naver.com/article/009/0005713588",
+          "oid": "009",
+          "aid": "0005713588"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "김용범 “증시 변동, 우리만 그런 것 아니지만…레버리지 포함 전반적 상황 점검”",
+          "url": "https://n.news.naver.com/article/009/0005713593",
+          "oid": "009",
+          "aid": "0005713593"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "“속옷 보이는데, 왜 바지 내리고 다니나요”…2030서 인기라는 ‘이 옷’",
+          "url": "https://n.news.naver.com/article/009/0005713381",
+          "oid": "009",
+          "aid": "0005713381"
+        },
+        {
+          "rank": 5,
+          "type": "photo",
+          "title": "中, 메모리 이어 노광장비까지…시험대 오른 K반도체 [사설] 15시간전",
+          "url": "https://n.news.naver.com/article/009/0005713399",
+          "oid": "009",
+          "aid": "0005713399"
+        },
+        {
+          "rank": 6,
+          "type": "photo",
+          "title": "[단독] 가덕도공항 연내 착공 빨간불…PK건설사, 도산 두려워 이탈 조짐 15시간전",
+          "url": "https://n.news.naver.com/article/009/0005713430",
+          "oid": "009",
+          "aid": "0005713430"
+        }
+      ],
+      "count": 6
+    },
+    "서울경제": {
+      "oid": "011",
+      "url": "https://media.naver.com/press/011",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "[단독] 종부세 과표 12억 넘으면 ‘초고가’… 1주택도 중과세",
+          "url": "https://n.news.naver.com/article/011/0004646207",
+          "oid": "011",
+          "aid": "0004646207"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "‘폐가망신’인데…月 22명→10명, 급감한 주가조작사범 법정行[안현덕의 LawStory]",
+          "url": "https://n.news.naver.com/article/011/0004646279",
+          "oid": "011",
+          "aid": "0004646279"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "계속 이렇게는 못 산다더니 “한국·중국 주식 사자”…냉방株에 뭉칫돈 ‘폭염에 베팅’",
+          "url": "https://n.news.naver.com/article/011/0004646289",
+          "oid": "011",
+          "aid": "0004646289"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "“월 30만원씩 2년 통장에 꽂아준다”…20대 절반 떠나는 부산, ‘이 정책’ 나올까",
+          "url": "https://n.news.naver.com/article/011/0004646008",
+          "oid": "011",
+          "aid": "0004646008"
+        },
+        {
+          "rank": 5,
+          "type": "photo",
+          "title": "[여명] 초과이윤 분배, 우리가 착각하는 것들 14시간전",
+          "url": "https://n.news.naver.com/article/011/0004646130",
+          "oid": "011",
+          "aid": "0004646130"
+        },
+        {
+          "rank": 6,
+          "type": "headline",
+          "title": "‘K자 양극화’에 기준중위소득 6.7%↑ 역대최대…4인가구 693만원[Pick코노미]",
+          "url": "https://n.news.naver.com/article/011/0004646254",
+          "oid": "011",
+          "aid": "0004646254"
+        }
+      ],
+      "count": 6
+    },
+    "파이낸셜뉴스": {
+      "oid": "014",
+      "url": "https://media.naver.com/press/014",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "\"돈 다 잃었다\" 반도체 반등 베팅한 개미들 어쩌나…레버리지 ETF 손실 40%",
+          "url": "https://n.news.naver.com/article/014/0005554287",
+          "oid": "014",
+          "aid": "0005554287"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "'60.5조' SK하이닉스, 2분기 영업이익 신기록…상반기 100조 육박 (종합)",
+          "url": "https://n.news.naver.com/article/014/0005554301",
+          "oid": "014",
+          "aid": "0005554301"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "외국인 197조 '셀 코리아'…'폭락'한 코스피, 반등 가능성은?",
+          "url": "https://n.news.naver.com/article/014/0005554257",
+          "oid": "014",
+          "aid": "0005554257"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "\"자기 입에서 냄새나\"...남친 한마디에 병원 갔다가 목숨 건진 40대 여성 [헬스톡]",
+          "url": "https://n.news.naver.com/article/014/0005553873",
+          "oid": "014",
+          "aid": "0005553873"
+        },
+        {
+          "rank": 5,
+          "type": "photo",
+          "title": "\"쇼핑몰 2층 붕괴·다수 고립 추정\" 日 구마모토 규모 7.1 강진, 피해 확산 12시간전",
+          "url": "https://n.news.naver.com/article/014/0005554218",
+          "oid": "014",
+          "aid": "0005554218"
+        },
+        {
+          "rank": 6,
+          "type": "photo",
+          "title": "日 규슈 규모 7.1 지진 韓 남부권 강타...신고 760건[日지진](전국종합) 15시간전",
+          "url": "https://n.news.naver.com/article/014/0005554119",
+          "oid": "014",
+          "aid": "0005554119"
+        }
+      ],
+      "count": 6
+    },
+    "한국경제": {
+      "oid": "015",
+      "url": "https://media.naver.com/press/015",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "SK하이닉스 영업익 60조 '역대급'인데…주가 줄줄 흐르는 이유",
+          "url": "https://n.news.naver.com/article/015/0005314999",
+          "oid": "015",
+          "aid": "0005314999"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "'물 한 방울'로 삼전닉스 자리 넘본다…中 '극강의 기술' 정체 [강경주의 테크X]",
+          "url": "https://n.news.naver.com/article/015/0005314964",
+          "oid": "015",
+          "aid": "0005314964"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "\"임대료에 백기 들고 다 떠났는데\"…올영·다이소 들어선 이유 [장서우의 하입:hype]",
+          "url": "https://n.news.naver.com/article/015/0005314974",
+          "oid": "015",
+          "aid": "0005314974"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "'러닝화 신고 앉아서 달렸다'…2030 난리 난 이색 스포츠 [발굴단]",
+          "url": "https://n.news.naver.com/article/015/0005314978",
+          "oid": "015",
+          "aid": "0005314978"
+        },
+        {
+          "rank": 5,
+          "type": "headline",
+          "title": "SK하이닉스, 2분기 영업익 60.5조…상반기에만 '100조' 벌었다 [종합]",
+          "url": "https://n.news.naver.com/article/015/0005314997",
+          "oid": "015",
+          "aid": "0005314997"
+        },
+        {
+          "rank": 6,
+          "type": "headline",
+          "title": "김용범 정책실장 \"증시변동성 확대, 금융위·금감원이 점검할 것\"",
+          "url": "https://n.news.naver.com/article/015/0005314995",
+          "oid": "015",
+          "aid": "0005314995"
+        }
+      ],
+      "count": 6
+    },
+    "헤럴드경제": {
+      "oid": "016",
+      "url": "https://media.naver.com/press/016",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "[속보] SK하이닉스 2분기 영업익 60조 5426억원 …상반기 영업익만 98조",
+          "url": "https://n.news.naver.com/article/016/0002676483",
+          "oid": "016",
+          "aid": "0002676483"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "[단독] 박승흡 전태일재단 이사장 근로복지공단 이사장 내정…노동운동가 출신 첫 수장",
+          "url": "https://n.news.naver.com/article/016/0002676511",
+          "oid": "016",
+          "aid": "0002676511"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "“결국 손실 5천 찍었다” “난 1억이다” 안 산 사람이 승자?…지옥 된 ‘국민 황제주’",
+          "url": "https://n.news.naver.com/article/016/0002676414",
+          "oid": "016",
+          "aid": "0002676414"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "오늘만 무려 ‘29%’ 급등…SK하이닉스 단일종목 인버스, 국내 ETF 수익률 1위 [투자360]",
+          "url": "https://n.news.naver.com/article/016/0002676316",
+          "oid": "016",
+          "aid": "0002676316"
+        },
+        {
+          "rank": 5,
+          "type": "headline",
+          "title": "김용범, 증시 급락에 “창신·노광 새 요소…변동성 점검할 만하다”",
+          "url": "https://n.news.naver.com/article/016/0002676514",
+          "oid": "016",
+          "aid": "0002676514"
+        },
+        {
+          "rank": 6,
+          "type": "headline",
+          "title": "“1시간이면 다리 다 없어진다”… 트럼프, 이란 향해 ‘인프라 초토화’ 경고[1일1트]",
+          "url": "https://n.news.naver.com/article/016/0002676494",
+          "oid": "016",
+          "aid": "0002676494"
+        }
+      ],
+      "count": 6
+    },
+    "이데일리": {
+      "oid": "018",
+      "url": "https://media.naver.com/press/018",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "SK하이닉스, 2분기 역대급 실적인데…주가는 왜 이래",
+          "url": "https://n.news.naver.com/article/018/0006338749",
+          "oid": "018",
+          "aid": "0006338749"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "“급락장인데 공포는 줄었다…증시 바닥 신호”",
+          "url": "https://n.news.naver.com/article/018/0006338715",
+          "oid": "018",
+          "aid": "0006338715"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "대출 조이자 금수저만 내집마련…청년 '주거 격차' 더 벌어졌다",
+          "url": "https://n.news.naver.com/article/018/0006338675",
+          "oid": "018",
+          "aid": "0006338675"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "'초강력' 태풍 돌핀 세력 키운다…한반도 향할까",
+          "url": "https://n.news.naver.com/article/018/0006338651",
+          "oid": "018",
+          "aid": "0006338651"
+        },
+        {
+          "rank": 5,
+          "type": "headline",
+          "title": "'주식계좌 열었다가 비명'…빚투 청년들, 결혼·내집 마련도 포기",
+          "url": "https://n.news.naver.com/article/018/0006338647",
+          "oid": "018",
+          "aid": "0006338647"
+        },
+        {
+          "rank": 6,
+          "type": "headline",
+          "title": "나만 뒤처질까 '빚투' 나섰던 2030…이자도 감당 못해 허덕",
+          "url": "https://n.news.naver.com/article/018/0006338646",
+          "oid": "018",
+          "aid": "0006338646"
+        }
+      ],
+      "count": 6
+    },
+    "아시아경제": {
+      "oid": "277",
+      "url": "https://media.naver.com/press/277",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "\"한국 때문에 난리났다\" 日 출렁…배경이 '삼전·하닉' 이라고?",
+          "url": "https://n.news.naver.com/article/277/0005795715",
+          "oid": "277",
+          "aid": "0005795715"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "\"사이드카 지겹네\"…변심한 개미들 우르르, '월급 ETF'로 갈아탔다[실전재테크]",
+          "url": "https://n.news.naver.com/article/277/0005795894",
+          "oid": "277",
+          "aid": "0005795894"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "\"선 넘었다\" 29조원 황금알마저 매물로…지분 매각해 6조 조달 나선 FIFA",
+          "url": "https://n.news.naver.com/article/277/0005795923",
+          "oid": "277",
+          "aid": "0005795923"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "\"이걸 왜 버려\" 아파트 변기서 오수 '콸콸'…배관 막은 역류 원인은 '쌀 40㎏'",
+          "url": "https://n.news.naver.com/article/277/0005795636",
+          "oid": "277",
+          "aid": "0005795636"
+        },
+        {
+          "rank": 5,
+          "type": "headline",
+          "title": "팔짱·포옹·손하트·어깨동무…소년공 출신 李·룰라, 각별했던 정상회담",
+          "url": "https://n.news.naver.com/article/277/0005795453",
+          "oid": "277",
+          "aid": "0005795453"
+        },
+        {
+          "rank": 6,
+          "type": "headline",
+          "title": "韓·브라질, 항공우주·에너지·첨단산업 등 MOU 7건 체결…브라질 우주 발사장 이용 간소화",
+          "url": "https://n.news.naver.com/article/277/0005795286",
+          "oid": "277",
+          "aid": "0005795286"
+        }
+      ],
+      "count": 6
+    },
+    "조선비즈": {
+      "oid": "366",
+      "url": "https://media.naver.com/press/366",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "SK하이닉스, 2분기 영업익 60조5426억원 ‘역대 최대’… 전년比 557% 증가",
+          "url": "https://n.news.naver.com/article/366/0001182643",
+          "oid": "366",
+          "aid": "0001182643"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "“이번엔 15억 횡령”… 유니켐 의혹 터진 KBS 드라마, 과거 잡음 재점화",
+          "url": "https://n.news.naver.com/article/366/0001182629",
+          "oid": "366",
+          "aid": "0001182629"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "김용범 “증시 변동성? AI혁명은 진짜…시장 확신이 덜한 것\"",
+          "url": "https://n.news.naver.com/article/366/0001182649",
+          "oid": "366",
+          "aid": "0001182649"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "“코스피 하락폭 과도…펀더멘털보다 심리·수급 문제”",
+          "url": "https://n.news.naver.com/article/366/0001182650",
+          "oid": "366",
+          "aid": "0001182650"
+        },
+        {
+          "rank": 5,
+          "type": "photo",
+          "title": "[속보]“TSMC, 日구마모토 공장 지진 피해 확인 중” 15시간전",
+          "url": "https://n.news.naver.com/article/366/0001182573",
+          "oid": "366",
+          "aid": "0001182573"
+        },
+        {
+          "rank": 6,
+          "type": "photo",
+          "title": "동영상 뉴스",
+          "url": "https://n.news.naver.com/article/366/0001182033",
+          "oid": "366",
+          "aid": "0001182033"
+        }
+      ],
+      "count": 6
+    },
+    "연합뉴스": {
+      "oid": "001",
+      "url": "https://media.naver.com/press/001",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "SK하이닉스 2분기 영업익 역대 최대 60.5조…\"수요 성장세 지속\"(종합)",
+          "url": "https://n.news.naver.com/article/001/0016220501",
+          "oid": "001",
+          "aid": "0016220501"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "구마모토 강진 쇼핑몰 붕괴로 2명 사망·1명 심정지…밤샘 구조",
+          "url": "https://n.news.naver.com/article/001/0016220442",
+          "oid": "001",
+          "aid": "0016220442"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "'2만원에 700여권 평생 소장'…고전문학 앱 AI 번역 논란",
+          "url": "https://n.news.naver.com/article/001/0016220496",
+          "oid": "001",
+          "aid": "0016220496"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "소화기 제조 업체에서 가스 빼는 작업중 50대 남성 숨져",
+          "url": "https://n.news.naver.com/article/001/0016220534",
+          "oid": "001",
+          "aid": "0016220534"
+        },
+        {
+          "rank": 5,
+          "type": "photo",
+          "title": "동영상 뉴스",
+          "url": "https://n.news.naver.com/article/001/0016219776",
+          "oid": "001",
+          "aid": "0016219776"
+        },
+        {
+          "rank": 6,
+          "type": "photo",
+          "title": "동영상 뉴스",
+          "url": "https://n.news.naver.com/article/001/0016220060",
+          "oid": "001",
+          "aid": "0016220060"
+        }
+      ],
+      "count": 6
+    },
+    "뉴시스": {
+      "oid": "003",
+      "url": "https://media.naver.com/press/003",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "美 \"이란, 중동 미군에 탄도미사일 기습 발사…모두 요격\"",
+          "url": "https://n.news.naver.com/article/003/0014094384",
+          "oid": "003",
+          "aid": "0014094384"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "SK하이닉스, 2Q 영업익 60.5조 '사상 최대'…\"고부가 제품 확대로 최고 수익성 달성\"",
+          "url": "https://n.news.naver.com/article/003/0014094411",
+          "oid": "003",
+          "aid": "0014094411"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "보유세 압박에도 초고가 랠리…압구정 112억·반포 98억",
+          "url": "https://n.news.naver.com/article/003/0014094161",
+          "oid": "003",
+          "aid": "0014094161"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "홍준표 \"李대통령한테 MB·박근혜 '반쪽짜리 대통령' 얘기 해줬다\"",
+          "url": "https://n.news.naver.com/article/003/0014094420",
+          "oid": "003",
+          "aid": "0014094420"
+        },
+        {
+          "rank": 5,
+          "type": "headline",
+          "title": "연일 '40도 육박' 더위 공포…2018년 '41도' 넘어설까",
+          "url": "https://n.news.naver.com/article/003/0014094243",
+          "oid": "003",
+          "aid": "0014094243"
+        },
+        {
+          "rank": 6,
+          "type": "headline",
+          "title": "낮 최고 38도 폭염…전국 열대야에 무더위 기승",
+          "url": "https://n.news.naver.com/article/003/0014094390",
+          "oid": "003",
+          "aid": "0014094390"
+        }
+      ],
+      "count": 6
+    },
+    "뉴스1": {
+      "oid": "421",
+      "url": "https://media.naver.com/press/421",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "SK하이닉스, 2Q 영업이익 60.5조·매출 79.3조 '사상 최대'(종합)",
+          "url": "https://n.news.naver.com/article/421/0009084653",
+          "oid": "421",
+          "aid": "0009084653"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "李대통령 \"동반성장 최적 파트너\"…브라질 부통령 \"함께 날아오를 준비\"",
+          "url": "https://n.news.naver.com/article/421/0009084440",
+          "oid": "421",
+          "aid": "0009084440"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "김용범 \"코스피 급락은 AI 논쟁에 中추격까지…레버리지 ETF만 문제 아냐\"",
+          "url": "https://n.news.naver.com/article/421/0009084634",
+          "oid": "421",
+          "aid": "0009084634"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "조 의장 \"현직 대통령 연임, 개헌 대상 아냐…본의 다르게 논란 유감\"",
+          "url": "https://n.news.naver.com/article/421/0009084613",
+          "oid": "421",
+          "aid": "0009084613"
+        },
+        {
+          "rank": 5,
+          "type": "photo",
+          "title": "동영상 뉴스",
+          "url": "https://n.news.naver.com/article/421/0009084144",
+          "oid": "421",
+          "aid": "0009084144"
+        },
+        {
+          "rank": 6,
+          "type": "photo",
+          "title": "동영상 뉴스",
+          "url": "https://n.news.naver.com/article/421/0009083954",
+          "oid": "421",
+          "aid": "0009083954"
+        }
+      ],
+      "count": 6
+    },
+    "YTN": {
+      "oid": "052",
+      "url": "https://media.naver.com/press/052",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "SK하이닉스 2분기 영업이익 60.5조 원...전년 대비 557%↑",
+          "url": "https://n.news.naver.com/article/052/0002385944",
+          "oid": "052",
+          "aid": "0002385944"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "구마모토 '붕괴' 쇼핑몰 2명 사망·1명 심정지...제지 공장 9명 실종",
+          "url": "https://n.news.naver.com/article/052/0002385939",
+          "oid": "052",
+          "aid": "0002385939"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "폭염에 바닷물도 '펄펄'...1994년 최악 더위 재연되나 [뉴스UP]",
+          "url": "https://n.news.naver.com/article/052/0002385957",
+          "oid": "052",
+          "aid": "0002385957"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "네타냐후 \"트럼프와 최고의 회담...이란 핵무장 저지 목표 재확인\"",
+          "url": "https://n.news.naver.com/article/052/0002385956",
+          "oid": "052",
+          "aid": "0002385956"
+        },
+        {
+          "rank": 5,
+          "type": "headline",
+          "title": "동영상 뉴스 재생시간 02:08",
+          "url": "https://n.news.naver.com/article/052/0002385905",
+          "oid": "052",
+          "aid": "0002385905"
+        },
+        {
+          "rank": 6,
+          "type": "photo",
+          "title": "SK하이닉스 2분기 영업이익 60.5조 원...전년 대비 557%↑ 4분전",
+          "url": "https://n.news.naver.com/article/052/0002385958",
+          "oid": "052",
+          "aid": "0002385958"
+        }
+      ],
+      "count": 6
+    },
+    "SBS": {
+      "oid": "055",
+      "url": "https://media.naver.com/press/055",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "SK하이닉스 2분기 영업익 60.5조…상반기 100조 육박",
+          "url": "https://n.news.naver.com/article/055/0001376239",
+          "oid": "055",
+          "aid": "0001376239"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "법사위 소위, '보완수사권 폐지' 형소법 개정안 민주당 주도 의결",
+          "url": "https://n.news.naver.com/article/055/0001376153",
+          "oid": "055",
+          "aid": "0001376153"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "6만 원어치 시켰는데도 \"1인 1 음료\"…갑론을박",
+          "url": "https://n.news.naver.com/article/055/0001376221",
+          "oid": "055",
+          "aid": "0001376221"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "영화관 갔다가 날벼락…\"전액 환불 안 돼\" 논란",
+          "url": "https://n.news.naver.com/article/055/0001376220",
+          "oid": "055",
+          "aid": "0001376220"
+        },
+        {
+          "rank": 5,
+          "type": "headline",
+          "title": "동영상 뉴스 재생시간 00:59",
+          "url": "https://n.news.naver.com/article/055/0001376248",
+          "oid": "055",
+          "aid": "0001376248"
+        },
+        {
+          "rank": 6,
+          "type": "headline",
+          "title": "동영상 뉴스 재생시간 01:12",
+          "url": "https://n.news.naver.com/article/055/0001376219",
+          "oid": "055",
+          "aid": "0001376219"
+        }
+      ],
+      "count": 6
+    },
+    "KBS": {
+      "oid": "056",
+      "url": "https://media.naver.com/press/056",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "SK하이닉스, 2분기 영업이익 60.5조 원…영업이익률 76%",
+          "url": "https://n.news.naver.com/article/056/0012227137",
+          "oid": "056",
+          "aid": "0012227137"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "일본 규모 7.1 강진, 피해 속출…쇼핑몰 붕괴로 10명 실종",
+          "url": "https://n.news.naver.com/article/056/0012227082",
+          "oid": "056",
+          "aid": "0012227082"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "미군 “이란, 중동 미군에 탄도 미사일 발사…모두 요격”",
+          "url": "https://n.news.naver.com/article/056/0012227093",
+          "oid": "056",
+          "aid": "0012227093"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "‘생태’라는 마지노선 지키는 선전 [中선전을가다]②",
+          "url": "https://n.news.naver.com/article/056/0012227107",
+          "oid": "056",
+          "aid": "0012227107"
+        },
+        {
+          "rank": 5,
+          "type": "headline",
+          "title": "동영상 뉴스 재생시간 05:10",
+          "url": "https://n.news.naver.com/article/056/0012227078",
+          "oid": "056",
+          "aid": "0012227078"
+        },
+        {
+          "rank": 6,
+          "type": "photo",
+          "title": "동영상 뉴스",
+          "url": "https://n.news.naver.com/article/056/0012227079",
+          "oid": "056",
+          "aid": "0012227079"
+        }
+      ],
+      "count": 6
+    },
+    "MBN": {
+      "oid": "057",
+      "url": "https://media.naver.com/press/057",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "구마모토 강진 쇼핑몰 붕괴로 20대 여성 2명 사망…밤샘 구조",
+          "url": "https://n.news.naver.com/article/057/0001960879",
+          "oid": "057",
+          "aid": "0001960879"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "네타냐후 \"트럼프 대통령과 회담, 역대 최고 중 하나\"",
+          "url": "https://n.news.naver.com/article/057/0001960901",
+          "oid": "057",
+          "aid": "0001960901"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "[단독] 신천지 전 신도 \"민주당 행사에도 동원돼\" 합수본에 진술",
+          "url": "https://n.news.naver.com/article/057/0001960848",
+          "oid": "057",
+          "aid": "0001960848"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "SK하이닉스 2분기 영업익 60.5조…예상치 소폭 하회",
+          "url": "https://n.news.naver.com/article/057/0001960899",
+          "oid": "057",
+          "aid": "0001960899"
+        },
+        {
+          "rank": 5,
+          "type": "photo",
+          "title": "동영상 뉴스",
+          "url": "https://n.news.naver.com/article/057/0001960876",
+          "oid": "057",
+          "aid": "0001960876"
+        },
+        {
+          "rank": 6,
+          "type": "photo",
+          "title": "동영상 뉴스",
+          "url": "https://n.news.naver.com/article/057/0001960852",
+          "oid": "057",
+          "aid": "0001960852"
+        }
+      ],
+      "count": 6
+    },
+    "MBC": {
+      "oid": "214",
+      "url": "https://media.naver.com/press/214",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "[속보] SK하이닉스, 2분기 매출 79조·영업이익 60조‥상반기 매출 첫 100조 원 돌파",
+          "url": "https://n.news.naver.com/article/214/0001514547",
+          "oid": "214",
+          "aid": "0001514547"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "미군 \"이란, 중동 미군에 다수 탄도미사일 발사‥모두 요격\"",
+          "url": "https://n.news.naver.com/article/214/0001514548",
+          "oid": "214",
+          "aid": "0001514548"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "삼성 기술 빼가며, D램 공백에 급성장‥CXMT, '삼전·닉스' 위협하나?",
+          "url": "https://n.news.naver.com/article/214/0001514435",
+          "oid": "214",
+          "aid": "0001514435"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "이번 더위 언제까지 이어지나‥태풍 '돌핀'이 변수",
+          "url": "https://n.news.naver.com/article/214/0001514443",
+          "oid": "214",
+          "aid": "0001514443"
+        },
+        {
+          "rank": 5,
+          "type": "headline",
+          "title": "동영상 뉴스 재생시간 02:30",
+          "url": "https://n.news.naver.com/article/214/0001514503",
+          "oid": "214",
+          "aid": "0001514503"
+        },
+        {
+          "rank": 6,
+          "type": "headline",
+          "title": "동영상 뉴스 재생시간 01:51",
+          "url": "https://n.news.naver.com/article/214/0001514489",
+          "oid": "214",
+          "aid": "0001514489"
+        }
+      ],
+      "count": 6
+    },
+    "연합뉴스TV": {
+      "oid": "422",
+      "url": "https://media.naver.com/press/422",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "SK하이닉스 2분기 영업이익 60.5조…상반기 100조 육박",
+          "url": "https://n.news.naver.com/article/422/0000890005",
+          "oid": "422",
+          "aid": "0000890005"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "미군 \"이란, 중동 미군에 다수 미사일 발사…모두 요격\"",
+          "url": "https://n.news.naver.com/article/422/0000889990",
+          "oid": "422",
+          "aid": "0000889990"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "日 구마모토 강진에 쇼핑몰 붕괴…\"최소 2명 사망\"",
+          "url": "https://n.news.naver.com/article/422/0000889989",
+          "oid": "422",
+          "aid": "0000889989"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "9살 소녀가 바다에 띄운 ‘편지’, 53년 지나 가족 품으로",
+          "url": "https://n.news.naver.com/article/422/0000889946",
+          "oid": "422",
+          "aid": "0000889946"
+        },
+        {
+          "rank": 5,
+          "type": "headline",
+          "title": "동영상 뉴스 재생시간 05:21",
+          "url": "https://n.news.naver.com/article/422/0000824387",
+          "oid": "422",
+          "aid": "0000824387"
+        },
+        {
+          "rank": 6,
+          "type": "headline",
+          "title": "동영상 뉴스 재생시간 06:09",
+          "url": "https://n.news.naver.com/article/422/0000820723",
+          "oid": "422",
+          "aid": "0000820723"
+        }
+      ],
+      "count": 6
+    },
+    "JTBC": {
+      "oid": "437",
+      "url": "https://media.naver.com/press/437",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "SK하이닉스 2분기 영업익 60조5426억원…지난해보다 557%↑",
+          "url": "https://n.news.naver.com/article/437/0000503493",
+          "oid": "437",
+          "aid": "0000503493"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "구마모토 지진에 쇼핑몰 붕괴…2명 숨지고 1명 심정지",
+          "url": "https://n.news.naver.com/article/437/0000503491",
+          "oid": "437",
+          "aid": "0000503491"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "마이너스 '그냥 안 볼란다'…개미 절규에 정부 초강수",
+          "url": "https://n.news.naver.com/article/437/0000503435",
+          "oid": "437",
+          "aid": "0000503435"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "'눈물 뒤 돌변' 김현태 징역 18년 구형…\"민주주의 조롱\"",
+          "url": "https://n.news.naver.com/article/437/0000503458",
+          "oid": "437",
+          "aid": "0000503458"
+        },
+        {
+          "rank": 5,
+          "type": "headline",
+          "title": "동영상 뉴스 재생시간 03:10",
+          "url": "https://n.news.naver.com/article/437/0000503448",
+          "oid": "437",
+          "aid": "0000503448"
+        },
+        {
+          "rank": 6,
+          "type": "headline",
+          "title": "동영상 뉴스 재생시간 02:31",
+          "url": "https://n.news.naver.com/article/437/0000503476",
+          "oid": "437",
+          "aid": "0000503476"
+        }
+      ],
+      "count": 6
+    },
+    "TV조선": {
+      "oid": "448",
+      "url": "https://media.naver.com/press/448",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "李대통령 \"해외순방 많이 다닌 편…경제협력 큰 도움\"",
+          "url": "https://n.news.naver.com/article/448/0000630012",
+          "oid": "448",
+          "aid": "0000630012"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "SK하이닉스, 영업이익률 76% '사상 최고'…2분기 영업익 60조원 돌파",
+          "url": "https://n.news.naver.com/article/448/0000630044",
+          "oid": "448",
+          "aid": "0000630044"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "조정식 \"연임 개헌, 국민 선택 문제\"…친명들 돌아가며 '연임론' 군불",
+          "url": "https://n.news.naver.com/article/448/0000630027",
+          "oid": "448",
+          "aid": "0000630027"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "차기 대통령 적합도? 김민석17.6%·장동혁15.8%·한동훈13.7%",
+          "url": "https://n.news.naver.com/article/448/0000630051",
+          "oid": "448",
+          "aid": "0000630051"
+        },
+        {
+          "rank": 5,
+          "type": "headline",
+          "title": "동영상 뉴스 재생시간 02:03",
+          "url": "https://n.news.naver.com/article/448/0000630026",
+          "oid": "448",
+          "aid": "0000630026"
+        },
+        {
+          "rank": 6,
+          "type": "photo",
+          "title": "동영상 뉴스",
+          "url": "https://n.news.naver.com/article/448/0000630033",
+          "oid": "448",
+          "aid": "0000630033"
+        }
+      ],
+      "count": 6
+    },
+    "채널A": {
+      "oid": "449",
+      "url": "https://media.naver.com/press/449",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "이 대통령 “임기초 많은 나라 방문…경제·안보협력에 크게 도움”",
+          "url": "https://n.news.naver.com/article/449/0000354707",
+          "oid": "449",
+          "aid": "0000354707"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "조정식 “현직 대통령 연임은 개헌 대상 아냐…논란에 유감”",
+          "url": "https://n.news.naver.com/article/449/0000354706",
+          "oid": "449",
+          "aid": "0000354706"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "SK하이닉스, 2분기 영억이익 60.5조…전년 대비 557%↑",
+          "url": "https://n.news.naver.com/article/449/0000354711",
+          "oid": "449",
+          "aid": "0000354711"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "40도 육박 독한 폭염…2018년 ‘최고기록’도 넘어설까",
+          "url": "https://n.news.naver.com/article/449/0000354708",
+          "oid": "449",
+          "aid": "0000354708"
+        },
+        {
+          "rank": 5,
+          "type": "photo",
+          "title": "동영상 뉴스",
+          "url": "https://n.news.naver.com/article/449/0000354678",
+          "oid": "449",
+          "aid": "0000354678"
+        },
+        {
+          "rank": 6,
+          "type": "photo",
+          "title": "동영상 뉴스",
+          "url": "https://n.news.naver.com/article/449/0000354675",
+          "oid": "449",
+          "aid": "0000354675"
+        }
+      ],
+      "count": 6
+    },
+    "프레시안": {
+      "oid": "002",
+      "url": "https://media.naver.com/press/002",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "김민석, 정청래 직격…\"내란당, 내란당 하다가 깨지면 무슨 소용\"",
+          "url": "https://n.news.naver.com/article/002/0002450052",
+          "oid": "002",
+          "aid": "0002450052"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "주병기, 서울시장 선거 결과 비판 SNS글에 \"국민에 심려끼쳐 죄송\"",
+          "url": "https://n.news.naver.com/article/002/0002450079",
+          "oid": "002",
+          "aid": "0002450079"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "'397억' 반환 위기 국민의힘…당내 한숨 \"이래도 '윤 어게인' 할 건가\"",
+          "url": "https://n.news.naver.com/article/002/0002450070",
+          "oid": "002",
+          "aid": "0002450070"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "벌집 쑤신 조정식 \"연임 개헌\" 언급…국민의힘도 진보단체도 비판",
+          "url": "https://n.news.naver.com/article/002/0002450069",
+          "oid": "002",
+          "aid": "0002450069"
+        },
+        {
+          "rank": 5,
+          "type": "headline",
+          "title": "'차떼기'의 추억…\"천막 다시 꺼내야 하나?\"[손문상의 그림세상]",
+          "url": "https://n.news.naver.com/article/002/0002449907",
+          "oid": "002",
+          "aid": "0002449907"
+        },
+        {
+          "rank": 6,
+          "type": "headline",
+          "title": "'사기꾼 명태균'…에게 사기당한 사람?[손문상의 그림세상]",
+          "url": "https://n.news.naver.com/article/002/0002449324",
+          "oid": "002",
+          "aid": "0002449324"
+        }
+      ],
+      "count": 6
+    },
+    "오마이뉴스": {
+      "oid": "047",
+      "url": "https://media.naver.com/press/047",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "[이충재의 인사이트] 조정식 '대통령 연임' 발언이 미칠 악영향 세 가지",
+          "url": "https://n.news.naver.com/article/047/0002523956",
+          "oid": "047",
+          "aid": "0002523956"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "이 대통령 \"임기 초 해외 순방 좀 많이 다니는 편, 왜냐면...\"",
+          "url": "https://n.news.naver.com/article/047/0002523955",
+          "oid": "047",
+          "aid": "0002523955"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "\"국민께 사죄\"한다면서 과징금엔 소송... '담합' 제당업계의 두 얼굴",
+          "url": "https://n.news.naver.com/article/047/0002523958",
+          "oid": "047",
+          "aid": "0002523958"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "탐폰으로 만든 샹들리에, 냄비로 만든 하이힐... 누구 아이디어야?",
+          "url": "https://n.news.naver.com/article/047/0002523959",
+          "oid": "047",
+          "aid": "0002523959"
+        },
+        {
+          "rank": 5,
+          "type": "headline",
+          "title": "어디선가 들려온 '아리랑', 독도 여행에서 마주한 풍경",
+          "url": "https://n.news.naver.com/article/047/0002523521",
+          "oid": "047",
+          "aid": "0002523521"
+        },
+        {
+          "rank": 6,
+          "type": "headline",
+          "title": "\"주식 하다 망하면 이사 간다\"는 동네에 6년째 살고 있습니다",
+          "url": "https://n.news.naver.com/article/047/0002523533",
+          "oid": "047",
+          "aid": "0002523533"
+        }
+      ],
+      "count": 6
+    },
+    "노컷뉴스": {
+      "oid": "079",
+      "url": "https://media.naver.com/press/079",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "이란, 중동 내 미군 기지에 미사일 발사…충돌 재발 조짐",
+          "url": "https://n.news.naver.com/article/079/0004173114",
+          "oid": "079",
+          "aid": "0004173114"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "尹 당선무효가 부른 역설…국힘은 '면소법' 솔깃, 민주는 신중",
+          "url": "https://n.news.naver.com/article/079/0004173093",
+          "oid": "079",
+          "aid": "0004173093"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "李대통령 \"한-브라질, 자원에 혁신 더해 공동번영 개척\"",
+          "url": "https://n.news.naver.com/article/079/0004173110",
+          "oid": "079",
+          "aid": "0004173110"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "합수본, '마약 수사 유출' 현직 경찰관 수사…서울청 압수수색",
+          "url": "https://n.news.naver.com/article/079/0004173113",
+          "oid": "079",
+          "aid": "0004173113"
+        },
+        {
+          "rank": 5,
+          "type": "headline",
+          "title": "이란전쟁 발발 후 트럼프-네타냐후 첫 대면…이례적 비공개",
+          "url": "https://n.news.naver.com/article/079/0004173101",
+          "oid": "079",
+          "aid": "0004173101"
+        },
+        {
+          "rank": 6,
+          "type": "headline",
+          "title": "기준중위소득 '역대 최고 인상' 이면엔…\"소득격차 방치\" 비판",
+          "url": "https://n.news.naver.com/article/079/0004173102",
+          "oid": "079",
+          "aid": "0004173102"
+        }
+      ],
+      "count": 6
+    },
+    "데일리안": {
+      "oid": "119",
+      "url": "https://media.naver.com/press/119",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "그만두겠다는 '친명 핵심' 정성호·펄쩍 뛰는 청와대…왜?",
+          "url": "https://n.news.naver.com/article/119/0003115881",
+          "oid": "119",
+          "aid": "0003115881"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "SK하이닉스, 2분기 또 역대 최대…영업이익률 76% [상보]",
+          "url": "https://n.news.naver.com/article/119/0003115919",
+          "oid": "119",
+          "aid": "0003115919"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "'표적징계 정국의 중심' 조경태, 오늘 오후 2시에 입 연다 [정국 기상대]",
+          "url": "https://n.news.naver.com/article/119/0003115900",
+          "oid": "119",
+          "aid": "0003115900"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "‘법카도 문제’ 홍명보 감독, 자택 인근서 1406만원 긁었다…교육 후에도 결제",
+          "url": "https://n.news.naver.com/article/119/0003115871",
+          "oid": "119",
+          "aid": "0003115871"
+        },
+        {
+          "rank": 5,
+          "type": "headline",
+          "title": "日 강진에 무너진 대형 쇼핑몰서 사망자 발생…2명 사망·1명 심정지",
+          "url": "https://n.news.naver.com/article/119/0003115920",
+          "oid": "119",
+          "aid": "0003115920"
+        },
+        {
+          "rank": 6,
+          "type": "headline",
+          "title": "日 강진 쇼핑몰 붕괴에 사망자 발생·직원 20~30명 생사 확인 중",
+          "url": "https://n.news.naver.com/article/119/0003115885",
+          "oid": "119",
+          "aid": "0003115885"
+        }
+      ],
+      "count": 6
+    }
+  },
+  "errors": {}
+}
