@@ -1,0 +1,1933 @@
+{
+  "collected_at": "2026-11-19T12:54:46.674482+09:00",
+  "collected_at_kst": "2026-11-19 12:54:46",
+  "press_count": 35,
+  "presses": {
+    "국민일보": {
+      "oid": "005",
+      "url": "https://media.naver.com/press/005",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "[속보] 경찰, 행방불명 ‘리트 만점자’ 광진→송파→강동 추적중",
+          "url": "https://n.news.naver.com/article/005/0001886170",
+          "oid": "005",
+          "aid": "0001886170"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "교육부 “재난문자 발송으로 스마트폰 소지 22명 적발”",
+          "url": "https://n.news.naver.com/article/005/0001886158",
+          "oid": "005",
+          "aid": "0001886158"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "李, 미중러 정상 앞에서 “北과 대화문 다시 열려 전쟁종식 논의하길”",
+          "url": "https://n.news.naver.com/article/005/0001886162",
+          "oid": "005",
+          "aid": "0001886162"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "[단독] 정부, ‘리트냥이’ 지난해 수능 시험지 보존 지시",
+          "url": "https://n.news.naver.com/article/005/0001886148",
+          "oid": "005",
+          "aid": "0001886148"
+        },
+        {
+          "rank": 5,
+          "type": "headline",
+          "title": "[단독] “임신 초기 하혈·난임 검사” 직원 90여명 병가 내역 내부망에 올린 해경",
+          "url": "https://n.news.naver.com/article/005/0001886103",
+          "oid": "005",
+          "aid": "0001886103"
+        },
+        {
+          "rank": 6,
+          "type": "headline",
+          "title": "“보복 해드립니다”…오물 투척에 낙서까지 ‘사적 보복’ 대행업체 덜미",
+          "url": "https://n.news.naver.com/article/005/0001886130",
+          "oid": "005",
+          "aid": "0001886130"
+        }
+      ],
+      "count": 6
+    },
+    "동아일보": {
+      "oid": "020",
+      "url": "https://media.naver.com/press/020",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "[단독]리트 만점자, 고의 교통사고로 합의금 뜯어 실형 받았었다",
+          "url": "https://n.news.naver.com/article/020/0003763620",
+          "oid": "020",
+          "aid": "0003763620"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "[속보]재난문자 발송으로 22개 스마트폰 적발…수능 지연 없어",
+          "url": "https://n.news.naver.com/article/020/0003763638",
+          "oid": "020",
+          "aid": "0003763638"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "“수험생인데 방문 잠겼어요”…119 출동해 문 열고 시험장行",
+          "url": "https://n.news.naver.com/article/020/0003763636",
+          "oid": "020",
+          "aid": "0003763636"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "“아들 수능 도시락 갖다줘야” 차 몰다 교통사고…경찰 도움으로 전달",
+          "url": "https://n.news.naver.com/article/020/0003763622",
+          "oid": "020",
+          "aid": "0003763622"
+        },
+        {
+          "rank": 5,
+          "type": "headline",
+          "title": "카드 전용 버스에 당황한 할아버지…앞자리 승객 “제가 찍어드릴게요”",
+          "url": "https://n.news.naver.com/article/020/0003763624",
+          "oid": "020",
+          "aid": "0003763624"
+        },
+        {
+          "rank": 6,
+          "type": "headline",
+          "title": "세무사 수석, 수정테이프에 카메라 숨기고 계산기를 키보드로 써",
+          "url": "https://n.news.naver.com/article/020/0003763548",
+          "oid": "020",
+          "aid": "0003763548"
+        }
+      ],
+      "count": 6
+    },
+    "문화일보": {
+      "oid": "021",
+      "url": "https://media.naver.com/press/021",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "[속보]교육부 “재난문자로 전국서 22개 스마트폰 적발”",
+          "url": "https://n.news.naver.com/article/021/0002833941",
+          "oid": "021",
+          "aid": "0002833941"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "‘리트 만점’ 이진우 “이틀 전 집 나가 안 돌아와”",
+          "url": "https://n.news.naver.com/article/021/0002833945",
+          "oid": "021",
+          "aid": "0002833945"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "[속보]경찰, 이진우 서울대 치대 수능시험지 증거보전 요청",
+          "url": "https://n.news.naver.com/article/021/0002833927",
+          "oid": "021",
+          "aid": "0002833927"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "“나라에서 돈받으면서 놀아요”…노는 청년 100만명인 이유[아하영국]",
+          "url": "https://n.news.naver.com/article/021/0002833857",
+          "oid": "021",
+          "aid": "0002833857"
+        },
+        {
+          "rank": 5,
+          "type": "headline",
+          "title": "LEET시험 스마트안경 적발 20대女 “반입제한 몰랐다”",
+          "url": "https://n.news.naver.com/article/021/0002833808",
+          "oid": "021",
+          "aid": "0002833808"
+        },
+        {
+          "rank": 6,
+          "type": "headline",
+          "title": "“남편도 나도 못 받았다”…전 국민 울린 수능 재난문자, 곳곳서 미수신 주장",
+          "url": "https://n.news.naver.com/article/021/0002833943",
+          "oid": "021",
+          "aid": "0002833943"
+        }
+      ],
+      "count": 6
+    },
+    "세계일보": {
+      "oid": "022",
+      "url": "https://media.naver.com/press/022",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "[단독] 세무사 1차 감독 매뉴얼엔 AI 기기 안내 없었다… 탐지기 검사 여부도 확인 안 해",
+          "url": "https://n.news.naver.com/article/022/0004176447",
+          "oid": "022",
+          "aid": "0004176447"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "삼성전자 30만원에 샀다면…35% 잃었는데 54% 올라야 본전 [숫자 뒤의 진실]",
+          "url": "https://n.news.naver.com/article/022/0004176358",
+          "oid": "022",
+          "aid": "0004176358"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "제육 비벼 먹고 혈당 200 찍혔다…‘채소 먼저’ 말고 뜻밖의 해법",
+          "url": "https://n.news.naver.com/article/022/0004176357",
+          "oid": "022",
+          "aid": "0004176357"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "美, 북한인권결의안 첫 기권…북·미 대화 앞두고 인권 문제도 뒷전으로 밀리나",
+          "url": "https://n.news.naver.com/article/022/0004176468",
+          "oid": "022",
+          "aid": "0004176468"
+        },
+        {
+          "rank": 5,
+          "type": "headline",
+          "title": "‘아까워서 냉장고 넣었는데…’ 입 댄 아메리카노, 다음 날 마셔도 될까? [헬스&라이프]",
+          "url": "https://n.news.naver.com/article/022/0004176364",
+          "oid": "022",
+          "aid": "0004176364"
+        },
+        {
+          "rank": 6,
+          "type": "headline",
+          "title": "李 “한반도 평화·안전이 아태지역 공동 번영 필수 조건… 북한과 대화의 문 다시 열리길”",
+          "url": "https://n.news.naver.com/article/022/0004176472",
+          "oid": "022",
+          "aid": "0004176472"
+        }
+      ],
+      "count": 6
+    },
+    "조선일보": {
+      "oid": "023",
+      "url": "https://media.naver.com/press/023",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "‘LEET 만점자’ 이진우, ‘경찰관 폭행’ 전과...‘고의 교통사고’로 실형 선고도",
+          "url": "https://n.news.naver.com/article/023/0004010535",
+          "oid": "023",
+          "aid": "0004010535"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "이 난리에도 간큰 수험생들... 재난문자로 스마트폰 22개 적발",
+          "url": "https://n.news.naver.com/article/023/0004010528",
+          "oid": "023",
+          "aid": "0004010528"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "간첩보다 못한 한국 반도체 외교",
+          "url": "https://n.news.naver.com/article/023/0004010402",
+          "oid": "023",
+          "aid": "0004010402"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "약해진 뼈에 생기는 뇌졸중, ‘골졸중’을 아시나요",
+          "url": "https://n.news.naver.com/article/023/0004010446",
+          "oid": "023",
+          "aid": "0004010446"
+        },
+        {
+          "rank": 5,
+          "type": "headline",
+          "title": "장애 아들 앞 폭행… ‘김창민 감독 살해’ 피의자들 징역 12년·3년",
+          "url": "https://n.news.naver.com/article/023/0004010523",
+          "oid": "023",
+          "aid": "0004010523"
+        },
+        {
+          "rank": 6,
+          "type": "headline",
+          "title": "경찰, ‘AI 커닝’ 세무사 시험 수석 2차 소환",
+          "url": "https://n.news.naver.com/article/023/0004010541",
+          "oid": "023",
+          "aid": "0004010541"
+        }
+      ],
+      "count": 6
+    },
+    "중앙일보": {
+      "oid": "025",
+      "url": "https://media.naver.com/press/025",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "[단독] 폰 끄고 잠적한 리트 만점자…모텔엔 ‘찢어진 수능수험표’",
+          "url": "https://n.news.naver.com/article/025/0003566406",
+          "oid": "025",
+          "aid": "0003566406"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "[단독] 리트냥이 전과자였다…‘고의 교통사고’ 공갈 누범에 실형도",
+          "url": "https://n.news.naver.com/article/025/0003566361",
+          "oid": "025",
+          "aid": "0003566361"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "전 대치동 강사 치과 의사 “초소형 장비 숨길데 너무 많아”",
+          "url": "https://n.news.naver.com/article/025/0003566307",
+          "oid": "025",
+          "aid": "0003566307"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "“대통령님, 전화 그만하시죠”…MB 자존심과 바꾼 ‘UAE 원전’",
+          "url": "https://n.news.naver.com/article/025/0003566311",
+          "oid": "025",
+          "aid": "0003566311"
+        },
+        {
+          "rank": 5,
+          "type": "headline",
+          "title": "“삼성 임원, 자존심도 없더라” AI 교육장서 본 충격 장면",
+          "url": "https://n.news.naver.com/article/025/0003566394",
+          "oid": "025",
+          "aid": "0003566394"
+        },
+        {
+          "rank": 6,
+          "type": "headline",
+          "title": "수능 재난문자 울리자, 스마트폰 22개 적발…“부정행위 엄정조치”",
+          "url": "https://n.news.naver.com/article/025/0003566382",
+          "oid": "025",
+          "aid": "0003566382"
+        }
+      ],
+      "count": 6
+    },
+    "한겨레": {
+      "oid": "028",
+      "url": "https://media.naver.com/press/028",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "수능 국어, 작년보다 쉬웠다…“독서 17번·12번, 문학 30번 변별력 문항”",
+          "url": "https://n.news.naver.com/article/028/0002832975",
+          "oid": "028",
+          "aid": "0002832975"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "[속보] 재난문자로 스마트폰 22명 적발…시험 지연 없어",
+          "url": "https://n.news.naver.com/article/028/0002832955",
+          "oid": "028",
+          "aid": "0002832955"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "올해 수능 필적문구 “끝없이 높은 하늘로 한없이 넓은 바다로”",
+          "url": "https://n.news.naver.com/article/028/0002832977",
+          "oid": "028",
+          "aid": "0002832977"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "이 대통령, APEC 정상회의서 “북한과 대화의 문 다시 열리길 기대”",
+          "url": "https://n.news.naver.com/article/028/0002832968",
+          "oid": "028",
+          "aid": "0002832968"
+        },
+        {
+          "rank": 5,
+          "type": "headline",
+          "title": "머스크 “난 마가 아니다”…트럼프 쪽과 본격 거리두기  신호탄",
+          "url": "https://n.news.naver.com/article/028/0002832963",
+          "oid": "028",
+          "aid": "0002832963"
+        },
+        {
+          "rank": 6,
+          "type": "headline",
+          "title": "젠슨 황 딸, 메가스피드 사태 개입…“막강한 영향력에 누구도 ‘No’ 못했다”",
+          "url": "https://n.news.naver.com/article/028/0002832771",
+          "oid": "028",
+          "aid": "0002832771"
+        }
+      ],
+      "count": 6
+    },
+    "경향신문": {
+      "oid": "032",
+      "url": "https://media.naver.com/press/032",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "[속보]수능 위급재난문자 발송으로 스마트폰 22대 적발…수능 성적 무효 처리",
+          "url": "https://n.news.naver.com/article/032/0003483686",
+          "oid": "032",
+          "aid": "0003483686"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "올해 수능 필적 확인 문구는 “끝없는 높은 하늘로 한없이 넓은 바다로”",
+          "url": "https://n.news.naver.com/article/032/0003483703",
+          "oid": "032",
+          "aid": "0003483703"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "김혜경 여사 소탈한 모습 중국에서 화제…이재명 대통령 따라 ‘국회 담장 인증샷’도 인기",
+          "url": "https://n.news.naver.com/article/032/0003483682",
+          "oid": "032",
+          "aid": "0003483682"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "[속보]서울시교육청 “‘리트 만점자’ 지난해 수능 문답지 폐기 안 됐다”",
+          "url": "https://n.news.naver.com/article/032/0003483684",
+          "oid": "032",
+          "aid": "0003483684"
+        },
+        {
+          "rank": 5,
+          "type": "headline",
+          "title": "‘양산 시험장서 AI 안경 쓰겠다’ 댓글 신고···경찰 확인 중[2027 수능]",
+          "url": "https://n.news.naver.com/article/032/0003483690",
+          "oid": "032",
+          "aid": "0003483690"
+        },
+        {
+          "rank": 6,
+          "type": "headline",
+          "title": "올해 수능 국어, 작년보다 쉽게 출제…EBS 연계 체감도 높아[2027 수능]",
+          "url": "https://n.news.naver.com/article/032/0003483698",
+          "oid": "032",
+          "aid": "0003483698"
+        }
+      ],
+      "count": 6
+    },
+    "서울신문": {
+      "oid": "081",
+      "url": "https://media.naver.com/press/081",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "[속보] ‘행방불명’ 리트 만점자 광진→송파→강동…경찰, 추적중",
+          "url": "https://n.news.naver.com/article/081/0003701103",
+          "oid": "081",
+          "aid": "0003701103"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "[속보] 박찬종 전 5선 국회의원 별세… “생전 약속대로 시신 기증”",
+          "url": "https://n.news.naver.com/article/081/0003701102",
+          "oid": "081",
+          "aid": "0003701102"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "40대 여성, 수험생 아들에 도시락주려다 교통사고…순찰차 타고 시험장으로",
+          "url": "https://n.news.naver.com/article/081/0003701034",
+          "oid": "081",
+          "aid": "0003701034"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "“수신 차단하니 재난문자 안 와, 이게 대책?” SNS 시끌…정부 “확인된 사례 없어”",
+          "url": "https://n.news.naver.com/article/081/0003701082",
+          "oid": "081",
+          "aid": "0003701082"
+        },
+        {
+          "rank": 5,
+          "type": "headline",
+          "title": "[포착] 호르무즈, 또 불바다 됐다…“LPG 운반선, 발사체에 맞아 ‘활활’” [영상]",
+          "url": "https://n.news.naver.com/article/081/0003701077",
+          "oid": "081",
+          "aid": "0003701077"
+        },
+        {
+          "rank": 6,
+          "type": "headline",
+          "title": "박지윤, 상간 소송 심경 밝혔다 “성소수자와 부정행위? 최동석 언플에 지쳐가”",
+          "url": "https://n.news.naver.com/article/081/0003700994",
+          "oid": "081",
+          "aid": "0003700994"
+        }
+      ],
+      "count": 6
+    },
+    "한국일보": {
+      "oid": "469",
+      "url": "https://media.naver.com/press/469",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "'리트 만점자' 이진우, 검증 약속 시간에 택시로 송파구 이동… 경찰, 추적 중",
+          "url": "https://n.news.naver.com/article/469/0000966499",
+          "oid": "469",
+          "aid": "0000966499"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "[속보] 교육부 \"수능 재난문자로 전국 9개 시도에서 22개 스마트폰 적발\"",
+          "url": "https://n.news.naver.com/article/469/0000966505",
+          "oid": "469",
+          "aid": "0000966505"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "올해 수능 국어, 재작년과 비슷한 난도... 최고 변별력은 김채원 '봄의 환'",
+          "url": "https://n.news.naver.com/article/469/0000966516",
+          "oid": "469",
+          "aid": "0000966516"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "‘AI 커닝 의혹’ 리트 만점자 이진우 씨, 수능 문답지 폐기 안 됐다",
+          "url": "https://n.news.naver.com/article/469/0000966522",
+          "oid": "469",
+          "aid": "0000966522"
+        },
+        {
+          "rank": 5,
+          "type": "headline",
+          "title": "이 대통령, APEC에서 \"北과 대화 문 다시 열려 전쟁 종식·평화 구축 논의로 발전하길\"",
+          "url": "https://n.news.naver.com/article/469/0000966523",
+          "oid": "469",
+          "aid": "0000966523"
+        },
+        {
+          "rank": 6,
+          "type": "headline",
+          "title": "'AI 커닝' 세무사 수석 합격자, 경찰 2차 출석",
+          "url": "https://n.news.naver.com/article/469/0000966526",
+          "oid": "469",
+          "aid": "0000966526"
+        }
+      ],
+      "count": 6
+    },
+    "머니투데이": {
+      "oid": "008",
+      "url": "https://media.naver.com/press/008",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "수능 국어영역, 작년보다 쉬웠다…\"독서·문학 지문 친숙한 소재 활용\"",
+          "url": "https://n.news.naver.com/article/008/0005443474",
+          "oid": "008",
+          "aid": "0005443474"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "'리트 만점자' 광진→송파구로 이동...'수능 시험지' 증거보전 요청",
+          "url": "https://n.news.naver.com/article/008/0005443508",
+          "oid": "008",
+          "aid": "0005443508"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "수능 수험장에서 재난문자 '윙윙'...22개 스마트폰 적발",
+          "url": "https://n.news.naver.com/article/008/0005443452",
+          "oid": "008",
+          "aid": "0005443452"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "\"장초반 사던 연기금 던진다\"...믿었던 반도체마저 '파란불'",
+          "url": "https://n.news.naver.com/article/008/0005443476",
+          "oid": "008",
+          "aid": "0005443476"
+        },
+        {
+          "rank": 5,
+          "type": "headline",
+          "title": "주가조작 혐의로 8년간 해외 도피…범LG家 구본현 구속 송치",
+          "url": "https://n.news.naver.com/article/008/0005443507",
+          "oid": "008",
+          "aid": "0005443507"
+        },
+        {
+          "rank": 6,
+          "type": "headline",
+          "title": "AI 안경으로 답안 받으면?…수능 부정행위 처벌 어디까지",
+          "url": "https://n.news.naver.com/article/008/0005443466",
+          "oid": "008",
+          "aid": "0005443466"
+        }
+      ],
+      "count": 6
+    },
+    "매일경제": {
+      "oid": "009",
+      "url": "https://media.naver.com/press/009",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "수능날 시험장 앞에서 발동동 여학생…냅다 손목시계 풀어준 의원님",
+          "url": "https://n.news.naver.com/article/009/0005766016",
+          "oid": "009",
+          "aid": "0005766016"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "“딱 1년 지나 버려질 뻔”…‘리트 만점’ 이진우 치대 보낸 수능 답안지 남았다",
+          "url": "https://n.news.naver.com/article/009/0005766034",
+          "oid": "009",
+          "aid": "0005766034"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "[속보] 경찰, 리트만점자 소재파악중…광진구 일대 수색",
+          "url": "https://n.news.naver.com/article/009/0005766004",
+          "oid": "009",
+          "aid": "0005766004"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "[속보] 교육부 “재난문자 발송으로 스마트폰  22개 적발”",
+          "url": "https://n.news.naver.com/article/009/0005766071",
+          "oid": "009",
+          "aid": "0005766071"
+        },
+        {
+          "rank": 5,
+          "type": "headline",
+          "title": "“해외 안가는데 환율 뭔 상관?”…생활비 16만원 절약효과 있다는데",
+          "url": "https://n.news.naver.com/article/009/0005766121",
+          "oid": "009",
+          "aid": "0005766121"
+        },
+        {
+          "rank": 6,
+          "type": "headline",
+          "title": "[단독] 수능 ‘단추 스티커’ 부착, 학생 자율에 맡겨…부정행위 방지 실효성 논란",
+          "url": "https://n.news.naver.com/article/009/0005765923",
+          "oid": "009",
+          "aid": "0005765923"
+        }
+      ],
+      "count": 6
+    },
+    "서울경제": {
+      "oid": "011",
+      "url": "https://media.naver.com/press/011",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "[2027 수능]교육부 차관 “위급재난문자 발송으로 부정행위 22명 적발”",
+          "url": "https://n.news.naver.com/article/011/0004683908",
+          "oid": "011",
+          "aid": "0004683908"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "리트 만점자 이진우 추정 인물, 상습 공갈·경찰 폭행 등 수차례 형사처벌",
+          "url": "https://n.news.naver.com/article/011/0004683923",
+          "oid": "011",
+          "aid": "0004683923"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "“월급 당장 올려줄게” 직원들 달래기 나섰다…주식도 얹어주겠다는 엔비디아",
+          "url": "https://n.news.naver.com/article/011/0004683902",
+          "oid": "011",
+          "aid": "0004683902"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "“더는 안 되겠다, 밤 10시 되면 회식 끝”…전 직원에 ‘술자리 3시간’ 지침 내린 日 기업, 왜?",
+          "url": "https://n.news.naver.com/article/011/0004683734",
+          "oid": "011",
+          "aid": "0004683734"
+        },
+        {
+          "rank": 5,
+          "type": "headline",
+          "title": "“서울에서 무슨 냄새가 나는 거지” 외신도 깜짝…가을에 퍼지는 냄새 정체는",
+          "url": "https://n.news.naver.com/article/011/0004683934",
+          "oid": "011",
+          "aid": "0004683934"
+        },
+        {
+          "rank": 6,
+          "type": "headline",
+          "title": "[르포] “단추에 스티커 붙이면 되죠”…AI 부정행위 논란에도 씩씩하게 수능장 향한 아이들",
+          "url": "https://n.news.naver.com/article/011/0004683931",
+          "oid": "011",
+          "aid": "0004683931"
+        }
+      ],
+      "count": 6
+    },
+    "파이낸셜뉴스": {
+      "oid": "014",
+      "url": "https://media.naver.com/press/014",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "수능 시작 전 위급 재난문자 울리자 스마트폰 22대 적발 [2027 수능]",
+          "url": "https://n.news.naver.com/article/014/0005606720",
+          "oid": "014",
+          "aid": "0005606720"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "어제 집 나선 뒤 모텔 거쳐 행방불명…'리트 만점' 이진우, 경찰 긴급 추적",
+          "url": "https://n.news.naver.com/article/014/0005606736",
+          "oid": "014",
+          "aid": "0005606736"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "\"하필 우리 아이 수능에\"…부정행위 점검 강화에 수험생·학부모 '뒤숭숭' [2027 수능]",
+          "url": "https://n.news.naver.com/article/014/0005606724",
+          "oid": "014",
+          "aid": "0005606724"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "오세훈 \"1100억원 투입 특검 실패시 누가 책임?\"",
+          "url": "https://n.news.naver.com/article/014/0005606748",
+          "oid": "014",
+          "aid": "0005606748"
+        },
+        {
+          "rank": 5,
+          "type": "headline",
+          "title": "데이식스 원필, 한강뷰 55.9억 아파트 매입…대출 없이 전액 현금",
+          "url": "https://n.news.naver.com/article/014/0005606583",
+          "oid": "014",
+          "aid": "0005606583"
+        },
+        {
+          "rank": 6,
+          "type": "headline",
+          "title": "\"귀지 탓이겠지\" 하다간...2주 놓치면 청력 영영 잃는다 [헬스톡]",
+          "url": "https://n.news.naver.com/article/014/0005606648",
+          "oid": "014",
+          "aid": "0005606648"
+        }
+      ],
+      "count": 6
+    },
+    "한국경제": {
+      "oid": "015",
+      "url": "https://media.naver.com/press/015",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "[단독] '영훈고 보관' 이진우 수능 시험지…고발인 '보전' 요청",
+          "url": "https://n.news.naver.com/article/015/0005355721",
+          "oid": "015",
+          "aid": "0005355721"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "[속보] 경찰, 행방불명 '리트 만점자' 광진→송파→강동 추적중",
+          "url": "https://n.news.naver.com/article/015/0005355780",
+          "oid": "015",
+          "aid": "0005355780"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "[단독] 수석은커녕 189명 중 150등…'6개월 합격' 감평사의 해명",
+          "url": "https://n.news.naver.com/article/015/0005355673",
+          "oid": "015",
+          "aid": "0005355673"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "\"내년 '3000조원' 쏟아진다\"…삼전닉스에 또 '초대형 호재'",
+          "url": "https://n.news.naver.com/article/015/0005355775",
+          "oid": "015",
+          "aid": "0005355775"
+        },
+        {
+          "rank": 5,
+          "type": "headline",
+          "title": "\"어머니 장례 치르러 왔다가\"…무심코 산 복권에 '5억 대박' [어쩌다 로또]",
+          "url": "https://n.news.naver.com/article/015/0005355772",
+          "oid": "015",
+          "aid": "0005355772"
+        },
+        {
+          "rank": 6,
+          "type": "headline",
+          "title": "\"이건 폭행 아닌가요?\"…아이돌 출국길 여성 팬 '퍽' 밀친 男 [이러쿵저러쿵]",
+          "url": "https://n.news.naver.com/article/015/0005355763",
+          "oid": "015",
+          "aid": "0005355763"
+        }
+      ],
+      "count": 6
+    },
+    "헤럴드경제": {
+      "oid": "016",
+      "url": "https://media.naver.com/press/016",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "“위급재난문자 발송으로 스마트폰 22개 적발”[세상&]",
+          "url": "https://n.news.naver.com/article/016/0002725641",
+          "oid": "016",
+          "aid": "0002725641"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "‘리트냥이’ 이진우 소재 미스터리…경찰 광진구 일대 수색 [세상&]",
+          "url": "https://n.news.naver.com/article/016/0002725610",
+          "oid": "016",
+          "aid": "0002725610"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "앤트로픽 상장 뒤 외국인 코스피 귀환 촉각",
+          "url": "https://n.news.naver.com/article/016/0002725707",
+          "oid": "016",
+          "aid": "0002725707"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "李 “北 대화의 문 열려야”…北核 키 쥔 푸틴과 첫 대면",
+          "url": "https://n.news.naver.com/article/016/0002725741",
+          "oid": "016",
+          "aid": "0002725741"
+        },
+        {
+          "rank": 5,
+          "type": "headline",
+          "title": "오세훈 “조작기소 특검법 공포, 대통령이 자기 답안지 채점할 사람 고르는 셈”",
+          "url": "https://n.news.naver.com/article/016/0002725747",
+          "oid": "016",
+          "aid": "0002725747"
+        },
+        {
+          "rank": 6,
+          "type": "headline",
+          "title": "삼성전기 ‘홀로서기’ 가시화…구조 전환 성과",
+          "url": "https://n.news.naver.com/article/016/0002725723",
+          "oid": "016",
+          "aid": "0002725723"
+        }
+      ],
+      "count": 6
+    },
+    "이데일리": {
+      "oid": "018",
+      "url": "https://media.naver.com/press/018",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "'공개검증 불참' 이진우 행방묘연…경찰, 증거보전 신청(종합)",
+          "url": "https://n.news.naver.com/article/018/0006412410",
+          "oid": "018",
+          "aid": "0006412410"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "[속보]수능 재난문자에 스마트폰 22대 적발…”첨단기기 부정행위 아직 없어”",
+          "url": "https://n.news.naver.com/article/018/0006412393",
+          "oid": "018",
+          "aid": "0006412393"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "\"일반 안경인데 왜 잡아\" 소송 우려…수능 감독관들 '2억 보험' 들었다",
+          "url": "https://n.news.naver.com/article/018/0006412313",
+          "oid": "018",
+          "aid": "0006412313"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "공개검증 입시업체 \"이진우씨 안전 기원, 미움·조롱 멈춰달라\"",
+          "url": "https://n.news.naver.com/article/018/0006412456",
+          "oid": "018",
+          "aid": "0006412456"
+        },
+        {
+          "rank": 5,
+          "type": "headline",
+          "title": "머스크 \"운전대 없는 모델Y 낸다\"…스페이스X·테슬라 합병엔 \"아마도\"",
+          "url": "https://n.news.naver.com/article/018/0006412458",
+          "oid": "018",
+          "aid": "0006412458"
+        },
+        {
+          "rank": 6,
+          "type": "headline",
+          "title": "\"아들 수능 도시락 줘야하는데\"…교통사고 난 엄마, 순찰차로 이동",
+          "url": "https://n.news.naver.com/article/018/0006412455",
+          "oid": "018",
+          "aid": "0006412455"
+        }
+      ],
+      "count": 6
+    },
+    "아시아경제": {
+      "oid": "277",
+      "url": "https://media.naver.com/press/277",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "'배달비 0원' 사라진다…최소 주문금액 맞춰도 '2000원' 받는다는 KFC",
+          "url": "https://n.news.naver.com/article/277/0005844914",
+          "oid": "277",
+          "aid": "0005844914"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "\"후드티 모자 자르고, 뿔테 벗고\" 복장 터지는 수능[2027 수능]",
+          "url": "https://n.news.naver.com/article/277/0005845045",
+          "oid": "277",
+          "aid": "0005845045"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "엔비디아에 제대로 찍혔다…내년 '영업익 5조' 바라보는 이 회사[클릭 e종목]",
+          "url": "https://n.news.naver.com/article/277/0005844764",
+          "oid": "277",
+          "aid": "0005844764"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "\"삐\" 소리에 수능 시험장서 22개 스마트폰 적발…\"현재까지 시간 지연 사례는 없어\"[2027 수능]",
+          "url": "https://n.news.naver.com/article/277/0005845008",
+          "oid": "277",
+          "aid": "0005845008"
+        },
+        {
+          "rank": 5,
+          "type": "headline",
+          "title": "\"한국인 단골 아침 메뉴인데\"…\"위장 다 망가진다\" 의사들 경고한 건강식 정체",
+          "url": "https://n.news.naver.com/article/277/0005844954",
+          "oid": "277",
+          "aid": "0005844954"
+        },
+        {
+          "rank": 6,
+          "type": "headline",
+          "title": "'입시 역사상 최악의 세대'라는 08년생…수시부터 수능까지 대체 무슨 일이",
+          "url": "https://n.news.naver.com/article/277/0005844881",
+          "oid": "277",
+          "aid": "0005844881"
+        }
+      ],
+      "count": 6
+    },
+    "조선비즈": {
+      "oid": "366",
+      "url": "https://media.naver.com/press/366",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "교육부 차관 “재난문자로 시험장서 스마트폰 22개 적발…카메라 소지 여부 확인 중”",
+          "url": "https://n.news.naver.com/article/366/0001205922",
+          "oid": "366",
+          "aid": "0001205922"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "‘리트 만점’ 이진우 전과자였나… 공갈 혐의 징역살이 의혹",
+          "url": "https://n.news.naver.com/article/366/0001205908",
+          "oid": "366",
+          "aid": "0001205908"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "[2027 수능] EBS “국어, 작년 수능·9월 모의평가보다 쉽게 출제”",
+          "url": "https://n.news.naver.com/article/366/0001205933",
+          "oid": "366",
+          "aid": "0001205933"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "한한령 해제 수순… 중동 전쟁에 휘청인 K여행사 ‘14억 큰장’ 열린다",
+          "url": "https://n.news.naver.com/article/366/0001205905",
+          "oid": "366",
+          "aid": "0001205905"
+        },
+        {
+          "rank": 5,
+          "type": "headline",
+          "title": "경찰, ‘리트 만점자’ 수색… 광진구 → 송파구 → 강동구",
+          "url": "https://n.news.naver.com/article/366/0001205948",
+          "oid": "366",
+          "aid": "0001205948"
+        },
+        {
+          "rank": 6,
+          "type": "headline",
+          "title": "미성년 자녀 둔 기혼 여성 고용률 66.2%로 역대 최고",
+          "url": "https://n.news.naver.com/article/366/0001205946",
+          "oid": "366",
+          "aid": "0001205946"
+        }
+      ],
+      "count": 6
+    },
+    "연합뉴스": {
+      "oid": "001",
+      "url": "https://media.naver.com/press/001",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "[수능] 교육부 \"위급재난문자 발송으로 부정행위 22명 적발\"(종합)",
+          "url": "https://n.news.naver.com/article/001/0016451776",
+          "oid": "001",
+          "aid": "0016451776"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "[수능] EBS·입시업계 \"국어, 작년 수능보다 쉬워\"(종합)",
+          "url": "https://n.news.naver.com/article/001/0016451836",
+          "oid": "001",
+          "aid": "0016451836"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "LEET 만점자 추정인물 '고의 교통사고'로 실형…경찰 폭행도",
+          "url": "https://n.news.naver.com/article/001/0016451597",
+          "oid": "001",
+          "aid": "0016451597"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "[수능] 수험생 아들에 도시락주려다 교통사고 난 엄마 순찰차 이송",
+          "url": "https://n.news.naver.com/article/001/0016451177",
+          "oid": "001",
+          "aid": "0016451177"
+        },
+        {
+          "rank": 5,
+          "type": "headline",
+          "title": "연락두절 '해광호' AIS신호 사라지고 수색 시작까지 20시간 공백",
+          "url": "https://n.news.naver.com/article/001/0016451873",
+          "oid": "001",
+          "aid": "0016451873"
+        },
+        {
+          "rank": 6,
+          "type": "headline",
+          "title": "[수능] \"위급재난문자 못받아\" 주장 잇따라…정부 \"확인 사례 없어\"(종합)",
+          "url": "https://n.news.naver.com/article/001/0016451552",
+          "oid": "001",
+          "aid": "0016451552"
+        }
+      ],
+      "count": 6
+    },
+    "뉴시스": {
+      "oid": "003",
+      "url": "https://media.naver.com/press/003",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "교육부 \"시험장 스마트폰 22대 적발…시험 지연 사례 아직 없어\"[2027 수능]",
+          "url": "https://n.news.naver.com/article/003/0014332544",
+          "oid": "003",
+          "aid": "0014332544"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "국어, 작년·올해 9모보다 쉬웠다…독서·언매서 변별(종합)[2027 수능]",
+          "url": "https://n.news.naver.com/article/003/0014332826",
+          "oid": "003",
+          "aid": "0014332826"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "연락두절 '리트 만점자' 이진우, 광진→송파→강동…경찰 수색(종합)",
+          "url": "https://n.news.naver.com/article/003/0014332827",
+          "oid": "003",
+          "aid": "0014332827"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "美민주, 트럼프家 부패 조사 사실상 착수…이민단속·엡스타인 등도",
+          "url": "https://n.news.naver.com/article/003/0014332793",
+          "oid": "003",
+          "aid": "0014332793"
+        },
+        {
+          "rank": 5,
+          "type": "headline",
+          "title": "올해 필적 문구는 '끝없이 높은 하늘로 한없이 넓은 바다로'[2027 수능]",
+          "url": "https://n.news.naver.com/article/003/0014332628",
+          "oid": "003",
+          "aid": "0014332628"
+        },
+        {
+          "rank": 6,
+          "type": "headline",
+          "title": "李대통령 \"한반도 평화, 아태 공영 필수조건…北대화 다시 열려 전쟁 종식 기대\"",
+          "url": "https://n.news.naver.com/article/003/0014332755",
+          "oid": "003",
+          "aid": "0014332755"
+        }
+      ],
+      "count": 6
+    },
+    "뉴스1": {
+      "oid": "421",
+      "url": "https://media.naver.com/press/421",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "EBS·입시업체 \"수능 국어, 작년보다 쉬워…언어와 매체는 까다로워\"(종합)",
+          "url": "https://n.news.naver.com/article/421/0009298774",
+          "oid": "421",
+          "aid": "0009298774"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "교육부 \"수능 재난문자에 스마트폰 22대 적발…AI 기기 사례 없어\"",
+          "url": "https://n.news.naver.com/article/421/0009298555",
+          "oid": "421",
+          "aid": "0009298555"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "\"단추스티커 필요한 사람 손\" 감독관이 묻자…손 든 수험생 '0명'",
+          "url": "https://n.news.naver.com/article/421/0009298285",
+          "oid": "421",
+          "aid": "0009298285"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "경찰 '연락두절' 리트 만점자 광진구서 못 찾아…송파구 수색",
+          "url": "https://n.news.naver.com/article/421/0009298755",
+          "oid": "421",
+          "aid": "0009298755"
+        },
+        {
+          "rank": 5,
+          "type": "headline",
+          "title": "\"까마귀 영리하다더니\"…시각 바탕 의사결정 속도 인간보다 두배 빨라",
+          "url": "https://n.news.naver.com/article/421/0009298828",
+          "oid": "421",
+          "aid": "0009298828"
+        },
+        {
+          "rank": 6,
+          "type": "headline",
+          "title": "'AI 커닝' 세무사 수석, 경찰 2차 출석…디지털 포렌식 자료 선별",
+          "url": "https://n.news.naver.com/article/421/0009298712",
+          "oid": "421",
+          "aid": "0009298712"
+        }
+      ],
+      "count": 6
+    },
+    "YTN": {
+      "oid": "052",
+      "url": "https://media.naver.com/press/052",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "오늘 APEC 정상회의 본회의...오후에는 사상 첫 미중러 정상회담",
+          "url": "https://n.news.naver.com/article/052/0002435077",
+          "oid": "052",
+          "aid": "0002435077"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "'포옹 영접' vs 휑한 영접...영접의 정치학? [앵커리포트]",
+          "url": "https://n.news.naver.com/article/052/0002435080",
+          "oid": "052",
+          "aid": "0002435080"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "김정은, 함경남도 현지지도...북미회담 귀추 주목",
+          "url": "https://n.news.naver.com/article/052/0002435079",
+          "oid": "052",
+          "aid": "0002435079"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "김건희·한덕수 대법 선고 'D-DAY'...YTN 생중계",
+          "url": "https://n.news.naver.com/article/052/0002435086",
+          "oid": "052",
+          "aid": "0002435086"
+        },
+        {
+          "rank": 5,
+          "type": "headline",
+          "title": "'세무사 수석' 경찰 수사 급물살...추가 증거물 확보",
+          "url": "https://n.news.naver.com/article/052/0002435074",
+          "oid": "052",
+          "aid": "0002435074"
+        },
+        {
+          "rank": 6,
+          "type": "headline",
+          "title": "동영상 뉴스 재생시간 02:28",
+          "url": "https://n.news.naver.com/article/052/0002435073",
+          "oid": "052",
+          "aid": "0002435073"
+        }
+      ],
+      "count": 6
+    },
+    "SBS": {
+      "oid": "055",
+      "url": "https://media.naver.com/press/055",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "사라진 '리트 만점자' 이진우…광진구→송파구 수색",
+          "url": "https://n.news.naver.com/article/055/0001404208",
+          "oid": "055",
+          "aid": "0001404208"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "'AI 부정행위' 세무사 시험 수석, 경찰 2차 출석",
+          "url": "https://n.news.naver.com/article/055/0001404209",
+          "oid": "055",
+          "aid": "0001404209"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "\"한국 대통령과 너무 달랐다\"…일본 총리 의전 어땠길래",
+          "url": "https://n.news.naver.com/article/055/0001404200",
+          "oid": "055",
+          "aid": "0001404200"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "마운자로 싸서 일본서 마구 샀는데…\"공항 왔더니 반전\"",
+          "url": "https://n.news.naver.com/article/055/0001404128",
+          "oid": "055",
+          "aid": "0001404128"
+        },
+        {
+          "rank": 5,
+          "type": "headline",
+          "title": "밤 10시에 걸려온 '낯선 번호'…\"감사\" 뜻밖의 전화 보니",
+          "url": "https://n.news.naver.com/article/055/0001404157",
+          "oid": "055",
+          "aid": "0001404157"
+        },
+        {
+          "rank": 6,
+          "type": "headline",
+          "title": "동영상 뉴스 재생시간 01:03",
+          "url": "https://n.news.naver.com/article/055/0001404141",
+          "oid": "055",
+          "aid": "0001404141"
+        }
+      ],
+      "count": 6
+    },
+    "KBS": {
+      "oid": "056",
+      "url": "https://media.naver.com/press/056",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "수능 시험 진행…“재난문자로 스마트폰 22개 적발”",
+          "url": "https://n.news.naver.com/article/056/0012297165",
+          "oid": "056",
+          "aid": "0012297165"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "수능 출제위원장 “영어 1등급 비율 안정적 달성 예상”",
+          "url": "https://n.news.naver.com/article/056/0012297074",
+          "oid": "056",
+          "aid": "0012297074"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "AI 부정행위 막는다…국가자격시험에 ‘앞치마’ 도입·소지품 검사 강화",
+          "url": "https://n.news.naver.com/article/056/0012297119",
+          "oid": "056",
+          "aid": "0012297119"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "“우롱당하는 느낌”…리트 만점자 ‘노쇼’에 울먹인 강사 [현장영상]",
+          "url": "https://n.news.naver.com/article/056/0012297086",
+          "oid": "056",
+          "aid": "0012297086"
+        },
+        {
+          "rank": 5,
+          "type": "headline",
+          "title": "“전 세계가 날 주목해”…‘방중 관심’ 속 현지시찰 노출 [지금뉴스]",
+          "url": "https://n.news.naver.com/article/056/0012297191",
+          "oid": "056",
+          "aid": "0012297191"
+        },
+        {
+          "rank": 6,
+          "type": "headline",
+          "title": "동영상 뉴스 재생시간 01:55",
+          "url": "https://n.news.naver.com/article/056/0012297134",
+          "oid": "056",
+          "aid": "0012297134"
+        }
+      ],
+      "count": 6
+    },
+    "MBN": {
+      "oid": "057",
+      "url": "https://media.naver.com/press/057",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "[단독] 서울 중구 수능 수험장에서 전자기기 발견…응시자 3명 부정행위 여부 파악 중",
+          "url": "https://n.news.naver.com/article/057/0001978904",
+          "oid": "057",
+          "aid": "0001978904"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "작년 수능 '불영어' 의식했나…출제위원장 \"적정 난이도 유지 노력\"",
+          "url": "https://n.news.naver.com/article/057/0001978906",
+          "oid": "057",
+          "aid": "0001978906"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "일본 \"조국 입국 거부는 전과 때문…독도 방문과는 무관\" 해명",
+          "url": "https://n.news.naver.com/article/057/0001978876",
+          "oid": "057",
+          "aid": "0001978876"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "엔비디아 직원 56% \"젠슨황 돌아와 달라\"…후계자로 부사장 선두",
+          "url": "https://n.news.naver.com/article/057/0001978884",
+          "oid": "057",
+          "aid": "0001978884"
+        },
+        {
+          "rank": 5,
+          "type": "headline",
+          "title": "경찰, '리트 만점자' 2026학년도 수능 시험지 증거보전 요청",
+          "url": "https://n.news.naver.com/article/057/0001978918",
+          "oid": "057",
+          "aid": "0001978918"
+        },
+        {
+          "rank": 6,
+          "type": "headline",
+          "title": "박찬종 전 5선 국회의원 별세…생전 약속대로 시신기증",
+          "url": "https://n.news.naver.com/article/057/0001978920",
+          "oid": "057",
+          "aid": "0001978920"
+        }
+      ],
+      "count": 6
+    },
+    "MBC": {
+      "oid": "214",
+      "url": "https://media.naver.com/press/214",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "[속보] 전국 9개 시·도 수능시험장에서 22개 스마트폰 적발",
+          "url": "https://n.news.naver.com/article/214/0001536630",
+          "oid": "214",
+          "aid": "0001536630"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "[단독] \"세무사 수석도 우리 작품\"‥중국어 텔레그램 등 3건 경찰 수사 의뢰",
+          "url": "https://n.news.naver.com/article/214/0001536638",
+          "oid": "214",
+          "aid": "0001536638"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "'리트 만점자' 이진우 씨 실종신고 접수‥경찰, 광진구 일대 수색 중",
+          "url": "https://n.news.naver.com/article/214/0001536623",
+          "oid": "214",
+          "aid": "0001536623"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "정부, 오늘 수능부터 '부정행위 제보 시 1억 포상금' 추진",
+          "url": "https://n.news.naver.com/article/214/0001536576",
+          "oid": "214",
+          "aid": "0001536576"
+        },
+        {
+          "rank": 5,
+          "type": "headline",
+          "title": "한덕수·김건희 '운명의 날'‥선고 실시간 중계",
+          "url": "https://n.news.naver.com/article/214/0001536652",
+          "oid": "214",
+          "aid": "0001536652"
+        },
+        {
+          "rank": 6,
+          "type": "headline",
+          "title": "동영상 뉴스 재생시간 06:36",
+          "url": "https://n.news.naver.com/article/214/0001536614",
+          "oid": "214",
+          "aid": "0001536614"
+        }
+      ],
+      "count": 6
+    },
+    "연합뉴스TV": {
+      "oid": "422",
+      "url": "https://media.naver.com/press/422",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "[속보] 교육차관 \"위급재난문자로 부정행위 22명 적발…첨단기기 사용은 아냐\"",
+          "url": "https://n.news.naver.com/article/422/0000927758",
+          "oid": "422",
+          "aid": "0000927758"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "한덕수·김건희 오늘 대법 선고…TV 생중계",
+          "url": "https://n.news.naver.com/article/422/0000927778",
+          "oid": "422",
+          "aid": "0000927778"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "국토부, 이혜훈 반포 원펜타스 계약취소 요청",
+          "url": "https://n.news.naver.com/article/422/0000927734",
+          "oid": "422",
+          "aid": "0000927734"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "부산서 차로 안전봉 틈 뚫고 불쑥…테슬라 끼어들기에 뒤차 '식겁'",
+          "url": "https://n.news.naver.com/article/422/0000927784",
+          "oid": "422",
+          "aid": "0000927784"
+        },
+        {
+          "rank": 5,
+          "type": "headline",
+          "title": "\"빌린 돈 갚겠다\" 했더니…\"저와 함께 기부하시죠\"",
+          "url": "https://n.news.naver.com/article/422/0000927725",
+          "oid": "422",
+          "aid": "0000927725"
+        },
+        {
+          "rank": 6,
+          "type": "headline",
+          "title": "동영상 뉴스 재생시간 02:16",
+          "url": "https://n.news.naver.com/article/422/0000927774",
+          "oid": "422",
+          "aid": "0000927774"
+        }
+      ],
+      "count": 6
+    },
+    "JTBC": {
+      "oid": "437",
+      "url": "https://media.naver.com/press/437",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "교육부 \"수능 위급 재난문자 발송으로 22개 스마트폰 적발\"",
+          "url": "https://n.news.naver.com/article/437/0000521454",
+          "oid": "437",
+          "aid": "0000521454"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "실종 신고된 '리트 만점자'…광진구 숙박업소 마지막 행적",
+          "url": "https://n.news.naver.com/article/437/0000521443",
+          "oid": "437",
+          "aid": "0000521443"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "아들 수능 도시락 주러 가다 교통사고…엄마 태운 순찰차 달렸다",
+          "url": "https://n.news.naver.com/article/437/0000521457",
+          "oid": "437",
+          "aid": "0000521457"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "친구 아내·장모까지 '찰칵'…남편 외장하드 속 불법촬영물 '와르르'",
+          "url": "https://n.news.naver.com/article/437/0000521393",
+          "oid": "437",
+          "aid": "0000521393"
+        },
+        {
+          "rank": 5,
+          "type": "headline",
+          "title": "세무사 수석, 아이폰 복대에 숨겨 시험…집에 설치한 노트북과 연결",
+          "url": "https://n.news.naver.com/article/437/0000521428",
+          "oid": "437",
+          "aid": "0000521428"
+        },
+        {
+          "rank": 6,
+          "type": "headline",
+          "title": "동영상 뉴스 재생시간 00:46",
+          "url": "https://n.news.naver.com/article/437/0000521462",
+          "oid": "437",
+          "aid": "0000521462"
+        }
+      ],
+      "count": 6
+    },
+    "TV조선": {
+      "oid": "448",
+      "url": "https://media.naver.com/press/448",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "\"수능 검증 1시간 전 모텔서 나왔다…'리트 만점자' 이진우 실종\"",
+          "url": "https://n.news.naver.com/article/448/0000652001",
+          "oid": "448",
+          "aid": "0000652001"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "20대도 돌아섰다…李대통령 지지율 27.8% '급락'",
+          "url": "https://n.news.naver.com/article/448/0000652043",
+          "oid": "448",
+          "aid": "0000652043"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "조국 \"이재용은 日 방문 문제 없어\"…독도 재방문 예고",
+          "url": "https://n.news.naver.com/article/448/0000652004",
+          "oid": "448",
+          "aid": "0000652004"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "\"AI로 풀었다면 시험지 깨끗할 것\"…국힘, 작년 수능 시험지 보존 요구",
+          "url": "https://n.news.naver.com/article/448/0000652039",
+          "oid": "448",
+          "aid": "0000652039"
+        },
+        {
+          "rank": 5,
+          "type": "headline",
+          "title": "인천서 방사한 저어새, 16년 뒤 APEC 개최지 선전에 나타나",
+          "url": "https://n.news.naver.com/article/448/0000652026",
+          "oid": "448",
+          "aid": "0000652026"
+        },
+        {
+          "rank": 6,
+          "type": "headline",
+          "title": "'김창민 감독 살인 사건' 피고인 2명에 징역 12년·3년 선고",
+          "url": "https://n.news.naver.com/article/448/0000652013",
+          "oid": "448",
+          "aid": "0000652013"
+        }
+      ],
+      "count": 6
+    },
+    "채널A": {
+      "oid": "449",
+      "url": "https://media.naver.com/press/449",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "[속보]이 대통령 “北과 대화 문 열려 전쟁종식 기대”",
+          "url": "https://n.news.naver.com/article/449/0000368030",
+          "oid": "449",
+          "aid": "0000368030"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "수능 ‘위급재난문자’ 쐈더니…숨긴 스마트폰 22대 적발",
+          "url": "https://n.news.naver.com/article/449/0000368029",
+          "oid": "449",
+          "aid": "0000368029"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "리트 만점자 잠적에…당국 “신변우려 신고 접수”",
+          "url": "https://n.news.naver.com/article/449/0000368015",
+          "oid": "449",
+          "aid": "0000368015"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "“수정테이프에 카메라 부착했다”…세무사 수석 부정행위 수법 드러나",
+          "url": "https://n.news.naver.com/article/449/0000368002",
+          "oid": "449",
+          "aid": "0000368002"
+        },
+        {
+          "rank": 5,
+          "type": "headline",
+          "title": "현우진 “우리가 알던 수능 이제 끝…연기 검토하고 대통령이 결단해야”",
+          "url": "https://n.news.naver.com/article/449/0000368004",
+          "oid": "449",
+          "aid": "0000368004"
+        },
+        {
+          "rank": 6,
+          "type": "headline",
+          "title": "동영상 뉴스 재생시간 00:56",
+          "url": "https://n.news.naver.com/article/449/0000368011",
+          "oid": "449",
+          "aid": "0000368011"
+        }
+      ],
+      "count": 6
+    },
+    "프레시안": {
+      "oid": "002",
+      "url": "https://media.naver.com/press/002",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "'리트 만점' 이진우, 공갈범죄로 구치소 복역? 같이 복역했다는 재소자 증언 나왔다",
+          "url": "https://n.news.naver.com/article/002/0002466585",
+          "oid": "002",
+          "aid": "0002466585"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "[속보] 美 빅스텝 우려에 코스피 장중 5천선 또 무너졌다",
+          "url": "https://n.news.naver.com/article/002/0002466592",
+          "oid": "002",
+          "aid": "0002466592"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "민주당, 추경호 무죄에 항소 촉구…한덕수 선고 앞두고 전원 '비상대기'",
+          "url": "https://n.news.naver.com/article/002/0002466608",
+          "oid": "002",
+          "aid": "0002466608"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "오세훈 \"한강버스 허위사실? 범죄요건 하나도 해당 안 돼\"",
+          "url": "https://n.news.naver.com/article/002/0002466610",
+          "oid": "002",
+          "aid": "0002466610"
+        },
+        {
+          "rank": 5,
+          "type": "headline",
+          "title": "[속보] 공개검증한다던 '리트 만점' 이진우 '노쇼', 수능당일 폰 끄고 잠적",
+          "url": "https://n.news.naver.com/article/002/0002466577",
+          "oid": "002",
+          "aid": "0002466577"
+        },
+        {
+          "rank": 6,
+          "type": "headline",
+          "title": "[속보] '과징금 25억 체납' 전국 1위 김건희 모친 최은순, 올해는 명단서 빠져",
+          "url": "https://n.news.naver.com/article/002/0002466513",
+          "oid": "002",
+          "aid": "0002466513"
+        }
+      ],
+      "count": 6
+    },
+    "오마이뉴스": {
+      "oid": "047",
+      "url": "https://media.naver.com/press/047",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "한덕수 운명의 날... 12.3 내란 첫 판례 나온다",
+          "url": "https://n.news.naver.com/article/047/0002536470",
+          "oid": "047",
+          "aid": "0002536470"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "김건희 주가조작 사건, 13년 만에 최종 결론",
+          "url": "https://n.news.naver.com/article/047/0002536471",
+          "oid": "047",
+          "aid": "0002536471"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "추경호를 감옥에 넣고 싶다, 하지만",
+          "url": "https://n.news.naver.com/article/047/0002536472",
+          "oid": "047",
+          "aid": "0002536472"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "통일부 \"김정은 방중 특이 동향 없어, 북미정상회담 불발 단정 어려워\"",
+          "url": "https://n.news.naver.com/article/047/0002536479",
+          "oid": "047",
+          "aid": "0002536479"
+        },
+        {
+          "rank": 5,
+          "type": "headline",
+          "title": "정권은 바뀌어도 공기업 낙하산 인사는 그대로인가?",
+          "url": "https://n.news.naver.com/article/047/0002536477",
+          "oid": "047",
+          "aid": "0002536477"
+        },
+        {
+          "rank": 6,
+          "type": "headline",
+          "title": "장동혁·안철수의 '단죄론'에 윤상현·나경원 \"칼 거둬라\"",
+          "url": "https://n.news.naver.com/article/047/0002536461",
+          "oid": "047",
+          "aid": "0002536461"
+        }
+      ],
+      "count": 6
+    },
+    "노컷뉴스": {
+      "oid": "079",
+      "url": "https://media.naver.com/press/079",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "[속보] '수능 재난문자'로 22개 스마트폰 적발…다른 첨단기기는 없어",
+          "url": "https://n.news.naver.com/article/079/0004211530",
+          "oid": "079",
+          "aid": "0004211530"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "선생님 품에 안겨 '왈칵'…부정행위 논란 속 \"하던 대로만 해\"",
+          "url": "https://n.news.naver.com/article/079/0004211483",
+          "oid": "079",
+          "aid": "0004211483"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "野 \"李대통령, 억울하면 추경호처럼 재판서 무죄 받으라\"",
+          "url": "https://n.news.naver.com/article/079/0004211529",
+          "oid": "079",
+          "aid": "0004211529"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "김창민 감독 살인 사건…피고인 2명, 1심서 징역 12년·3년 선고",
+          "url": "https://n.news.naver.com/article/079/0004211561",
+          "oid": "079",
+          "aid": "0004211561"
+        },
+        {
+          "rank": 5,
+          "type": "headline",
+          "title": "\"쓰레기방 속 아들, 수염만 덥수룩\"…3년째 은둔 청년 어머니의 고백",
+          "url": "https://n.news.naver.com/article/079/0004211376",
+          "oid": "079",
+          "aid": "0004211376"
+        },
+        {
+          "rank": 6,
+          "type": "headline",
+          "title": "전국에 울린 10.5초 경보음…수능 '부정행위 방지' 첫 위급재난문자",
+          "url": "https://n.news.naver.com/article/079/0004211394",
+          "oid": "079",
+          "aid": "0004211394"
+        }
+      ],
+      "count": 6
+    },
+    "데일리안": {
+      "oid": "119",
+      "url": "https://media.naver.com/press/119",
+      "news": [
+        {
+          "rank": 1,
+          "type": "headline",
+          "title": "교육부 \"위급재난문자 발송 통해 스마트폰 소지 수험생 22명 적발\"",
+          "url": "https://n.news.naver.com/article/119/0003157110",
+          "oid": "119",
+          "aid": "0003157110"
+        },
+        {
+          "rank": 2,
+          "type": "headline",
+          "title": "'리트만점자' 이진우, 고의 사고로 242만원 갈취...경찰 폭행 전력까지?",
+          "url": "https://n.news.naver.com/article/119/0003157074",
+          "oid": "119",
+          "aid": "0003157074"
+        },
+        {
+          "rank": 3,
+          "type": "headline",
+          "title": "LG 오늘 인사 단행, 삼성전자도 발표 임박…연말 인사 본격화",
+          "url": "https://n.news.naver.com/article/119/0003157082",
+          "oid": "119",
+          "aid": "0003157082"
+        },
+        {
+          "rank": 4,
+          "type": "headline",
+          "title": "수험생 子에 도시락 배달하려다 교통사고…母, 경찰 도움으로 무사히 전달",
+          "url": "https://n.news.naver.com/article/119/0003157079",
+          "oid": "119",
+          "aid": "0003157079"
+        },
+        {
+          "rank": 5,
+          "type": "headline",
+          "title": "EBS \"올해 수능 국어 영역, 작년 수능·9월 모의평가보다 쉽게 출제\"",
+          "url": "https://n.news.naver.com/article/119/0003157128",
+          "oid": "119",
+          "aid": "0003157128"
+        },
+        {
+          "rank": 6,
+          "type": "headline",
+          "title": "한덕수·김건희 오늘 '운명의 날'…대법원 선고 생중계",
+          "url": "https://n.news.naver.com/article/119/0003156984",
+          "oid": "119",
+          "aid": "0003156984"
+        }
+      ],
+      "count": 6
+    }
+  },
+  "errors": {}
+}
